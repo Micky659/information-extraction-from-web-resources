@@ -1,0 +1,609 @@
+[  
+    {
+        "qid": "Q740437",
+        "name": "picture gallery",
+        "aliases": [
+            "pinacotheca",
+            "pinacoteca"
+        ],
+        "description": "public art gallery",
+        "label": ""
+    },
+    {
+        "qid": "Q812285",
+        "name": "Bavarian State Painting Collections",
+        "aliases": [
+            "BStGS",
+            "Bayerische Staatsgem\u00e4ldesammlungen",
+            "Centralgem\u00e4ldegaleriedirektion"
+        ],
+        "description": "artworks held by the Free State of Bavaria for Alte Pinakothek, Aschaffenburg, Bamberg, Bayreuth, Schleissheim and others",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q61509",
+        "name": "travel",
+        "aliases": [
+            "journey",
+            "to travel",
+            "World Travel",
+            "travelling",
+            "traveling",
+            "journey (travel)"
+        ],
+        "description": "movement of people between geographical locations",
+        "label": ""
+    },
+    {
+        "qid": "Q48282",
+        "name": "student",
+        "aliases": [
+            "pupils",
+            "pupil",
+            "students",
+            "Student",
+            "scl"
+        ],
+        "description": "learner, or someone who attends an educational institution",
+        "label": ""
+    },
+    {
+        "qid": "Q44",
+        "name": "beer",
+        "aliases": [
+            "brew",
+            "\ud83c\udf7a",
+            "\ud83c\udf7b"
+        ],
+        "description": "alcoholic drink",
+        "label": ""
+    },
+    {
+        "qid": "Q1221156",
+        "name": "federated state of Germany",
+        "aliases": [
+            "Land",
+            "Bundesland",
+            "States of Germany",
+            "BL",
+            "German federal state"
+        ],
+        "description": "administrative division of the Federal Republic of Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q160151",
+        "name": "price",
+        "aliases": "",
+        "description": "quantity of payment or compensation given by one party to another in return for goods or services",
+        "label": ""
+    },
+    {
+        "qid": "Q80973",
+        "name": "breakfast",
+        "aliases": "",
+        "description": "first meal eaten in the early morning",
+        "label": ""
+    },
+    {
+        "qid": "Q3957",
+        "name": "town",
+        "aliases": [
+            "small city"
+        ],
+        "description": "settlement that is smaller than a city but bigger than a large village (or a large borough in some areas)",
+        "label": ""
+    },
+    {
+        "qid": "Q2221906",
+        "name": "geographic location",
+        "aliases": [
+            "place",
+            "coordinates",
+            "geographical location",
+            "place (geography)",
+            "geographic point",
+            "site (geography)",
+            "geographic place",
+            "geographical place",
+            "setting",
+            "geographical sites",
+            "geographical site",
+            "location"
+        ],
+        "description": "point or an area on something's surface or elsewhere",
+        "label": ""
+    },
+    {
+        "qid": "Q4173974",
+        "name": "flavoring",
+        "aliases": [
+            "flavour",
+            "taste"
+        ],
+        "description": "Food additive used to change the taste or smell of food.",
+        "label": ""
+    },
+    {
+        "qid": "Q17516",
+        "name": "street art",
+        "aliases": "",
+        "description": "art that is public and temporary in public spaces",
+        "label": ""
+    },
+    {
+        "qid": "Q707669",
+        "name": "Bavaria",
+        "aliases": [
+            "Bavaria statue"
+        ],
+        "description": "Statue of Bavaria in Munich, Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q483501",
+        "name": "artist",
+        "aliases": "",
+        "description": "person who engages in any form of artistic creation or practice",
+        "label": ""
+    },
+    {
+        "qid": "Q1553259",
+        "name": "insight",
+        "aliases": [
+            "insights"
+        ],
+        "description": "understanding of a specific cause and effect in a specific context",
+        "label": ""
+    },
+    {
+        "qid": "Q177",
+        "name": "pizza",
+        "aliases": [
+            "pie",
+            "pizza pie"
+        ],
+        "description": "popular Italian dish with a flat dough-based base and toppings",
+        "label": ""
+    },
+    {
+        "qid": "Q56139",
+        "name": "liquor",
+        "aliases": [
+            "spirits",
+            "hard liquor",
+            "distilled drink",
+            "distilled beverage",
+            "spirit drink"
+        ],
+        "description": "alcoholic drink obtained by distillation",
+        "label": ""
+    },
+    {
+        "qid": "Q1107656",
+        "name": "garden",
+        "aliases": [
+            "gardens",
+            "Garden"
+        ],
+        "description": "planned space set aside for the display, cultivation, and enjoyment of plants",
+        "label": ""
+    },
+    {
+        "qid": "Q2312129",
+        "name": "delicacy",
+        "aliases": "",
+        "description": "food item that is considered highly desirable in certain cultures",
+        "label": ""
+    },
+    {
+        "qid": "Q704124",
+        "name": "Bavarian Forest National Park",
+        "aliases": [
+            "Nationalpark Bayerischer Wald"
+        ],
+        "description": "national park in Bavaria, Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q980",
+        "name": "Bavaria",
+        "aliases": [
+            "Free State of Bavaria",
+            "Bayern",
+            "Freistaat Bayern",
+            "Freistoot Bayern"
+        ],
+        "description": "federated state in the south of Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q570116",
+        "name": "tourist attraction",
+        "aliases": [
+            "visitor attraction",
+            "tourist spot",
+            "tourist place",
+            "attraction for tourists",
+            "POI for tourists",
+            "tourism attraction",
+            "touristic attraction"
+        ],
+        "description": "place of interest where tourists visit",
+        "label": ""
+    },
+    {
+        "qid": "Q131621",
+        "name": "House of Wittelsbach",
+        "aliases": [
+            "Wittelsbach Dynasty",
+            "Wittelsbach",
+            "Wittelsbacher"
+        ],
+        "description": "German noble family; 1180\u20131918, monarchs of Bavaria; 1214\u20131803, counts palatine of the Rhine",
+        "label": "ORG GPE"
+    },
+    {
+        "qid": "Q7937",
+        "name": "climate",
+        "aliases": [
+            "local climate"
+        ],
+        "description": "statistics of temperature, humidity, atmospheric pressure, wind, precipitation, atmospheric particle count and other meteorological elemental measurements in a given region over long periods",
+        "label": ""
+    },
+    {
+        "qid": "Q152526",
+        "name": "Berliner",
+        "aliases": "",
+        "description": "pastry",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q42973",
+        "name": "architect",
+        "aliases": "",
+        "description": "person trained to plan and design buildings, and oversee their construction",
+        "label": ""
+    },
+    {
+        "qid": "Q860861",
+        "name": "sculpture",
+        "aliases": [
+            "sculptures",
+            "piece of sculpture",
+            "sculptural work"
+        ],
+        "description": "three-dimensional work of art",
+        "label": ""
+    },
+    {
+        "qid": "Q251712",
+        "name": "Feldherrnhalle",
+        "aliases": [
+            "Field Marshall's Hall"
+        ],
+        "description": "monumental loggia on the Odeonsplatz in Munich, Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q33506",
+        "name": "museum",
+        "aliases": [
+            "museum-style institution",
+            "museal institution"
+        ],
+        "description": "institution that holds artifacts and other objects of scientific, artistic, cultural, historical, or other importance",
+        "label": ""
+    },
+    {
+        "qid": "Q29540",
+        "name": "Bavarian",
+        "aliases": [
+            "bar",
+            "Austro-Bavarian language",
+            "Bavarian language"
+        ],
+        "description": "major group of Upper German varieties spoken in the southeast of the German language area Bavaria",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q1778821",
+        "name": "cuisine",
+        "aliases": "",
+        "description": "characteristic style of cooking practices and traditions",
+        "label": ""
+    },
+    {
+        "qid": "Q4989906",
+        "name": "monument",
+        "aliases": [
+            "monuments"
+        ],
+        "description": "imposing structure created to commemorate a person or event, or used for that purpose",
+        "label": ""
+    },
+    {
+        "qid": "Q282",
+        "name": "wine",
+        "aliases": [
+            "vino",
+            "\ud83c\udf77"
+        ],
+        "description": "alcoholic drink typically made from grapes through the fermentation process",
+        "label": ""
+    },
+    {
+        "qid": "Q207694",
+        "name": "art museum",
+        "aliases": [
+            "museum of art",
+            "art museums",
+            "museums of art"
+        ],
+        "description": "building or space for the exhibition of art (for institution, use Q3196771)",
+        "label": ""
+    },
+    {
+        "qid": "Q703313",
+        "name": "Sour rye soup",
+        "aliases": [
+            "kyselo",
+            "West Slavic fermented cereal soups",
+            "\u017curek",
+            "\u017cur",
+            "zurek",
+            "zur"
+        ],
+        "description": "traditional West Slavic soup",
+        "label": ""
+    },
+    {
+        "qid": "Q13048507",
+        "name": "Bavarians",
+        "aliases": "",
+        "description": "people of Bavaria",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q11707",
+        "name": "restaurant",
+        "aliases": [
+            "eatery",
+            "eating house",
+            "restaurants",
+            "eateries",
+            "eating houses"
+        ],
+        "description": "single establishment which prepares and serves food, located in building",
+        "label": ""
+    },
+    {
+        "qid": "Q188",
+        "name": "German",
+        "aliases": [
+            "German language",
+            "de"
+        ],
+        "description": "West Germanic language spoken mainly in Central Europe",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q152281",
+        "name": "pilsner",
+        "aliases": [
+            "pilsener",
+            "pils",
+            "pilsen"
+        ],
+        "description": "type of pale lager",
+        "label": ""
+    },
+    {
+        "qid": "Q1726",
+        "name": "Munich",
+        "aliases": [
+            "M\u00fcnchen",
+            "Munchen",
+            "Muenchen",
+            "Minga",
+            "Monachium",
+            "M\u00fcnich"
+        ],
+        "description": "capital and most populous city of Bavaria, Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q183",
+        "name": "Germany",
+        "aliases": [
+            "Federal Republic of Germany",
+            "Deutschland",
+            "GER",
+            "BR Deutschland",
+            "DE",
+            "BRD",
+            "Bundesrepublik Deutschland",
+            "de",
+            "GFR"
+        ],
+        "description": "country in Central Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q132241",
+        "name": "festival",
+        "aliases": [
+            "Fiesta Day",
+            "Ecclesiastical Feast",
+            "festivity",
+            "feast",
+            "festival series"
+        ],
+        "description": "celebration that focuses upon a theme, and may run for hours to weeks; usually repeated regularily, eg. once a year",
+        "label": ""
+    },
+    {
+        "qid": "Q1580267",
+        "name": "Hans Hinrich Rundt",
+        "aliases": [
+            "Hans Hinrich Ruundt",
+            "Johann Rundt",
+            "Rundt",
+            "Ruundt",
+            "Rund",
+            "J. Rundt"
+        ],
+        "description": "German painter (1660-1750)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q57607",
+        "name": "Christmas market",
+        "aliases": [
+            "Christkindlmarkt",
+            "Christkindlesmarkt",
+            "Christkindlmarket",
+            "Weihnachtsmarkt"
+        ],
+        "description": "market, usually outdoor, associated with the celebration of Christmas",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q178512",
+        "name": "public transport",
+        "aliases": [
+            "public transportation",
+            "public transit",
+            "mass transit"
+        ],
+        "description": "shared transportation service for use by the general public",
+        "label": ""
+    },
+    {
+        "qid": "Q160525",
+        "name": "pretzel",
+        "aliases": [
+            "Bretzel",
+            "Pretzels"
+        ],
+        "description": "German baked pastry shaped into a knot",
+        "label": ""
+    },
+    {
+        "qid": "Q64",
+        "name": "Berlin",
+        "aliases": [
+            "Berlin, Germany",
+            "Berlin (Germany)",
+            "DE-BE"
+        ],
+        "description": "federal state, capital and largest city of Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q40050",
+        "name": "drink",
+        "aliases": [
+            "beverage",
+            "drinks",
+            "beverages"
+        ],
+        "description": "kind of liquid which is specifically prepared for human consumption",
+        "label": ""
+    },
+    {
+        "qid": "Q7802",
+        "name": "bread",
+        "aliases": [
+            "Breads & Buns"
+        ],
+        "description": "food made of flour and water",
+        "label": ""
+    },
+    {
+        "qid": "Q515",
+        "name": "city",
+        "aliases": [
+            "cities",
+            "cities and towns"
+        ],
+        "description": "large permanent human settlement",
+        "label": ""
+    },
+    {
+        "qid": "Q82794",
+        "name": "geographic region",
+        "aliases": [
+            "region",
+            "geographical region",
+            "place",
+            "delimited region",
+            "bounded region",
+            "bounded area",
+            "geographical area",
+            "geographic area",
+            "geographic zone",
+            "geographical zone"
+        ],
+        "description": "2D or 3D defined space on something, mainly in terrestrial and astrophysics sciences",
+        "label": ""
+    },
+    {
+        "qid": "Q8441",
+        "name": "man",
+        "aliases": [
+            "Gentleman",
+            "M.",
+            "male human",
+            "men"
+        ],
+        "description": "male adult human",
+        "label": ""
+    },
+    {
+        "qid": "Q2095",
+        "name": "food",
+        "aliases": [
+            "foodstuff",
+            "edibles",
+            "feed",
+            "chow",
+            "foodstuffs",
+            "sustenance",
+            "food item"
+        ],
+        "description": "any substance consumed to provide nutritional support for the body; form of energy stored in chemical",
+        "label": ""
+    },
+    {
+        "qid": "Q219239",
+        "name": "recipe",
+        "aliases": "",
+        "description": "a set of instructions for preparing a processed food item",
+        "label": ""
+    },
+    {
+        "qid": "Q102400",
+        "name": "Oktoberfest",
+        "aliases": [
+            "Beer fest",
+            "October fest",
+            "M\u00fcnchner Oktoberfest",
+            "Zum Schichtl",
+            "October party"
+        ],
+        "description": "world's largest Volks festival in Munich, Bavaria, Germany",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q458851",
+        "name": "Bavarian cuisine",
+        "aliases": [
+            "cuisine of Bavaria",
+            "Bavarian food"
+        ],
+        "description": "regional cuisine",
+        "label": "NORP"
+    }
+]

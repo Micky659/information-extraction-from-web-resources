@@ -1,0 +1,1893 @@
+[
+  [
+    "Germany is situated between the Baltic and North seas to the north, and the Alps to the south; it covers an area of 357,022 square kilometres (137,847 sq mi), with a population of almost 84 million within its 16 constituent states.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Various Germanic tribes have inhabited the northern parts of modern Germany since classical antiquity.",
+    {
+      "entities": [
+        [
+          68,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 962, the Kingdom of Germany formed the bulk of the Holy Roman Empire.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formal unification of Germany into the modern nation-state was commenced on 18 August 1866 with the North German Confederation Treaty establishing the Prussia-led North German Confederation later transformed in 1871 into the German Empire.",
+    {
+      "entities": [
+        [
+          22,
+          29,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the end of World War II in Europe and a period of Allied occupation, in 1949, Germany as a whole was organized into two separate polities with limited sovereignity: the Federal Republic of Germany, generally known as West Germany, and the German Democratic Republic, East Germany, while Berlin de jure continued its Four Power status.",
+    {
+      "entities": [
+        [
+          84,
+          91,
+          "ENTITY"
+        ],
+        [
+          175,
+          202,
+          "ENTITY"
+        ],
+        [
+          228,
+          235,
+          "ENTITY"
+        ],
+        [
+          278,
+          285,
+          "ENTITY"
+        ],
+        [
+          300,
+          302,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Federal Republic of Germany was a founding member of the European Economic Community and the European Union, while the German Democratic Republic was a communist Eastern Bloc state and member of the Warsaw Pact.",
+    {
+      "entities": [
+        [
+          4,
+          31,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the fall of communist led-government in East Germany, German reunification saw the former East German states join the Federal Republic of Germany on 3 October 1990—becoming a federal parliamentary republic.",
+    {
+      "entities": [
+        [
+          51,
+          58,
+          "ENTITY"
+        ],
+        [
+          124,
+          151,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is a great power with a strong economy; it has the largest economy in Europe, the world's fourth-largest economy by nominal GDP and the fifth-largest by PPP.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is a member of the United Nations, the European Union, NATO, the Council of Europe, the G7, the G20 and the OECD.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The English word Germany derives from the Latin Germania, which came into use after Julius Caesar adopted it for the peoples east of the Rhine.",
+    {
+      "entities": [
+        [
+          17,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The German term Deutschland, originally diutisciu land ('the German lands') is derived from deutsch (cf. Dutch), descended from Old High German diutisc 'of the people' (from diot or diota 'people'), originally used to distinguish the language of the common people from Latin and its Romance descendants.",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pre-human ancestors, the Danuvius guggenmosi, who were present in Germany over 11 million years ago, are theorized to be among the earliest ones to walk on two legs.",
+    {
+      "entities": [
+        [
+          66,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ancient humans were present in Germany at least 600,000 years ago.",
+    {
+      "entities": [
+        [
+          31,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From southern Scandinavia and northern Germany, they expanded south, east, and west, coming into contact with the Celtic, Iranian, Baltic, and Slavic tribes.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "By 100 AD, when Tacitus wrote Germania, Germanic tribes had settled along the Rhine and the Danube (the Limes Germanicus), occupying most of modern Germany.",
+    {
+      "entities": [
+        [
+          148,
+          155,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the invasion of the Huns in 375, and with the decline of Rome from 395, Germanic tribes moved farther southwest: the Franks established the Frankish Kingdom and pushed east to subjugate Saxony and Bavaria, and areas of what is today eastern Germany were inhabited by Western Slavic tribes.",
+    {
+      "entities": [
+        [
+          247,
+          254,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the Gründerzeit period following the unification of Germany, Bismarck's foreign policy as chancellor of Germany secured Germany's position as a great nation by forging alliances and avoiding war.",
+    {
+      "entities": [
+        [
+          55,
+          62,
+          "ENTITY"
+        ],
+        [
+          107,
+          114,
+          "ENTITY"
+        ],
+        [
+          123,
+          130,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, under Wilhelm II, Germany took an imperialistic course, leading to friction with neighbouring countries.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "At the Berlin Conference in 1884, Germany claimed several colonies including German East Africa, German South West Africa, Togoland, and Kamerun.",
+    {
+      "entities": [
+        [
+          34,
+          41,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Later, Germany further expanded its colonial empire to include holdings in the Pacific and China.",
+    {
+      "entities": [
+        [
+          7,
+          14,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the German Revolution (November 1918), Emperor Wilhelm II and the ruling princes abdicated their positions, and Germany was declared a federal republic.",
+    {
+      "entities": [
+        [
+          115,
+          122,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's new leadership signed the Treaty of Versailles in 1919, accepting defeat by the Allies.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany lost around 13% of its European territory and ceded all of its colonial possessions in Africa and the South Sea.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the subsequent struggle for power, communists seized power in Bavaria, but conservative elements elsewhere attempted to overthrow the Republic in the Kapp Putschcode: deu promoted to code: de . Street fighting in the major industrial centres, the occupation of the Ruhr by Belgian and French troops, and a period of hyperinflation followed.",
+    {
+      "entities": [
+        [
+          192,
+          194,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The worldwide Great Depression hit Germany in 1929.",
+    {
+      "entities": [
+        [
+          35,
+          42,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Nazi Party led by Adolf Hitler became the largest party in the Reichstag after a special election in 1932 and Hindenburg appointed Hitler as chancellor of Germany on 30 January 1933.",
+    {
+      "entities": [
+        [
+          159,
+          166,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On 23 March 1933, the Enabling Act gave Hitler unrestricted legislative power, overriding the constitution, and marked the beginning of Nazi Germany.",
+    {
+      "entities": [
+        [
+          141,
+          148,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A government-sponsored programme for economic renewal focused on public works, the most famous of which was the Autobahncode: deu promoted to code: de .[71]",
+    {
+      "entities": [
+        [
+          148,
+          150,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany also reacquired control of the Saarland in 1935, remilitarised the Rhineland in 1936, annexed Austria in 1938, annexed the Sudetenland in 1938 with the Munich Agreement, and in violation of the agreement occupied Czechoslovakia in March 1939.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On 1 September 1939, Germany invaded Poland, beginning World War II in Europe; Britain and France declared war on Germany on 3 September.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "ENTITY"
+        ],
+        [
+          114,
+          121,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the spring of 1940, Germany conquered Denmark and Norway, the Netherlands, Belgium, Luxembourg, and France, forcing the French government to sign an armistice.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "By 1942, Germany and its allies controlled most of continental Europe and North Africa, but following the Soviet victory at the Battle of Stalingrad, the Allied reconquest of North Africa and invasion of Italy in 1943, German forces suffered repeated military defeats.",
+    {
+      "entities": [
+        [
+          9,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1944, the Soviets pushed into Eastern Europe; the Western allies landed in France and entered Germany despite a final German counteroffensive.",
+    {
+      "entities": [
+        [
+          97,
+          104,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Following Hitler's suicide during the Battle of Berlin, Germany signed the surrender document on 8 May 1945, ending World War II in Europe and Nazi Germany.",
+    {
+      "entities": [
+        [
+          56,
+          63,
+          "ENTITY"
+        ],
+        [
+          148,
+          155,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Around 12 million ethnic Germans were expelled from across Eastern Europe, and Germany lost roughly one-quarter of its pre-war territory.[87]",
+    {
+      "entities": [
+        [
+          79,
+          86,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After Nazi Germany surrendered, the Allies partitioned Berlin and Germany's remaining territory into four occupation zones.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ENTITY"
+        ],
+        [
+          66,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The western sectors, controlled by France, the United Kingdom, and the United States, were merged on 23 May 1949 to form the Federal Republic of Germany (German: Bundesrepublik Deutschland); on 7 October 1949, the Soviet Zone became the German Democratic Republic (GDR) (German: Deutsche Demokratische Republik; DDR).",
+    {
+      "entities": [
+        [
+          125,
+          152,
+          "ENTITY"
+        ],
+        [
+          162,
+          188,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "They were informally known as West Germany and East Germany.",
+    {
+      "entities": [
+        [
+          35,
+          42,
+          "ENTITY"
+        ],
+        [
+          52,
+          59,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "East Germany selected East Berlin as its capital, while West Germany chose Bonn as a provisional capital, to emphasise its stance that the two-state solution was temporary.",
+    {
+      "entities": [
+        [
+          5,
+          12,
+          "ENTITY"
+        ],
+        [
+          61,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "West Germany was established as a federal parliamentary republic with a \"social market economy\".",
+    {
+      "entities": [
+        [
+          5,
+          12,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Starting in 1948 West Germany became a major recipient of reconstruction aid under the American Marshall Plan.",
+    {
+      "entities": [
+        [
+          22,
+          29,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Konrad Adenauer was elected the first federal chancellor of Germany in 1949.",
+    {
+      "entities": [
+        [
+          60,
+          67,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "West Germany joined NATO in 1955 and was a founding member of the European Economic Community.",
+    {
+      "entities": [
+        [
+          5,
+          12,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "East Germany was an Eastern Bloc state under political and military control by the Soviet Union via occupation forces and the Warsaw Pact.",
+    {
+      "entities": [
+        [
+          5,
+          12,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Although East Germany claimed to be a democracy, political power was exercised solely by leading members (Politbüro) of the communist-controlled Socialist Unity Party of Germany, supported by the Stasicode: deu promoted to code: de , an immense secret service.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "ENTITY"
+        ],
+        [
+          170,
+          177,
+          "ENTITY"
+        ],
+        [
+          229,
+          231,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin Wall, built in 1961, prevented East German citizens from escaping to West Germany, becoming a symbol of the Cold War.",
+    {
+      "entities": [
+        [
+          85,
+          92,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tensions between East and West Germany were reduced in the late 1960s by Chancellor Willy Brandt's Ostpolitik.",
+    {
+      "entities": [
+        [
+          31,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1989, Hungary decided to dismantle the Iron Curtain and open its border with Austria, causing the emigration of thousands of East Germans to West Germany via Hungary and Austria.",
+    {
+      "entities": [
+        [
+          149,
+          156,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In an effort to help retain East Germany as a state, the East German authorities eased border restrictions, but this actually led to an acceleration of the Wende reform process culminating in the Two Plus Four Treaty under which Germany regained full sovereignty.",
+    {
+      "entities": [
+        [
+          33,
+          40,
+          "ENTITY"
+        ],
+        [
+          229,
+          236,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "United Germany was considered the enlarged continuation of West Germany so it retained its memberships in international organisations.",
+    {
+      "entities": [
+        [
+          7,
+          14,
+          "ENTITY"
+        ],
+        [
+          64,
+          71,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Based on the Berlin/Bonn Act (1994), Berlin again became the capital of Germany, while Bonn obtained the unique status of a Bundesstadt (federal city) retaining some federal ministries.",
+    {
+      "entities": [
+        [
+          72,
+          79,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since reunification, Germany has taken a more active role in the European Union, signing the Maastricht Treaty in 1992 and the Lisbon Treaty in 2007, and co-founding the Eurozone.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany sent a peacekeeping force to secure stability in the Balkans and sent German troops to Afghanistan as part of a NATO effort to provide security in that country after the ousting of the Taliban.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is the seventh-largest country in Europe; bordering Denmark to the north, Poland and the Czech Republic to the east, Austria to the southeast, and Switzerland to the south-southwest.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is also bordered by the North Sea and, at the north-northeast, by the Baltic Sea.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The forested uplands of central Germany and the lowlands of northern Germany (lowest point: in the municipality Neuendorf-Sachsenbande, Wilstermarsch at 3.54 metres or 11.6 feet below sea level) are traversed by such major rivers as the Rhine, Danube and Elbe.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "ENTITY"
+        ],
+        [
+          69,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Most of Germany has a temperate climate, ranging from oceanic in the north to continental in the east and southeast.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From February 2019–2020, average monthly temperatures in Germany ranged from a low of 3.3 °C (37.9 °F) in January 2020 to a high of 19.8 °C (67.6 °F) in June 2019.",
+    {
+      "entities": [
+        [
+          57,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The territory of Germany can be divided into five terrestrial ecoregions: Atlantic mixed forests, Baltic mixed forests, Central European mixed forests, Western European broadleaf forests, and Alps conifer and mixed forests.",
+    {
+      "entities": [
+        [
+          17,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As of 2016[update] 51% of Germany's land area is devoted to agriculture, while 30% is forested and 14% is covered by settlements or infrastructure.",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The 16 national parks in Germany include the Jasmund National Park, the Vorpommern Lagoon Area National Park, the Müritz National Park, the Wadden Sea National Parks, the Harz National Park, the Hainich National Park, the Black Forest National Park, the Saxon Switzerland National Park, the Bavarian Forest National Park and the Berchtesgaden National Park.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "More than 400 zoos and animal parks operate in Germany.",
+    {
+      "entities": [
+        [
+          47,
+          54,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin Zoo, which opened in 1844, is the oldest in Germany, and claims the most comprehensive collection of species in the world.",
+    {
+      "entities": [
+        [
+          55,
+          62,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is a federal, parliamentary, representative democratic republic.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 1949, the party system has been dominated by the Christian Democratic Union and the Social Democratic Party of Germany.",
+    {
+      "entities": [
+        [
+          117,
+          124,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the 2017 German federal election, the right-wing populist Alternative for Germany gained enough votes to attain representation in the parliament for the first time.",
+    {
+      "entities": [
+        [
+          77,
+          84,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is a federation and comprises sixteen constituent states which are collectively referred to as Länder.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is divided into 401 districts (Kreise) at a municipal level; these consist of 294 rural districts and 107 urban districts.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has a civil law system based on Roman law with some references to Germanic law.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's supreme court system is specialised: for civil and criminal cases, the highest court of appeal is the inquisitorial Federal Court of Justice, and for other affairs the courts are the Federal Labour Court, the Federal Social Court, the Federal Finance Court and the Federal Administrative Court.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has a low murder rate with 1.18 murders per 100,000 as of 2016[update].",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has a network of 227 diplomatic missions abroad and maintains relations with more than 190 countries.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is a member of NATO, the OECD, the G7, the G20, the World Bank and the IMF.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany promotes the creation of a more unified European political, economic and security apparatus.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The governments of Germany and the United States are close political allies.",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After 1990, Germany and Russia worked together to establish a \"strategic partnership\" in which energy development became one of the most important factors.",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As a result of the cooperation, Germany imported most of its natural gas and crude oil from Russia.[152][153]",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The development policy of Germany is an independent area of foreign policy.",
+    {
+      "entities": [
+        [
+          26,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's military, the Bundeswehr, is organised into the Heer (Army and special forces KSK), Marine (Navy), Luftwaffe (Air Force), Zentraler Sanitätsdienst der Bundeswehr (Joint Medical Service), Streitkräftebasis (Joint Support Service) and Cyber- und Informationsraum (Cyber and Information Domain Service) branches.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to the Stockholm International Peace Research Institute, Germany was the fourth-largest exporter of major arms in the world from 2014 to 2018.",
+    {
+      "entities": [
+        [
+          67,
+          74,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The role of the Bundeswehr is described in the Constitution of Germany as defensive only.",
+    {
+      "entities": [
+        [
+          63,
+          70,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "But after a ruling of the Federal Constitutional Court in 1994, the term \"defence\" has been defined to not only include protection of the borders of Germany, but also crisis reaction and conflict prevention, or more broadly as guarding the security of Germany anywhere in the world.",
+    {
+      "entities": [
+        [
+          149,
+          156,
+          "ENTITY"
+        ],
+        [
+          252,
+          259,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has a social market economy with a highly skilled labour force, a low level of corruption, and a high level of innovation.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is part of the European single market which represents more than 450 million consumers.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany introduced the common European currency, the Euro, in 2002.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Being home to the modern car, the automotive industry in Germany is regarded as one of the most competitive and innovative in the world, and is the sixth-largest by production as of 2021.",
+    {
+      "entities": [
+        [
+          57,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The top ten exports of Germany are vehicles, machinery, chemical goods, electronic products, electrical equipments, pharmaceuticals, transport equipments, basic metals, food products, and rubber and plastics.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Of the world's 500 largest stock-market-listed companies measured by revenue in 2019, the Fortune Global 500, 29 are headquartered in Germany.",
+    {
+      "entities": [
+        [
+          134,
+          141,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "30 major Germany-based companies are included in the DAX, the German stock market index which is operated by Frankfurt Stock Exchange.",
+    {
+      "entities": [
+        [
+          9,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is recognised for its large portion of specialised small and medium enterprises, known as the Mittelstand model.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2018 Germany ranked fourth globally in terms of number of science and engineering research papers published.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Research institutions in Germany include the Max Planck Society, the Helmholtz Association, and the Fraunhofer Society and the Leibniz Association.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is the largest contributor to the European Space Agency.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With its central position in Europe, Germany is a transport hub for the continent.",
+    {
+      "entities": [
+        [
+          37,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2015[update], Germany was the world's seventh-largest consumer of energy.",
+    {
+      "entities": [
+        [
+          17,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is committed to the Paris Agreement and several other treaties promoting biodiversity, low emission standards, and water management.[205]",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is the ninth most visited country in the world as of 2017[update], with 37.4 million visits.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's most visited and popular landmarks include Cologne Cathedral, the Brandenburg Gate, the Reichstag, the Dresden Frauenkirche, Neuschwanstein Castle, Heidelberg Castle, the Wartburg, and Sanssouci Palace.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With a population of 80.2 million according to the 2011 German Census, rising to 83.7 million as of 2022[update], Germany is the most populous country in the European Union, the second most populous country in Europe after Russia, and the nineteenth most populous country in the world.",
+    {
+      "entities": [
+        [
+          114,
+          121,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since the 1970s, Germany's death rate has exceeded its birth rate.",
+    {
+      "entities": [
+        [
+          17,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, Germany is witnessing increased birth rates and migration rates since the beginning of the 2010s.",
+    {
+      "entities": [
+        [
+          9,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has the third oldest population in the world, with an average age of 47.4 years.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the United States, Germany is the second most popular immigration destination in the world.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The majority of migrants live in western Germany, in particular in urban areas.",
+    {
+      "entities": [
+        [
+          41,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2015, the Population Division of the United Nations Department of Economic and Social Affairs listed Germany as host to the second-highest number of international migrants worldwide, about 5% or 12 million of all 244 million migrants.",
+    {
+      "entities": [
+        [
+          104,
+          111,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As of 2019[update], Germany ranks seventh amongst EU countries in terms of the percentage of migrants in the country's population, at 13.1%.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has a number of large cities.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to the 2011 census, Christianity was the largest religion in Germany, with 66.8% of respondents identifying as Christian, of which 3.8% were not church members.",
+    {
+      "entities": [
+        [
+          71,
+          78,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "31.7% declared themselves as Protestants, including members of the Evangelical Church in Germany (which encompasses Lutheran, Reformed, and administrative or confessional unions of both traditions) and the free churches (Evangelische Freikirchen); 31.2% declared themselves as Roman Catholics, and Orthodox believers constituted 1.3%.",
+    {
+      "entities": [
+        [
+          89,
+          96,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Other religions comprise less than one percent of Germany's population.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Irreligion in Germany is strongest in the former East Germany, which used to be predominantly Protestant before the enforcement of state atheism, and in major metropolitan areas.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "ENTITY"
+        ],
+        [
+          54,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "German is the official and predominant spoken language in Germany.",
+    {
+      "entities": [
+        [
+          58,
+          65,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Recognised native minority languages in Germany are Danish, Low German, Low Rhenish, Sorbian, Romany, North Frisian and Saterland Frisian; they are officially protected by the European Charter for Regional or Minority Languages.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Responsibility for educational supervision in Germany is primarily organised within the individual states.",
+    {
+      "entities": [
+        [
+          46,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to an OECD report in 2014, Germany is the world's third leading destination for international study.",
+    {
+      "entities": [
+        [
+          37,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The established universities in Germany include some of the oldest in the world, with Heidelberg University (established in 1386) being the oldest.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the contemporary era Germany has developed eleven Universities of Excellence.",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's system of hospitals, called Krankenhäuser, dates from medieval times, and today, Germany has the world's oldest universal health care system, dating from Bismarck's social legislation of the 1880s.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ],
+        [
+          91,
+          98,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to the World Health Organization (WHO), Germany's health care system was 77% government-funded and 23% privately funded as of 2013[update].",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2014, Germany spent 11.3% of its GDP on health care.",
+    {
+      "entities": [
+        [
+          9,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany ranked 21st in the world in 2019 in life expectancy with 78.7 years for men and 84.8 years for women according to the WHO, and it had a very low infant mortality rate (4 per 1,000 live births).",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Obesity in Germany has been increasingly cited as a major health issue.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Historically, Germany has been called Das Land der Dichter und Denker ('the land of poets and thinkers'), because of the major role its scientists, writers and philosophers have played in the development of Western thought.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A global opinion poll for the BBC revealed that Germany is recognised for having the most positive influence in the world in 2013 and 2014.",
+    {
+      "entities": [
+        [
+          48,
+          55,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is well known for such folk festival traditions as the Oktoberfest and Christmas customs, which include Advent wreaths, Christmas pageants, Christmas trees, Stollen cakes, and other practices.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As of 2016[update] UNESCO inscribed 41 properties in Germany on the World Heritage List.",
+    {
+      "entities": [
+        [
+          53,
+          60,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are a number of public holidays in Germany determined by each state; 3 October has been a national day of Germany since 1990, celebrated as the Tag der Deutschen Einheit (German Unity Day).",
+    {
+      "entities": [
+        [
+          41,
+          48,
+          "ENTITY"
+        ],
+        [
+          112,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As of 2013, Germany was the second-largest music market in Europe, and fourth-largest in the world.",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "DJs and artists of the techno and house music scenes of Germany have become well known (e.g. Paul van Dyk, Felix Jaehn, Paul Kalkbrenner, Robin Schulz and Scooter).",
+    {
+      "entities": [
+        [
+          56,
+          63,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Architectural contributions from Germany include the Carolingian and Ottonian styles, which were precursors of Romanesque.",
+    {
+      "entities": [
+        [
+          33,
+          40,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Brick Gothic is a distinctive medieval style that evolved in Germany.",
+    {
+      "entities": [
+        [
+          61,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vernacular architecture in Germany is often identified by its timber framing (Fachwerk) traditions and varies across regions, and among carpentry styles.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When industrialisation spread across Europe, classicism and a distinctive style of historicism developed in Germany, sometimes referred to as Gründerzeit style.",
+    {
+      "entities": [
+        [
+          108,
+          115,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Expressionist architecture developed in the 1910s in Germany and influenced Art Deco and other modern styles.",
+    {
+      "entities": [
+        [
+          53,
+          60,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany was particularly important in the early modernist movement: it is the home of Werkbund initiated by Hermann Muthesius (New Objectivity), and of the Bauhaus movement founded by Walter Gropius.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The largest internationally operating media companies in Germany are the Bertelsmann enterprise, Axel Springer SE and ProSiebenSat.1 Media.",
+    {
+      "entities": [
+        [
+          57,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's television market is the largest in Europe, with some 38 million TV households.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are more than 300 public and private radio stations in Germany; Germany's national radio network is the Deutschlandradio and the public Deutsche Welle is the main German radio and television broadcaster in foreign languages.",
+    {
+      "entities": [
+        [
+          61,
+          68,
+          "ENTITY"
+        ],
+        [
+          70,
+          77,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany's print market of newspapers and magazines is the largest in Europe.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany has a large video gaming market, with over 34 million players nationwide.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "East German film was dominated by state-owned film studio DEFA, while the dominant genre in West Germany was the Heimatfilm (\"homeland film\").",
+    {
+      "entities": [
+        [
+          97,
+          104,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2012 over 99% of all meat produced in Germany was either pork, chicken or beef.",
+    {
+      "entities": [
+        [
+          41,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2019, Germany was the ninth-largest wine producer in the world.[282]",
+    {
+      "entities": [
+        [
+          9,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The 2018 Michelin Guide awarded eleven restaurants in Germany three stars, giving the country a cumulative total of 300 stars.",
+    {
+      "entities": [
+        [
+          54,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Football is the most popular sport in Germany.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany is one of the leading motor sports countries in the world.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Germany was the last country to host both the summer and winter games in the same year, in 1936: the Berlin Summer Games and the Winter Games in Garmisch-Partenkirchen.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ]
+]

@@ -1,0 +1,4079 @@
+[
+  [
+    "Berlin (/bɜːrˈlɪn/ bur-LIN, German: [bɛɐ̯ˈliːn] (listen)) is the capital and largest city of Germany by both area and population.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "One of Germany's sixteen constituent states, Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's urban area, which has a population of around 4.5 million, is the second most populous urban area in Germany after the Ruhr.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin straddles the banks of the Spree, which flows into the Havel (a tributary of the Elbe) in the western borough of Spandau.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Due to its location in the European Plain, Berlin is influenced by a temperate seasonal climate.",
+    {
+      "entities": [
+        [
+          43,
+          49,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city lies in the Central German dialect area, the Berlin dialect being a variant of the Lusatian-New Marchian dialects.",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "First documented in the 13th century and at the crossing of two important historic trade routes, Berlin became the capital of the Margraviate of Brandenburg (1417–1701), Kingdom of Prussia (1701–1918), German Empire (1871–1918), Weimar Republic (1919–1933), and Nazi Germany (1933–1945).",
+    {
+      "entities": [
+        [
+          97,
+          103,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has served as a scientific, artistic and philosophical hub of the Enlightenment, Neoclassicism, and liberal revolution.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Gründerzeitcode: deu promoted to code: de  era's industrialization-induced economic boom multiplied Berlin's population rapidly.",
+    {
+      "entities": [
+        [
+          104,
+          110,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin in the roaring 1920s was the third-largest city in the world by population.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After World War II and its subsequent occupation by the victorious countries, the devastated city was divided; West Berlin became a de facto exclave of West Germany, surrounded by the Berlin Wall (from August 1961 to November 1989) and East German territory.",
+    {
+      "entities": [
+        [
+          116,
+          122,
+          "ENTITY"
+        ],
+        [
+          184,
+          190,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "East Berlin was declared capital of East Germany, while Bonn became the West German capital.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Following German reunification in 1990, Berlin once again became the capital of all of Germany.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is a world city of culture, politics, media and science.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin serves as a continental hub for air and rail traffic and has a highly complex public transportation network.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is home to world-renowned universities such as the Humboldt University, Technical University, Free University, University of the Arts, ESMT Berlin, Hertie School, and Bard College Berlin.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          147,
+          153,
+          "ENTITY"
+        ],
+        [
+          187,
+          193,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With Babelsberg being the world's first large-scale movie studio complex, Berlin is an increasingly popular location for international film productions.",
+    {
+      "entities": [
+        [
+          74,
+          80,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is also home to three World Heritage Sites: Museum Island; the Palaces and Parks of Potsdam and Berlin; and the Modernism Housing Estates.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          103,
+          109,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany.",
+    {
+      "entities": [
+        [
+          124,
+          130,
+          "ENTITY"
+        ],
+        [
+          165,
+          171,
+          "ENTITY"
+        ],
+        [
+          188,
+          194,
+          "ENTITY"
+        ],
+        [
+          210,
+          216,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has numerous museums, galleries, libraries, orchestras, and sporting events including Museum Island, the German Historical Museum, Jewish Museum, Natural History Museum, State Library, State Opera, Philharmonic, and the Berlin Marathon.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          227,
+          233,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin lies in northeastern Germany, east of the River Elbe, that once constituted, together with the River (Saxon or Thuringian) Saale (from their confluence at Barby onwards), the eastern border of the Frankish Realm.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The name Berlin has its roots in the language of West Slavic inhabitants of the area of today's Berlin, and may be related to the Old Polabian stem berl-/birl- (\"swamp\").",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ],
+        [
+          96,
+          102,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Of Berlin's twelve boroughs, five bear a (partly) Slavic-derived name: Pankow (the most populous), Steglitz-Zehlendorf, Marzahn-Hellersdorf, Treptow-Köpenick and Spandau (named Spandow until 1878).",
+    {
+      "entities": [
+        [
+          3,
+          9,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The earliest evidence of settlements in the area of today's Berlin are remnants of a house foundation dated to 1174, found in excavations in Berlin Mitte, and a wooden beam dated from approximately 1192.",
+    {
+      "entities": [
+        [
+          60,
+          66,
+          "ENTITY"
+        ],
+        [
+          141,
+          147,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The first written records of towns in the area of present-day Berlin date from the late 12th century.",
+    {
+      "entities": [
+        [
+          62,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Spandau is first mentioned in 1197 and Köpenick in 1209, although these areas did not join Berlin until 1920.",
+    {
+      "entities": [
+        [
+          91,
+          97,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The central part of Berlin can be traced back to two towns.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Cölln on the Fischerinsel is first mentioned in a 1237 document, and Berlin, across the Spree in what is now called the Nikolaiviertel, is referenced in a document from 1244.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During the 15th century, his successors established Berlin-Cölln as capital of the margraviate, and subsequent members of the Hohenzollern family ruled in Berlin until 1918, first as electors of Brandenburg, then as kings of Prussia, and eventually as German emperors.",
+    {
+      "entities": [
+        [
+          52,
+          58,
+          "ENTITY"
+        ],
+        [
+          155,
+          161,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1443, Frederick II Irontooth started the construction of a new royal palace in the twin city Berlin-Cölln.",
+    {
+      "entities": [
+        [
+          96,
+          102,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The protests of the town citizens against the building culminated in 1448, in the \"Berlin Indignation\" (\"Berliner Unwille\").",
+    {
+      "entities": [
+        [
+          83,
+          89,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From 1470, with the new elector Albrecht III Achilles, Berlin-Cölln became the new royal residence.",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Officially, the Berlin-Cölln palace became permanent residence of the Brandenburg electors of the Hohenzollerns from 1486, when John Cicero came to power.",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin-Cölln, however, had to give up its status as a free Hanseatic city.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Thirty Years' War between 1618 and 1648 devastated Berlin.",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "By 1700, approximately 30 percent of Berlin's residents were French, because of the Huguenot immigration.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin became the capital of the new Kingdom, replacing Königsberg.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1709, Berlin merged with the four cities of Cölln, Friedrichswerder, Friedrichstadt and Dorotheenstadt under the name Berlin, \"Haupt- und Residenzstadt Berlin\".",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ],
+        [
+          121,
+          127,
+          "ENTITY"
+        ],
+        [
+          155,
+          161,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Under the rule of Frederick II, Berlin became a center of the Enlightenment, but also, was briefly occupied during the Seven Years' War by the Russian army.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Following France's victory in the War of the Fourth Coalition, Napoleon Bonaparte marched into Berlin in 1806, but granted self-government to the city.",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Industrial Revolution transformed Berlin during the 19th century; the city's economy and population expanded dramatically, and it became the main railway hub and economic center of Germany.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Additional suburbs soon developed and increased the area and population of Berlin.",
+    {
+      "entities": [
+        [
+          75,
+          81,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1861, neighboring suburbs including Wedding, Moabit and several others were incorporated into Berlin.",
+    {
+      "entities": [
+        [
+          97,
+          103,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1871, Berlin became capital of the newly founded German Empire.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the early 20th century, Berlin had become a fertile ground for the German Expressionist movement.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1920, the Greater Berlin Act incorporated dozens of suburban cities, villages, and estates around Berlin into an expanded city.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ],
+        [
+          101,
+          107,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The act increased the area of Berlin from 66 to 883 km2 (25 to 341 sq mi).",
+    {
+      "entities": [
+        [
+          30,
+          36,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The population almost doubled, and Berlin had a population of around four million.",
+    {
+      "entities": [
+        [
+          35,
+          41,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During the Weimar era, Berlin underwent political unrest due to economic uncertainties but also became a renowned center of the Roaring Twenties.",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Albert Einstein rose to public prominence during his years in Berlin, being awarded the Nobel Prize for Physics in 1921.",
+    {
+      "entities": [
+        [
+          62,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The National Socialist regime embarked on monumental construction projects in Berlin as a way to express their power and authority through architecture.",
+    {
+      "entities": [
+        [
+          78,
+          84,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hitler envisioned Berlin's renewal projects were to turn the city into the new capital of the Greater Germanic Reich.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "NSDAP rule diminished Berlin's Jewish community from 160,000 (one-third of all Jews in the country) to about 80,000 due to emigration between 1933 and 1939.",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During World War II, large parts of Berlin were destroyed during 1943–45 Allied air raids and the 1945 Battle of Berlin.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "ENTITY"
+        ],
+        [
+          113,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the end of the war in Europe in May 1945, Berlin received large numbers of refugees from the Eastern provinces.",
+    {
+      "entities": [
+        [
+          48,
+          54,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sectors of the Western Allies (the United States, the United Kingdom, and France) formed West Berlin, while the Soviet sector formed East Berlin.",
+    {
+      "entities": [
+        [
+          98,
+          104,
+          "ENTITY"
+        ],
+        [
+          142,
+          148,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "All four Allies shared administrative responsibilities for Berlin.",
+    {
+      "entities": [
+        [
+          59,
+          65,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, in 1948, when the Western Allies extended the currency reform in the Western zones of Germany to the three western sectors of Berlin, the Soviet Union imposed a blockade on the access routes to and from West Berlin, which lay entirely inside Soviet-controlled territory.",
+    {
+      "entities": [
+        [
+          135,
+          141,
+          "ENTITY"
+        ],
+        [
+          217,
+          223,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin airlift, conducted by the three western Allies, overcame this blockade by supplying food and other supplies to the city from June 1948 to May 1949.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1949, the Federal Republic of Germany was founded in West Germany and eventually included all of the American, British and French zones, excluding those three countries' zones in Berlin, while the Marxist-Leninist German Democratic Republic was proclaimed in East Germany.",
+    {
+      "entities": [
+        [
+          182,
+          188,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "West Berlin officially remained an occupied city, but it politically was aligned with the Federal Republic of Germany despite West Berlin's geographic isolation.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ],
+        [
+          131,
+          137,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Airline service to West Berlin was granted only to American, British and French airlines.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "West Berlin was surrounded by East German territory, and East Germany proclaimed the Eastern part as its capital, a move the western powers did not recognize.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "East Berlin included most of the city's historic center.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1961, East Germany began to build the Berlin Wall around West Berlin, and events escalated to a tank standoff at Checkpoint Charlie.",
+    {
+      "entities": [
+        [
+          41,
+          47,
+          "ENTITY"
+        ],
+        [
+          65,
+          71,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "West Berlin was now de facto a part of West Germany with a unique legal status, while East Berlin was de facto a part of East Germany.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ],
+        [
+          91,
+          97,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "John F. Kennedy gave his \"Ich bin ein Berliner\" speech on 26 June 1963, in front of the Schöneberg city hall, located in the city's western part, underlining the US support for West Berlin.",
+    {
+      "entities": [
+        [
+          182,
+          188,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin was completely divided.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Although it was possible for Westerners to pass to the other side through strictly controlled checkpoints, for most Easterners, travel to West Berlin or West Germany was prohibited by the government of East Germany.",
+    {
+      "entities": [
+        [
+          143,
+          149,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1971, a Four-Power agreement guaranteed access to and from West Berlin by car or train through East Germany.",
+    {
+      "entities": [
+        [
+          67,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1989, with the end of the Cold War and pressure from the East German population, the Berlin Wall fell on 9 November and was subsequently mostly demolished.",
+    {
+      "entities": [
+        [
+          88,
+          94,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On 3 October 1990, the two parts of Germany were reunified as the Federal Republic of Germany, and Berlin again became a reunified city.",
+    {
+      "entities": [
+        [
+          99,
+          105,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Walter Momper, the mayor of West Berlin, became the first mayor of the reunified city in the interim.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "City-wide elections in December 1990 resulted in the first \"all Berlin\" mayor being elected to take office in January 1991, with the separate offices of mayors in East and West Berlin expiring by that time, and Eberhard Diepgen (a former mayor of West Berlin) became the first elected mayor of a reunited Berlin.",
+    {
+      "entities": [
+        [
+          64,
+          70,
+          "ENTITY"
+        ],
+        [
+          177,
+          183,
+          "ENTITY"
+        ],
+        [
+          252,
+          258,
+          "ENTITY"
+        ],
+        [
+          305,
+          311,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On 18 June 1994, soldiers from the United States, France and Britain marched in a parade which was part of the ceremonies to mark the withdrawal of allied occupation troops allowing a reunified Berlin (the last Russian troops departed on 31 August, while the final departure of Western Allies forces was on 8 September 1994).",
+    {
+      "entities": [
+        [
+          194,
+          200,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On 20 June 1991, the Bundestag (German Parliament) voted to move the seat of the German capital from Bonn to Berlin, which was completed in 1999.",
+    {
+      "entities": [
+        [
+          109,
+          115,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's 2001 administrative reform merged several boroughs, reducing their number from 23 to 12.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2006, the FIFA World Cup Final was held in Berlin.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin Brandenburg Airport (BER) opened in 2020, nine years later than planned, with Terminal 1 coming into service at the end of October, and flights to and from Tegel Airport ending in November.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A partial opening by the end of 2020 of the Humboldt Forum museum, housed in the reconstructed Berlin Palace, which had been announced in June, was postponed until March 2021.",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The legal basis for a combined state of Berlin and Brandenburg is different from other state fusion proposals.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, a clause added to the Basic Law in 1994, Article 118a, allows Berlin and Brandenburg to unify without federal approval, requiring a referendum and a ratification by both state parliaments.",
+    {
+      "entities": [
+        [
+          71,
+          77,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1996, there was an unsuccessful attempt of unifying the states of Berlin and Brandenburg.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Both share a common history, dialect and culture and in 2020, there are over 225.000 residents of Brandenburg that commute to Berlin.",
+    {
+      "entities": [
+        [
+          126,
+          132,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Though Berlin voted in favor by a small margin, largely based on support in former West Berlin, Brandenburg voters disapproved of the fusion by a large margin.",
+    {
+      "entities": [
+        [
+          7,
+          13,
+          "ENTITY"
+        ],
+        [
+          88,
+          94,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It failed largely due to Brandenburg voters not wanting to take on Berlin's large and growing public debt and fearing losing identity and influence to the capital.",
+    {
+      "entities": [
+        [
+          67,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is in northeastern Germany, in an area of low-lying marshy woodlands with a mainly flat topography, part of the vast Northern European Plain which stretches all the way from northern France to western Russia.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Spandau, a borough in the west of Berlin, the Spree empties into the river Havel, which flows from north to south through western Berlin.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ],
+        [
+          133,
+          139,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A series of lakes also feeds into the upper Spree, which flows through the Großer Müggelsee in eastern Berlin.",
+    {
+      "entities": [
+        [
+          103,
+          109,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Substantial parts of present-day Berlin extend onto the low plateaus on both sides of the Spree Valley.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The borough of Spandau lies partly within the Berlin Glacial Valley and partly on the Nauen Plain, which stretches to the west of Berlin.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ],
+        [
+          130,
+          136,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 2015, the Arkenberge hills in Pankow at 122 meters (400 ft) elevation, have been the highest point in Berlin.",
+    {
+      "entities": [
+        [
+          108,
+          114,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has an oceanic climate (Köppen: Cfb); the eastern part of the city has a slight continental influence (Dfb), one of the changes being the annual rainfall according to the air masses and the greater abundance during a period of the year.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Furthermore, Berlin is classified as a temperate continental climate (Dc) under the Trewartha climate scheme, as well as the suburbs of New York City, although the Köppen system puts them in different types.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's built-up area creates a microclimate, with heat stored by the city's buildings and pavement.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin and the surrounding state of Brandenburg are the warmest and driest regions in Germany.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hottest month in Berlin was July 1834, with a mean temperature of 23.0 °C (73.4 °F) and the coldest was January 1709, with a mean temperature of −13.2 °C (8.2 °F).",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's history has left the city with a polycentric organization and a highly eclectic array of architecture and buildings.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "All of the national governments based in Berlin –  the Kingdom of Prussia, the 2nd German Empire of 1871, the Weimar Republic, Nazi Germany, East Germany, as well as the reunified Germany –  initiated ambitious reconstruction programs, with each adding its own distinctive style to the city's architecture.",
+    {
+      "entities": [
+        [
+          41,
+          47,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin was devastated by air raids, fires, and street battles during the Second World War, and many of the buildings that had survived in both East and West were demolished during the postwar period.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Much ornamentation on prewar buildings was destroyed following modernist dogmas, and in both postwar systems, as well as in the reunified Berlin, many important heritage structures have been reconstructed, including the Forum Fridericianum along with, the State Opera (1955), Charlottenburg Palace (1957), the monumental buildings on Gendarmenmarkt (1980s), Kommandantur (2003) and also the project to reconstruct the baroque façades of the City Palace.",
+    {
+      "entities": [
+        [
+          138,
+          144,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Many new buildings have been inspired by their historical predecessors or the general classical style of Berlin, such as Hotel Adlon.",
+    {
+      "entities": [
+        [
+          105,
+          111,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Clusters of towers rise at various locations: Potsdamer Platz, the City West, and Alexanderplatz, the latter two delineating the former centers of East and West Berlin, with the first representing a new Berlin of the 21st century, risen from the wastes of no-man's land of the Berlin Wall.",
+    {
+      "entities": [
+        [
+          161,
+          167,
+          "ENTITY"
+        ],
+        [
+          203,
+          209,
+          "ENTITY"
+        ],
+        [
+          277,
+          283,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has five of the top 50 tallest buildings in Germany.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's second-largest and most popular park, the Großer Tiergarten, is located right in the center of the city.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Among famous streets, Unter den Linden and Friedrichstraße are found in the city's historic heart (and were included in the former East Berlin).",
+    {
+      "entities": [
+        [
+          136,
+          142,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Built in 1969, it is visible throughout most of the central districts of Berlin.",
+    {
+      "entities": [
+        [
+          73,
+          79,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Brandenburg Gate is an iconic landmark of Berlin and Germany; it stands as a symbol of eventful European history and of unity and peace.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The East Side Gallery is an open-air exhibition of art painted directly on the last existing portions of the Berlin Wall.",
+    {
+      "entities": [
+        [
+          109,
+          115,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Gendarmenmarkt is a neoclassical square in Berlin, the name of which derives from the headquarters of the famous Gens d'armes regiment located here in the 18th century.",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Konzerthaus (Concert Hall), home of the Berlin Symphony Orchestra, stands between the two cathedrals.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Also on the island and next to the Lustgarten and palace is Berlin Cathedral, emperor William II's ambitious attempt to create a Protestant counterpart to St. Peter's Basilica in Rome.",
+    {
+      "entities": [
+        [
+          60,
+          66,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "St. Hedwig's Cathedral is Berlin's Roman Catholic cathedral.",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Unter den Linden is a tree-lined east–west avenue from the Brandenburg Gate to the site of the former Berliner Stadtschloss, and was once Berlin's premier promenade.",
+    {
+      "entities": [
+        [
+          138,
+          144,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Friedrichstraße was Berlin's legendary street during the Golden Twenties.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It combines 20th-century traditions with the modern architecture of today's Berlin.",
+    {
+      "entities": [
+        [
+          76,
+          82,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Its name commemorates the uprisings in East Berlin of 17 June 1953.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Kurfürstendamm is home to some of Berlin's luxurious stores with the Kaiser Wilhelm Memorial Church at its eastern end on Breitscheidplatz.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Charlottenburg Palace, which was burnt out in the Second World War, is the largest historical palace in Berlin.",
+    {
+      "entities": [
+        [
+          104,
+          110,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Funkturm Berlin is a 150-meter-tall (490 ft) lattice radio tower in the fairground area, built between 1924 and 1926.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Oberbaumbrücke over the Spree river is Berlin's most iconic bridge, connecting the now-combined boroughs of Friedrichshain and Kreuzberg.",
+    {
+      "entities": [
+        [
+          43,
+          49,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It carries vehicles, pedestrians, and the U1 Berlin U-Bahn line.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the war, the repaired bridge served as a checkpoint and border crossing between the Soviet and American sectors, and later between East and West Berlin.",
+    {
+      "entities": [
+        [
+          151,
+          157,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the mid-1950s, it was closed to vehicles, and after the construction of the Berlin Wall in 1961, pedestrian traffic was heavily restricted.",
+    {
+      "entities": [
+        [
+          79,
+          85,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "At the end of 2018, the city-state of Berlin had 3.75 million registered inhabitants in an area of 891.1 km2 (344.1 sq mi).",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is the most populous city proper in the European Union.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2019, the urban area of Berlin had about 4.5 million inhabitants.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The entire Berlin-Brandenburg capital region has a population of more than 6 million in an area of 30,546 km2 (11,794 sq mi).",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2014, the city-state Berlin had 37,368 live births (+6.6%), a record number since 1991.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "More than 337,000 families with children under the age of 18 lived in Berlin.",
+    {
+      "entities": [
+        [
+          70,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Greater Berlin Act in 1920 incorporated many suburbs and surrounding cities of Berlin.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ],
+        [
+          83,
+          89,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It formed most of the territory that comprises modern Berlin and increased the population from 1.9 million to 4 million.",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Active immigration and asylum politics in West Berlin triggered waves of immigration in the 1960s and 1970s.",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is home to at least 180,000 Turkish and Turkish German residents, making it the largest Turkish community outside of Turkey.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Foreign residents of Berlin originate from about 190 countries.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin in 2009 was estimated to have 100,000 to 250,000 unregistered inhabitants.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Boroughs of Berlin with a significant number of migrants or foreign born population are Mitte, Neukölln and Friedrichshain-Kreuzberg.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "German is the official and predominant spoken language in Berlin.",
+    {
+      "entities": [
+        [
+          58,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is spoken in Berlin and the surrounding metropolitan area.",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The most commonly spoken foreign languages in Berlin are Turkish, Polish, English, Persian, Arabic, Italian, Bulgarian, Russian, Romanian, Kurdish, Serbo-Croatian, French, Spanish and Vietnamese.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Polish, English, Russian, and Vietnamese have more native speakers in East Berlin.",
+    {
+      "entities": [
+        [
+          75,
+          81,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The largest religious denomination recorded in 2010 was the Protestant regional church body—the Evangelical Church of Berlin-Brandenburg-Silesian Upper Lusatia (EKBO)—a united church.",
+    {
+      "entities": [
+        [
+          118,
+          124,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to the Berlin residents register, in 2018 14.9 percent were members of the Evangelical Church, and 8.5 percent were members of the Catholic Church.",
+    {
+      "entities": [
+        [
+          17,
+          23,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2009, approximately 249,000 Muslims were reported by the Office of Statistics to be members of mosques and Islamic religious organizations in Berlin, while in 2016, the newspaper Der Tagesspiegel estimated that about 350,000 Muslims observed Ramadan in Berlin.",
+    {
+      "entities": [
+        [
+          145,
+          151,
+          "ENTITY"
+        ],
+        [
+          256,
+          262,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is the seat of the Roman Catholic archbishop of Berlin and EKBO's elected chairperson is titled the bishop of EKBO.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Furthermore, Berlin is the seat of many Orthodox cathedrals, such as the Cathedral of St. Boris the Baptist, one of the two seats of the Bulgarian Orthodox Diocese of Western and Central Europe, and the Resurrection of Christ Cathedral of the Diocese of Berlin (Patriarchate of Moscow).",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ],
+        [
+          254,
+          260,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The faithful of the different religions and denominations maintain many places of worship in Berlin.",
+    {
+      "entities": [
+        [
+          93,
+          99,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Independent Evangelical Lutheran Church has eight parishes of different sizes in Berlin.",
+    {
+      "entities": [
+        [
+          85,
+          91,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are 36 Baptist congregations (within Union of Evangelical Free Church Congregations in Germany), 29 New Apostolic Churches, 15 United Methodist churches, eight Free Evangelical Congregations, four Churches of Christ, Scientist (1st, 2nd, 3rd, and 11th), six congregations of the Church of Jesus Christ of Latter-day Saints, an Old Catholic church, and an Anglican church in Berlin.",
+    {
+      "entities": [
+        [
+          380,
+          386,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has more than 80 mosques, ten synagogues, and two Buddhist temples.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since reunification on 3 October 1990, Berlin has been one of the three city states in Germany among the present 16 states of Germany.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's executive body is the Senate of Berlin (Senat von Berlin).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          41,
+          47,
+          "ENTITY"
+        ],
+        [
+          59,
+          65,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The total annual state budget of Berlin in 2015 exceeded €24.5 ($30.0) billion including a budget surplus of €205 ($240) million.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Governing Mayor is simultaneously Lord Mayor of the City of Berlin (Oberbürgermeister der Stadt) and Minister President of the State of Berlin (Ministerpräsident des Bundeslandes).",
+    {
+      "entities": [
+        [
+          64,
+          70,
+          "ENTITY"
+        ],
+        [
+          140,
+          146,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is subdivided into 12 boroughs or districts (Bezirke).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Each borough has several subdistricts or neighborhoods (Ortsteile), which have roots in much older municipalities that predate the formation of Greater Berlin on 1 October 1920.",
+    {
+      "entities": [
+        [
+          152,
+          158,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "At present, Berlin consists of 96 subdistricts, which are commonly made up of several smaller residential areas or quarters.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, the individual boroughs are not independent municipalities, but subordinate to the Senate of Berlin.",
+    {
+      "entities": [
+        [
+          102,
+          108,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin maintains official partnerships with 17 cities.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Town twinning between Berlin and other cities began with its sister city Los Angeles in 1967.",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "East Berlin's partnerships were canceled at the time of German reunification but later partially reestablished.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "West Berlin's partnerships had previously been restricted to the borough level.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During the Cold War era, the partnerships had reflected the different power blocs, with West Berlin partnering with capitals in the Western World and East Berlin mostly partnering with cities from the Warsaw Pact and its allies.",
+    {
+      "entities": [
+        [
+          93,
+          99,
+          "ENTITY"
+        ],
+        [
+          155,
+          161,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin participates in international city associations such as the Union of the Capitals of the European Union, Eurocities, Network of European Cities of Culture, Metropolis, Summit Conference of the World's Major Cities, and Conference of the World's Capital Cities.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is twinned with:",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 1987, Berlin also has an official partnership with Paris, France.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Every Berlin borough also established its own twin towns.",
+    {
+      "entities": [
+        [
+          6,
+          12,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is the capital of the Federal Republic of Germany.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is the seat of the German Chancellor (Prime Minister), housed in the Chancellery building, the Bundeskanzleramt.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Facing the Chancellery is the Bundestag, the German Parliament, housed in the renovated Reichstag building since the government's relocation to Berlin in 1998.",
+    {
+      "entities": [
+        [
+          144,
+          150,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The relocation of the federal government and Bundestag to Berlin was mostly completed in 1999.",
+    {
+      "entities": [
+        [
+          58,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Discussions about moving the remaining ministries and departments to Berlin continue.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin hosts in total 158 foreign embassies as well as the headquarters of many think tanks, trade unions, nonprofit organizations, lobbying groups, and professional associations.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Frequent official visits and diplomatic consultations among governmental representatives and national leaders are common in contemporary Berlin.",
+    {
+      "entities": [
+        [
+          137,
+          143,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2018, the GDP of Berlin totaled €147 billion, an increase of 3.1% over the previous year.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's economy is dominated by the service sector, with around 84% of all companies doing business in services.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2015, the total labor force in Berlin was 1.85 million.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From 2012 to 2015 Berlin, as a German state, had the highest annual employment growth rate.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Important economic sectors in Berlin include life sciences, transportation, information and communication technologies, media and music, advertising and design, biotechnology, environmental services, construction, e-commerce, retail, hotel business, and medical engineering.",
+    {
+      "entities": [
+        [
+          30,
+          36,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Within the Eurozone, Berlin has become a center for business relocation and international investments.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "For several years Berlin has been recognized as a major center of business founders.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2015, Berlin generated the most venture capital for young startup companies in Europe.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Among the 10 largest employers in Berlin are the City-State of Berlin, Deutsche Bahn, the hospital providers Charité and Vivantes, the Federal Government of Germany, the local public transport provider BVG, Siemens and Deutsche Telekom.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "ENTITY"
+        ],
+        [
+          63,
+          69,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Siemens, a Global 500 and DAX-listed company is partly headquartered in Berlin.",
+    {
+      "entities": [
+        [
+          72,
+          78,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Other DAX-listed companies headquartered in Berlin are the property company Deutsche Wohnen and the online food delivery service Delivery Hero.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Among the largest international corporations who have their German or European headquarters in Berlin are Bombardier Transportation, Securing Energy for Europe, Coca-Cola, Pfizer, Sony and TotalEnergies.",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As of 2018, the three largest banks headquartered in the capital were Deutsche Kreditbank, Landesbank Berlin and Berlin Hyp.",
+    {
+      "entities": [
+        [
+          102,
+          108,
+          "ENTITY"
+        ],
+        [
+          113,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mercedes-Benz Group manufactures cars, and BMW builds motorcycles in Berlin.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Pharmaceuticals division of Bayer and Berlin Chemie are major pharmaceutical companies in the city.",
+    {
+      "entities": [
+        [
+          42,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin had 788 hotels with 134,399 beds in 2014.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tourism figures have more than doubled within the last ten years and Berlin has become the third-most-visited city destination in Europe.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Some of the most visited places in Berlin include: Potsdamer Platz, Brandenburger Tor, the Berlin wall, Alexanderplatz, Museumsinsel, Fernsehturm, the East-Side Gallery, Schloss-Charlottenburg, Zoologischer Garten, Siegessäule, Gedenkstätte Berliner Mauer, Mauerpark, Botanical Garden, Französischer Dom, Deutscher Dom and Holocaust-Mahnmal.",
+    {
+      "entities": [
+        [
+          35,
+          41,
+          "ENTITY"
+        ],
+        [
+          91,
+          97,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to figures from the International Congress and Convention Association in 2015, Berlin became the leading organizer of conferences globally, hosting 195 international meetings.",
+    {
+      "entities": [
+        [
+          89,
+          95,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Some of these congress events take place on venues such as CityCube Berlin or the Berlin Congress Center (bcc).",
+    {
+      "entities": [
+        [
+          68,
+          74,
+          "ENTITY"
+        ],
+        [
+          82,
+          88,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Messe Berlin (also known as Berlin ExpoCenter City) is the main convention organizing company in the city.",
+    {
+      "entities": [
+        [
+          10,
+          16,
+          "ENTITY"
+        ],
+        [
+          32,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Several large-scale trade fairs like the consumer electronics trade fair IFA, the ILA Berlin Air Show, the Berlin Fashion Week (including the Premium Berlin and the Panorama Berlin), the Green Week, the Fruit Logistica, the transport fair InnoTrans, the tourism fair ITB and the adult entertainment and erotic fair Venus are held annually in the city, attracting a significant number of business visitors.",
+    {
+      "entities": [
+        [
+          86,
+          92,
+          "ENTITY"
+        ],
+        [
+          107,
+          113,
+          "ENTITY"
+        ],
+        [
+          150,
+          156,
+          "ENTITY"
+        ],
+        [
+          174,
+          180,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The creative arts and entertainment business is an important part of Berlin's economy.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2014, around 30,500 creative companies operated in the Berlin-Brandenburg metropolitan region, predominantly SMEs.",
+    {
+      "entities": [
+        [
+          58,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is an important European and German film industry hub.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The historic Babelsberg Studios and the production company UFA are adjacent to Berlin in Potsdam.",
+    {
+      "entities": [
+        [
+          79,
+          85,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is home to many magazine, newspaper, book, and scientific/academic publishers and their associated service industries.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In addition, around 20 news agencies, more than 90 regional daily newspapers and their websites, as well as the Berlin offices of more than 22 national publications such as Der Spiegel, and Die Zeit reinforce the capital's position as Germany's epicenter for influential debate.",
+    {
+      "entities": [
+        [
+          112,
+          118,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is the central location to several international and regional television and radio stations.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The public broadcaster RBB has its headquarters in Berlin as well as the commercial broadcasters MTV Europe and Welt.",
+    {
+      "entities": [
+        [
+          51,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "German international public broadcaster Deutsche Welle has its TV production unit in Berlin, and most national German broadcasters have a studio in the city, including ZDF and RTL.",
+    {
+      "entities": [
+        [
+          85,
+          91,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has Germany's largest number of daily newspapers, with numerous local broadsheets (Berliner Morgenpost, Berliner Zeitung, Der Tagesspiegel), and three major tabloids, as well as national dailies of varying sizes, each with a different political affiliation, such as Die Welt, Neues Deutschland, and Die Tageszeitung.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Exberliner, a monthly magazine, is Berlin's English-language periodical and La Gazette de Berlin a French-language newspaper.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "ENTITY"
+        ],
+        [
+          94,
+          100,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is also the headquarter of major German-language publishing houses like Walter de Gruyter, Springer, the Ullstein Verlagsgruppe (publishing group), Suhrkamp, and Cornelsen are all based in Berlin.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          196,
+          202,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to Mercer, Berlin ranked number 13 in the Quality of living city ranking in 2019.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to Monocle, Berlin occupies the position of the 6th-most-livable city in the world.",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Economist Intelligence Unit ranks Berlin number 21 of all global cities.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is number 8 at the Global Power City Index.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2019, Berlin has the best future prospects of all cities in Germany, according to HWWI and Berenberg Bank.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to the 2019 study by Forschungsinstitut Prognos, Berlin was ranked number 92 of all 401 regions in Germany.",
+    {
+      "entities": [
+        [
+          59,
+          65,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's transport infrastructure is highly complex, providing a diverse range of urban mobility.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "5,422 km (3,369 mi) of roads run through Berlin, of which 77 km (48 mi) are motorways (Autobahn).",
+    {
+      "entities": [
+        [
+          41,
+          47,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With 377 cars per 1000 residents in 2013 (570/1000 in Germany), Berlin as a Western global city has one of the lowest numbers of cars per capita.[citation needed]",
+    {
+      "entities": [
+        [
+          64,
+          70,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Long-distance rail lines connect Berlin with all of the major cities of Germany and with many cities in neighboring European countries.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Regional rail lines of the Verkehrsverbund Berlin-Brandenburg provide access to the surrounding regions of Brandenburg and to the Baltic Sea.",
+    {
+      "entities": [
+        [
+          43,
+          49,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin Hauptbahnhof is the largest grade-separated railway station in Europe.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is connected to the Elbe and Oder rivers via the Spree and the Havel rivers.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are no frequent passenger connections to and from Berlin by water, but some of the freight is transported via waterways.",
+    {
+      "entities": [
+        [
+          56,
+          62,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's largest harbour, the Westhafen, is located in the district of Moabit.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city has more than 10 stations that run buses to destinations throughout Germany and Europe, Zentraler Omnibusbahnhof Berlin being the biggest station.",
+    {
+      "entities": [
+        [
+          122,
+          128,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Public transport in Berlin has a long and complicated history because of the 20th-century division of the city, where movement between the two halves was not served.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is served by one commercial international airport: Berlin Brandenburg Airport (BER), located just outside Berlin's south-eastern border, in the state of Brandenburg.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          58,
+          64,
+          "ENTITY"
+        ],
+        [
+          113,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It began construction in 2006, with the intention of replacing Tegel Airport (TXL) and Schönefeld Airport (SXF) as the single commercial airport of Berlin.",
+    {
+      "entities": [
+        [
+          148,
+          154,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Before the opening of the BER in Brandenburg, Berlin was served by Tegel Airport and Schönefeld Airport.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2014, 67 airlines served 163 destinations in 50 countries from Berlin.",
+    {
+      "entities": [
+        [
+          66,
+          72,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Until 2008, Berlin was also served by the smaller Tempelhof Airport, which functioned as a city airport, with a convenient location near the city center, allowing for quick transit times between the central business district and the airport.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is well known for its highly developed bicycle lane system.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is estimated Berlin has 710 bicycles per 1000 residents.",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From 1865 until 1976, Berlin had an extensive pneumatic postal network, which at its peak in 1940, totaled 400 kilometers (250 mi) in length.",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The West Berlin system in operation and open for public use until 1963, and for government use until 1972.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The East Berlin system which inherited the Hauptelegraphenamt, the central hub of the system, was in operation until 1976.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's two largest energy provider for private households are the Swedish firm Vattenfall and the Berlin-based company GASAG.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          100,
+          106,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1993 the power grid connections in the Berlin-Brandenburg capital region were renewed.",
+    {
+      "entities": [
+        [
+          42,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In most of the inner districts of Berlin power lines are underground cables; only a 380 kV and a 110 kV line, which run from Reuter substation to the urban Autobahn, use overhead lines.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin 380-kV electric line is the backbone of the city's energy grid.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has a long history of discoveries in medicine and innovations in medical technology.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The modern history of medicine has been significantly influenced by scientists from Berlin.",
+    {
+      "entities": [
+        [
+          84,
+          90,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Charité is a joint institution of the Freie Universität Berlin and the Humboldt University of Berlin, including a wide range of institutes and specialized medical centers.",
+    {
+      "entities": [
+        [
+          60,
+          66,
+          "ENTITY"
+        ],
+        [
+          98,
+          104,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The World Health Summit and several international health-related conventions are held annually in Berlin.",
+    {
+      "entities": [
+        [
+          98,
+          104,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 2017, the digital television standard in Berlin and Germany is DVB-T2.",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has installed several hundred free public Wireless LAN sites across the capital since 2016.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As of 2014[update], Berlin had 878 schools, teaching 340,658 students in 13,727 classes and 56,787 trainees in businesses and elsewhere.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has a special bilingual school program in the Europaschule, in which children are taught the curriculum in German and a foreign language, starting in primary school and continuing in high school.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Französisches Gymnasium Berlin, which was founded in 1689 to teach the children of Huguenot refugees, offers (German/French) instruction.",
+    {
+      "entities": [
+        [
+          28,
+          34,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin-Brandenburg capital region is one of the most prolific centers of higher education and research in Germany and Europe.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Historically, 67 Nobel Prize winners are affiliated with the Berlin-based universities.",
+    {
+      "entities": [
+        [
+          61,
+          67,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are the Freie Universität Berlin (Free University of Berlin, FU Berlin) with about 33,000 students, the Humboldt Universität zu Berlin (HU Berlin) with 35,000 students, and the Technische Universität Berlin (TU Berlin) with 35,000 students.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "ENTITY"
+        ],
+        [
+          59,
+          65,
+          "ENTITY"
+        ],
+        [
+          70,
+          76,
+          "ENTITY"
+        ],
+        [
+          134,
+          140,
+          "ENTITY"
+        ],
+        [
+          145,
+          151,
+          "ENTITY"
+        ],
+        [
+          206,
+          212,
+          "ENTITY"
+        ],
+        [
+          217,
+          223,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The FU, the HU, the TU, and the Charité make up the Berlin University Alliance, which has received funding from the Excellence Strategy program of the German government.",
+    {
+      "entities": [
+        [
+          52,
+          58,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Universität der Künste (UdK) has about 4,000 students and ESMT Berlin is only one of four business schools in Germany with triple accreditation.[197]",
+    {
+      "entities": [
+        [
+          67,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin School of Economics and Law has an enrollment of about 11,000 students, the Berlin University of Applied Sciences and Technology of about 12,000 students, and the Hochschule für Technik und Wirtschaft (University of Applied Sciences for Engineering and Economics) of about 14,000 students.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ],
+        [
+          87,
+          93,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is one of the knowledge and innovation communities (KIC) of the European Institute of Innovation and Technology (EIT).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The KIC is based at the Center for Entrepreneurship at TU Berlin and has a focus in the development of IT industries.",
+    {
+      "entities": [
+        [
+          58,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "One of Europe's successful research, business and technology clusters is based at WISTA in Berlin-Adlershof, with more than 1,000 affiliated firms, university departments and scientific institutions.",
+    {
+      "entities": [
+        [
+          91,
+          97,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In addition to the university-affiliated libraries, the Staatsbibliothek zu Berlin is a major research library.",
+    {
+      "entities": [
+        [
+          76,
+          82,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "ResearchGate, a global social networking site for scientists, is based in Berlin.",
+    {
+      "entities": [
+        [
+          74,
+          80,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is known for its numerous cultural institutions, many of which enjoy international reputation.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Young people, international artists and entrepreneurs continued to settle in the city and made Berlin a popular entertainment center in the world.",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2005, Berlin was named \"City of Design\" by UNESCO and has been part of the Creative Cities Network ever since.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Many German and International films were shot in Berlin, including M, One, Two, Three, Cabaret, Christiane F., Possession, Octopussy, Wings of Desire, Run Lola Run, The Bourne Trilogy, Good Bye, Lenin!,",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is home to 138 museums and more than 400 art galleries.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Kupferstichkabinett Berlin (Museum of Prints and Drawings) is part of the Staatlichen Museen zu Berlin (Berlin State Museums) and the Kulturforum at Potsdamer Platz in the Tiergarten district of Berlin's Mitte district.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ENTITY"
+        ],
+        [
+          100,
+          106,
+          "ENTITY"
+        ],
+        [
+          108,
+          114,
+          "ENTITY"
+        ],
+        [
+          199,
+          205,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Museum für Naturkunde (Berlin's natural history museum) exhibits natural history near Berlin Hauptbahnhof.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ],
+        [
+          90,
+          96,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The site of Checkpoint Charlie, one of the most renowned crossing points of the Berlin Wall, is still preserved.",
+    {
+      "entities": [
+        [
+          80,
+          86,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cityscape of Berlin displays large quantities of urban street art.",
+    {
+      "entities": [
+        [
+          17,
+          23,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin Wall itself has become one of the largest open-air canvasses in the world.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin today is consistently rated as an important world city for street art culture.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has galleries which are quite rich in contemporary art.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's nightlife has been celebrated as one of the most diverse and vibrant of its kind.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Throughout the 1990s, people in their 20s from all over the world, particularly those in Western and Central Europe, made Berlin's club scene a premier nightlife venue.",
+    {
+      "entities": [
+        [
+          122,
+          128,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the fall of the Berlin Wall in 1989, many historic buildings in Mitte, the former city center of East Berlin, were illegally occupied and re-built by young squatters and became a fertile ground for underground and counterculture gatherings.",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "ENTITY"
+        ],
+        [
+          108,
+          114,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has a long history of gay culture, and is an important birthplace of the LGBT rights movement.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The most famous and largest are Berlin Pride, the Christopher Street Day, the Lesbian and Gay City Festival in Berlin-Schöneberg, the Kreuzberg Pride and Hustlaball.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "ENTITY"
+        ],
+        [
+          111,
+          117,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The annual Berlin International Film Festival (Berlinale) with around 500,000 admissions is considered to be the largest publicly attended film festival in the world.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is also well known for the cultural festival Berliner Festspiele, which includes the jazz festival JazzFest Berlin, and Young Euro Classic, the largest international festival of youth orchestras in the world.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          115,
+          121,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The annual Berlin Festival focuses on indie rock, electronic music and synthpop and is part of the International Berlin Music Week.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ENTITY"
+        ],
+        [
+          113,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Every year Berlin hosts one of the largest New Year's Eve celebrations in the world, attended by well over a million people.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is home to 44 theaters and stages.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With a seating capacity of 1,895 and a stage floor of 2,854 square meters (30,720 sq ft), the Friedrichstadt-Palast in Berlin Mitte is the largest show palace in Europe.",
+    {
+      "entities": [
+        [
+          119,
+          125,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has three major opera houses: the Deutsche Oper, the Berlin State Opera, and the Komische Oper.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          60,
+          66,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin State Opera on Unter den Linden opened in 1742 and is the oldest of the three.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are seven symphony orchestras in Berlin.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Berlin Philharmonic Orchestra is one of the preeminent orchestras in the world; it is housed in the Berliner Philharmonie near Potsdamer Platz on a street named for the orchestra's longest-serving conductor, Herbert von Karajan.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Konzerthausorchester Berlin was founded in 1952 as the orchestra for East Berlin.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "ENTITY"
+        ],
+        [
+          78,
+          84,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2018, the New York Times described Berlin as \"arguably the world capital of underground electronic music\".",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cuisine and culinary offerings of Berlin vary greatly.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "23 restaurants in Berlin have been awarded one or more Michelin stars in the Michelin Guide of 2021, which ranks the city at the top for the number of restaurants having this distinction in Germany.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is well known for its offerings of vegetarian and vegan cuisine and is home to an innovative entrepreneurial food scene promoting cosmopolitan flavors, local and sustainable ingredients, pop-up street food markets, supper clubs, as well as food festivals, such as Berlin Food Week.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          271,
+          277,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Typical Berliner fare include popular street food like the Currywurst (which gained popularity with postwar construction workers rebuilding the city), Buletten and the Berliner donut, known in Berlin as Pfannkuchen.",
+    {
+      "entities": [
+        [
+          193,
+          199,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is also home to a diverse gastronomy scene reflecting the immigrant history of the city.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The modern fast-food version of the doner kebab sandwich which evolved in Berlin in the 1970s, has since become a favorite dish in Germany and elsewhere in the world.",
+    {
+      "entities": [
+        [
+          74,
+          80,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zoologischer Garten Berlin, the older of two zoos in the city, was founded in 1844.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin's Botanischer Garten includes the Botanic Museum Berlin.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          56,
+          62,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Tiergarten park in Mitte, with landscape design by Peter Joseph Lenné, is one of Berlin's largest and most popular parks.",
+    {
+      "entities": [
+        [
+          85,
+          91,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Kreuzberg, the Viktoriapark provides a viewing point over the southern part of inner-city Berlin.",
+    {
+      "entities": [
+        [
+          93,
+          99,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Potsdam is on the southwestern periphery of Berlin.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Palaces and Parks of Potsdam and Berlin are the largest World Heritage Site in Germany.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is also well known for its numerous cafés, street musicians, beach bars along the Spree River, flea markets, boutique shops and pop-up stores, which are a source for recreation and leisure.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin has established a high-profile as a host city of major international sporting events.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2015 Berlin became the venue for the UEFA Champions League Final.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin will host the 2023 Special Olympics World Summer Games.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The annual Berlin Marathon –  a course that holds the most top-10 world record runs –  and the ISTAF are well-established athletic events in the city.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city of Berlin operates more than 60 public indoor and outdoor swimming pools.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Berlin is the largest Olympic training center in Germany.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Several professional clubs representing the most important spectator team sports in Germany have their base in Berlin.",
+    {
+      "entities": [
+        [
+          111,
+          117,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The oldest and most popular first division team based in Berlin is the football club Hertha BSC.",
+    {
+      "entities": [
+        [
+          57,
+          63,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The team represented Berlin as a founding member of the Bundesliga in 1963.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ]
+]

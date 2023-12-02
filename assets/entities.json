@@ -1,0 +1,6967 @@
+[
+    {
+        "qid": "Q2603675",
+        "name": "Die",
+        "aliases": "",
+        "description": "Japanese musician",
+        "label": ""
+    },
+    {
+        "qid": "Q621206",
+        "name": "disappointment",
+        "aliases": "",
+        "description": "feeling of dissatisfaction that follows the failure of expectations or hopes to manifest",
+        "label": ""
+    },
+    {
+        "qid": "Q842119",
+        "name": "Haro",
+        "aliases": "",
+        "description": "fictional robot and mascot from the Gundam media franchise",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q11255",
+        "name": "Microsoft Office",
+        "aliases": [
+            "MS Office",
+            "MSO",
+            "Office"
+        ],
+        "description": "suite of office programs developed by Microsoft",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q34302",
+        "name": "doubt",
+        "aliases": "",
+        "description": "status between belief and disbelief, involves uncertainty or distrust in an alleged fact, action, motive, or decision",
+        "label": ""
+    },
+    {
+        "qid": "Q20136",
+        "name": "root vegetable",
+        "aliases": [
+            "root vegetables",
+            "root crops"
+        ],
+        "description": "plant root used as a vegetable",
+        "label": ""
+    },
+    {
+        "qid": "Q4686406",
+        "name": "advantage",
+        "aliases": "",
+        "description": "adversary's advantage is a measure of how successfully it can attack a cryptographic algorithm, by distinguishing it from an idealized version of that type of algorithm",
+        "label": ""
+    },
+    {
+        "qid": "Q15",
+        "name": "Africa",
+        "aliases": [
+            "African continent",
+            "Ancient Libya"
+        ],
+        "description": "continent on the Earth's northern and southern hemispheres",
+        "label": "LOC"
+    },
+    {
+        "qid": "Q1653073",
+        "name": "christmas lights",
+        "aliases": [
+            "fairy lights",
+            "festive lights",
+            "Christmas lights"
+        ],
+        "description": "decorative lighting at Christmastime",
+        "label": ""
+    },
+    {
+        "qid": "Q4678319",
+        "name": "Adaalat",
+        "aliases": [
+            "Court"
+        ],
+        "description": "Indian television courtroom drama",
+        "label": ""
+    },
+    {
+        "qid": "Q333173",
+        "name": "surprise",
+        "aliases": [
+            "wonder"
+        ],
+        "description": "emotional state experienced as the result of an unexpected event",
+        "label": ""
+    },
+    {
+        "qid": "Q43417",
+        "name": "dip",
+        "aliases": "",
+        "description": "type of bodyweight exercise",
+        "label": ""
+    },
+    {
+        "qid": "Q210756",
+        "name": "The Thing",
+        "aliases": "",
+        "description": "1982 film directed by John Carpenter",
+        "label": ""
+    },
+    {
+        "qid": "Q35872",
+        "name": "boat",
+        "aliases": "",
+        "description": "smaller watercraft",
+        "label": ""
+    },
+    {
+        "qid": "Q1087850",
+        "name": "parabolic reflector",
+        "aliases": [
+            "dish",
+            "paraboloid reflector",
+            "paraboloidal reflector",
+            "parabolic mirror",
+            "parabolic collector",
+            "paraboloid mirror",
+            "paraboloid collector",
+            "paraboloid dish",
+            "parabolic dish",
+            "dish mirror",
+            "dish collector",
+            "dish reflector",
+            "paraboloidal mirror",
+            "paraboloidal dish",
+            "paraboloidal collector"
+        ],
+        "description": "reflector / collector that has the shape of a paraboloid",
+        "label": ""
+    },
+    {
+        "qid": "Q740437",
+        "name": "picture gallery",
+        "aliases": [
+            "pinacotheca",
+            "pinacoteca"
+        ],
+        "description": "public art gallery",
+        "label": ""
+    },
+    {
+        "qid": "Q11184",
+        "name": "Julian calendar",
+        "aliases": [
+            "Old Style",
+            "Christian calendar",
+            "old Western calendar",
+            "old Christian calendar"
+        ],
+        "description": "calendar introduced by Julius Caesar in 45 BC",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q2094083",
+        "name": "kayaking",
+        "aliases": "",
+        "description": "act of using a kayak",
+        "label": ""
+    },
+    {
+        "qid": "Q2757977",
+        "name": "FYI",
+        "aliases": "",
+        "description": "abbreviation of \"For Your Information\", which describes the text as informational",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q848532",
+        "name": "napkin",
+        "aliases": [
+            "face towelette"
+        ],
+        "description": "piece of cloth or paper used to wipe one's face or skin while eating",
+        "label": ""
+    },
+    {
+        "qid": "Q55064534",
+        "name": "Zusammen",
+        "aliases": "",
+        "description": "song by Die Fantastischen Vier",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q9264228",
+        "name": "Fr\u00fchst\u00fcck",
+        "aliases": "",
+        "description": "Polish rock band",
+        "label": ""
+    },
+    {
+        "qid": "Q2435869",
+        "name": "ReVamp",
+        "aliases": "",
+        "description": "Dutch metal band",
+        "label": ""
+    },
+    {
+        "qid": "Q1014852",
+        "name": "Und",
+        "aliases": "",
+        "description": "village in Hungary",
+        "label": ""
+    },
+    {
+        "qid": "Q2693730",
+        "name": "Eine",
+        "aliases": "",
+        "description": "section of Oudenaarde, Belgium",
+        "label": ""
+    },
+    {
+        "qid": "Q9081",
+        "name": "knowledge",
+        "aliases": [
+            "knowing"
+        ],
+        "description": "mental possession of information or skills, contributing to understanding",
+        "label": ""
+    },
+    {
+        "qid": "Q840343",
+        "name": "inhalation",
+        "aliases": [
+            "breathing in",
+            "air intake"
+        ],
+        "description": "flow of the respiratory current into an organism",
+        "label": ""
+    },
+    {
+        "qid": "Q11195",
+        "name": "\u00a9",
+        "aliases": [
+            "copyright sign",
+            "(C)",
+            "copr.",
+            "U+00A9",
+            "COPYRIGHT SIGN",
+            "&copr;"
+        ],
+        "description": "copyright symbol - the symbol used in copyright notices for works other than sound recordings",
+        "label": ""
+    },
+    {
+        "qid": "Q28877",
+        "name": "goods",
+        "aliases": [
+            "economic good",
+            "economic goods",
+            "merchandise",
+            "trade good"
+        ],
+        "description": "tangible and intangible thing, except labor tied services, that satisfies human wants and provides utility",
+        "label": ""
+    },
+    {
+        "qid": "Q690182",
+        "name": "contrast",
+        "aliases": "",
+        "description": "difference in luminance and/or color that makes objects visually distinguishable",
+        "label": ""
+    },
+    {
+        "qid": "Q1753003",
+        "name": "Closing Time",
+        "aliases": "",
+        "description": "1973 debut studio album by Tom Waits",
+        "label": ""
+    },
+    {
+        "qid": "Q720314",
+        "name": "Spring Framework",
+        "aliases": [
+            "Spring",
+            "springframework",
+            "ac",
+            "ApplicationContext"
+        ],
+        "description": "application framework for Java platform",
+        "label": ""
+    },
+    {
+        "qid": "Q468565",
+        "name": "Management",
+        "aliases": "",
+        "description": "2008 film directed by Stephen Belber",
+        "label": ""
+    },
+    {
+        "qid": "Q778505",
+        "name": "The Appointment",
+        "aliases": [
+            "Appointment"
+        ],
+        "description": "1969 film by Sidney Lumet",
+        "label": ""
+    },
+    {
+        "qid": "Q30093000",
+        "name": "Essential Products",
+        "aliases": [
+            "Essential Products Inc.",
+            "Essential"
+        ],
+        "description": "American technology company",
+        "label": ""
+    },
+    {
+        "qid": "Q222",
+        "name": "Albania",
+        "aliases": [
+            "Republic of Albania",
+            "Republika e Shqip\u00ebris\u00eb",
+            "Shqip\u00ebris\u00eb",
+            "\ud83c\udde6\ud83c\uddf1",
+            "ALB",
+            "People's Socialist Republic of Albania",
+            "People's Republic of Albania",
+            "Republika Popullore Socialiste e Shqiperise",
+            "Republika Popullore e Shqiperise",
+            "AL"
+        ],
+        "description": "country in southeastern Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q25235",
+        "name": "hour",
+        "aliases": [
+            "hours",
+            "60 minutes",
+            "sixty minutes",
+            "h",
+            "hr",
+            "hrs"
+        ],
+        "description": "unit of time",
+        "label": ""
+    },
+    {
+        "qid": "Q18028877",
+        "name": "MARK1",
+        "aliases": [
+            "MARK",
+            "Par-1c",
+            "Par1c",
+            "microtubule affinity regulating kinase 1"
+        ],
+        "description": "protein-coding gene in the species Homo sapiens",
+        "label": ""
+    },
+    {
+        "qid": "Q178024",
+        "name": "dough",
+        "aliases": [
+            "bread dough"
+        ],
+        "description": "paste used in cooking",
+        "label": ""
+    },
+    {
+        "qid": "Q1144560",
+        "name": "rate",
+        "aliases": [
+            "intensivity",
+            "rate of process",
+            "process rate",
+            "pace",
+            "speed",
+            "velocity"
+        ],
+        "description": "quantity of process intensivity (mathematics)",
+        "label": ""
+    },
+    {
+        "qid": "Q536168",
+        "name": "tablecloth",
+        "aliases": [
+            "table cloth",
+            "table cover"
+        ],
+        "description": "cloth used to cover a table",
+        "label": ""
+    },
+    {
+        "qid": "Q812285",
+        "name": "Bavarian State Painting Collections",
+        "aliases": [
+            "BStGS",
+            "Bayerische Staatsgem\u00e4ldesammlungen",
+            "Centralgem\u00e4ldegaleriedirektion"
+        ],
+        "description": "artworks held by the Free State of Bavaria for Alte Pinakothek, Aschaffenburg, Bamberg, Bayreuth, Schleissheim and others",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q847337",
+        "name": "confession",
+        "aliases": [
+            "admission",
+            "acknowledgement",
+            "self-disclosure",
+            "truth disclosure"
+        ],
+        "description": "statement made by a person or a group of persons acknowledging some personal fact",
+        "label": ""
+    },
+    {
+        "qid": "Q893",
+        "name": "lemonade",
+        "aliases": [
+            "squash"
+        ],
+        "description": "lemon-flavored beverage",
+        "label": ""
+    },
+    {
+        "qid": "Q191768",
+        "name": "pork meat",
+        "aliases": [
+            "pigmeat",
+            "pig meat",
+            "pork"
+        ],
+        "description": "meat from a pig",
+        "label": ""
+    },
+    {
+        "qid": "Q7015",
+        "name": "18th century",
+        "aliases": [
+            "18th-century",
+            "Eighteenth Century",
+            "History, 18th Century"
+        ],
+        "description": "century",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q9301841",
+        "name": "Bit",
+        "aliases": "",
+        "description": "former currency unit",
+        "label": ""
+    },
+    {
+        "qid": "Q145",
+        "name": "United Kingdom",
+        "aliases": [
+            "\ud83c\uddec\ud83c\udde7",
+            "UK",
+            "United Kingdom of Great Britain and Northern Ireland",
+            "U.K.",
+            "GBR",
+            "GB",
+            "U. K.",
+            "U K",
+            "G.B.",
+            "G. B.",
+            "G B",
+            "Great Britain",
+            "G.B.R.",
+            "G B R",
+            "Britain",
+            "Great Britain and Northern Ireland",
+            "The United Kingdom of Great Britain and Northern Ireland",
+            "The UK"
+        ],
+        "description": "country in north-west Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q61509",
+        "name": "travel",
+        "aliases": [
+            "journey",
+            "to travel",
+            "World Travel",
+            "travelling",
+            "traveling",
+            "journey (travel)"
+        ],
+        "description": "movement of people between geographical locations",
+        "label": ""
+    },
+    {
+        "qid": "Q1621107",
+        "name": "History",
+        "aliases": [
+            "The History Channel",
+            "History Channel",
+            "history.com"
+        ],
+        "description": "US-based international satellite and cable TV channel",
+        "label": ""
+    },
+    {
+        "qid": "Q47528",
+        "name": "radar",
+        "aliases": [
+            "RADAR",
+            "R.A.D.A.R.",
+            "Radio Detection and Ranging"
+        ],
+        "description": "object detection system based on radio waves",
+        "label": ""
+    },
+    {
+        "qid": "Q10998",
+        "name": "potato",
+        "aliases": [
+            "potato plant",
+            "tater",
+            "tattie",
+            "spud",
+            "Solanum tuberosum"
+        ],
+        "description": "species of plant (for the food, use Q16587531)",
+        "label": ""
+    },
+    {
+        "qid": "Q57838809",
+        "name": "Bahnw\u00e4rter Thiel",
+        "aliases": "",
+        "description": "techno club and cultural center",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q84",
+        "name": "London",
+        "aliases": [
+            "London, UK",
+            "London, United Kingdom",
+            "London, England",
+            "London UK",
+            "London U.K."
+        ],
+        "description": "capital and largest city of the United Kingdom",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q183252",
+        "name": "morphology",
+        "aliases": [
+            "build",
+            "body structure",
+            "body shape",
+            "form"
+        ],
+        "description": "study of external forms and structures of organisms",
+        "label": ""
+    },
+    {
+        "qid": "Q6501349",
+        "name": "parking lot",
+        "aliases": [
+            "car lot",
+            "parking facility",
+            "lot",
+            "car park",
+            "parking"
+        ],
+        "description": "cleared area that is intended for parking vehicles",
+        "label": ""
+    },
+    {
+        "qid": "Q11851202",
+        "name": "local union",
+        "aliases": [
+            "local",
+            "union branch",
+            "union lodge",
+            "lodge",
+            "local union chapter",
+            "local union branch"
+        ],
+        "description": "locally based trade union organization which forms part of a larger union",
+        "label": ""
+    },
+    {
+        "qid": "Q2085515",
+        "name": "minutes",
+        "aliases": [
+            "meeting minutes"
+        ],
+        "description": "written details of a meeting",
+        "label": ""
+    },
+    {
+        "qid": "Q1135620",
+        "name": "Wire",
+        "aliases": [
+            "Wir"
+        ],
+        "description": "English rock band",
+        "label": ""
+    },
+    {
+        "qid": "Q33767",
+        "name": "hand",
+        "aliases": "",
+        "description": "extremity at the end of an arm or forelimb",
+        "label": ""
+    },
+    {
+        "qid": "Q862867",
+        "name": "taste buds",
+        "aliases": [
+            "tastebud"
+        ],
+        "description": "anatomical structure containing gustatory cells",
+        "label": ""
+    },
+    {
+        "qid": "Q182832",
+        "name": "concert",
+        "aliases": [
+            "live music",
+            "gig",
+            "live concert"
+        ],
+        "description": "live performance of music",
+        "label": ""
+    },
+    {
+        "qid": "Q1551523",
+        "name": "Hall",
+        "aliases": [
+            "Hall family name",
+            "Hall surname"
+        ],
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q634",
+        "name": "planet",
+        "aliases": [
+            "planetary body",
+            "planets",
+            "planetary bodies"
+        ],
+        "description": "celestial body directly orbiting a star or stellar remnant",
+        "label": ""
+    },
+    {
+        "qid": "Q2326384",
+        "name": "Stadt",
+        "aliases": [
+            "Kreis 1 (Winterthur)"
+        ],
+        "description": "city district of Winterthur in the canton of Z\u00fcrich, Switzerland",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q40276",
+        "name": "multiplication",
+        "aliases": [
+            "\u00d7",
+            "times",
+            "multiply",
+            "product"
+        ],
+        "description": "mathematical operation",
+        "label": ""
+    },
+    {
+        "qid": "Q3278344",
+        "name": "The Videos",
+        "aliases": [
+            "Videos"
+        ],
+        "description": "1991 Roxette video",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q334445",
+        "name": "Abteilung",
+        "aliases": [
+            "detachment",
+            "department",
+            "battalion"
+        ],
+        "description": "German military term for detachment, department or battalion",
+        "label": ""
+    },
+    {
+        "qid": "Q48282",
+        "name": "student",
+        "aliases": [
+            "pupils",
+            "pupil",
+            "students",
+            "Student",
+            "scl"
+        ],
+        "description": "learner, or someone who attends an educational institution",
+        "label": ""
+    },
+    {
+        "qid": "Q2596997",
+        "name": "condiment",
+        "aliases": "",
+        "description": "substance added to food to enhance its flavor",
+        "label": ""
+    },
+    {
+        "qid": "Q6460735",
+        "name": "meal",
+        "aliases": [
+            "meals"
+        ],
+        "description": "eating that takes place at a specific time",
+        "label": ""
+    },
+    {
+        "qid": "Q3044",
+        "name": "Charlemagne",
+        "aliases": [
+            "Karolus Magnus",
+            "Charles the Great",
+            "Emperor Charlemagne",
+            "Karl the Great",
+            "Carolus Magnus",
+            "King of the Franks Charles the Great",
+            "King of the Franks Charlemagne",
+            "Charlemagne the Franc",
+            "Charles I"
+        ],
+        "description": "king of Franks, founder of the Carolingian Empire (747\u2013814)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q482891",
+        "name": "Price",
+        "aliases": [
+            "Price, Utah",
+            "Price, UT"
+        ],
+        "description": "city in and county seat of Carbon County, Utah, United States",
+        "label": ""
+    },
+    {
+        "qid": "Q29049",
+        "name": "Kanada",
+        "aliases": "",
+        "description": "Vedic sage and founder of Vaisheshika school of Hindu philosophy",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q214796",
+        "name": "equals sign",
+        "aliases": [
+            "equality sign",
+            "=",
+            "equals",
+            "equal to",
+            "is equal to",
+            "==",
+            "eq",
+            "Equal sign"
+        ],
+        "description": "mathematical symbol used to indicate equality",
+        "label": ""
+    },
+    {
+        "qid": "Q44",
+        "name": "beer",
+        "aliases": [
+            "brew",
+            "\ud83c\udf7a",
+            "\ud83c\udf7b"
+        ],
+        "description": "alcoholic drink",
+        "label": ""
+    },
+    {
+        "qid": "Q187956",
+        "name": "intermodal container",
+        "aliases": [
+            "freight container",
+            "shipping container",
+            "ISO container",
+            "hi-cube container",
+            "container"
+        ],
+        "description": "standardized large, reusable steel box used for transporting freight",
+        "label": ""
+    },
+    {
+        "qid": "Q15713092",
+        "name": "Food",
+        "aliases": "",
+        "description": "2014 Kelis album",
+        "label": ""
+    },
+    {
+        "qid": "Q17103040",
+        "name": "Reminder",
+        "aliases": "",
+        "description": "album by Pixel",
+        "label": ""
+    },
+    {
+        "qid": "Q605704",
+        "name": "dozen",
+        "aliases": [
+            "doz",
+            "dz",
+            "group of 12"
+        ],
+        "description": "set of twelve pieces",
+        "label": "CARDINAL"
+    },
+    {
+        "qid": "Q23220",
+        "name": "Berkshire",
+        "aliases": [
+            "Berks",
+            "Royal County of Berkshire"
+        ],
+        "description": "ceremonial but non-administrative county of England",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q3336843",
+        "name": "constituent country of the United Kingdom",
+        "aliases": [
+            "Home Nation",
+            "constituent part of the United Kingdom",
+            "country of the United Kingdom",
+            "part of the United Kingdom"
+        ],
+        "description": "one of four constituent countries of the United Kingdom: England, Wales, Scotland and Northern Ireland",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q762",
+        "name": "Leonardo da Vinci",
+        "aliases": [
+            "Leonardo di ser Piero da Vinci",
+            "Leonardo",
+            "da Vinci",
+            "Leonard de Vinci",
+            "L. Davinci",
+            "Leonhardo da Vinci",
+            "Leonardo de Bin\u00e7i",
+            "Leonardo Davinci",
+            "Vinci",
+            "Leonard",
+            "Leonardi di Vinci",
+            "Leonardo Vinci",
+            "Leonardo Vincj",
+            "Leonardo De Vinci",
+            "Leonardo da Avinci",
+            "Vinci Leonardo da",
+            "leonardo de avin\u00e7e",
+            "Leonardi da Vinci",
+            "L. da Vinci",
+            "Leonardo de Avince",
+            "Leonhardt Davin\u00e7\u00e9",
+            "L. da Vince",
+            "Leonardo de a Vince",
+            "da vinci leonardo",
+            "La Da Vinci",
+            "Leo. da Vinci",
+            "Lunardo da Vinci",
+            "Leonhard da Vinci",
+            "Leo da Vinci",
+            "Lionardo",
+            "Leonhard da Vince",
+            "L. D'Vinci",
+            "Leonard. da Vinci",
+            "De Vinci",
+            "Leonardi de Vinci",
+            "Leonardo d'Avinci",
+            "Leonard d'Avins",
+            "L. De Vinci",
+            "Leon da Vinci",
+            "Leonardo di Ser Piero da Vinci",
+            "L\u00e9onard de Vinci",
+            "Leornadi De Vinci",
+            "Lornardi De Vinci",
+            "Leonardi Devinci",
+            "Leonardo Da Vinci",
+            "Leonardi",
+            "Leonardo del Linc",
+            "Leonard de Vincy",
+            "Leonard Davincy",
+            "Leornardo de Vinci",
+            "L. Vinci",
+            "L. D. Vinci",
+            "Lionarda da Vinci",
+            "L\u00e9onard",
+            "Leonardo de Vince",
+            "Leonardo de Vinza",
+            "Da Vinci",
+            "Leonardo de Vinci",
+            "L. di Vinci",
+            "L.D. Vinci",
+            "Leandro da Vinci",
+            "Leonardi d' Vinci",
+            "Leonardo del Vincio",
+            "Leo da. Vinci",
+            "Leon. Da Vinci",
+            "Leonardo da Vinchi",
+            "Lonardo d'Avinci",
+            "Lionardi da Vinci",
+            "Lion. Da Vinci",
+            "Leonardo da Vince",
+            "Leonard da Vincy",
+            "Leonard Davinci",
+            "L\u00e9onardo de Vinci",
+            "Lionardo da Vinci",
+            "Leonard da Vinci",
+            "Leonhard de Winci",
+            "leonardo Vilchi",
+            "Leonardo da vinze",
+            "Leonardavinci",
+            "leonardo de avinze",
+            "L. Da. Vinci",
+            "lorenzo de abin\u00e7i",
+            "Leonardo di Vince",
+            "Lieh-ao-na-to",
+            "Leonardo de Binci",
+            "leonardo de albinzi",
+            "Leonardo di Vinci",
+            "Leonardo D'Vinci",
+            "Leonard d'Alvins",
+            "L. de Pinci",
+            "Lionarde da Vinci",
+            "da Vinci Leonardo",
+            "L da Vinci",
+            "Le da Vinci",
+            "L da Vince",
+            "Leonhardt Davinc\u00e9"
+        ],
+        "description": "Italian Renaissance polymath (1452-1519)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q2920963",
+        "name": "stew",
+        "aliases": "",
+        "description": "combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy",
+        "label": ""
+    },
+    {
+        "qid": "Q124794",
+        "name": "taste",
+        "aliases": [
+            "gustatory perception",
+            "gustation"
+        ],
+        "description": "sense that detects types of chemicals that touch the tongue",
+        "label": ""
+    },
+    {
+        "qid": "Q78994",
+        "name": "Napoleonic Wars",
+        "aliases": "",
+        "description": "1803\u20131815 wars involving the French Empire",
+        "label": ""
+    },
+    {
+        "qid": "Q1052767",
+        "name": "The Boat",
+        "aliases": [
+            "Boat"
+        ],
+        "description": "1921 film",
+        "label": ""
+    },
+    {
+        "qid": "Q192110",
+        "name": "self-portrait",
+        "aliases": [
+            "selfportrait",
+            "auto-portrait",
+            "self portrait"
+        ],
+        "description": "representation of an artist, drawn, painted, photographed, or sculpted by the artist",
+        "label": ""
+    },
+    {
+        "qid": "Q37503541",
+        "name": "Hier",
+        "aliases": "",
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q15276466",
+        "name": "Wasser",
+        "aliases": [
+            "Wasser (Emmendingen)"
+        ],
+        "description": "quarter of Emmendingen, Baden-W\u00fcrttemberg, Germany",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q362031",
+        "name": "variance",
+        "aliases": [
+            "bivariance",
+            "nonvariance",
+            "bivariant",
+            "nonvariant",
+            "invariance",
+            "invariant",
+            "covariance",
+            "covariant",
+            "contravariant",
+            "variant",
+            "contravariance",
+            "co- and contravariance",
+            "covariance and contravariance"
+        ],
+        "description": "property of a type in a programming language",
+        "label": ""
+    },
+    {
+        "qid": "Q759314",
+        "name": "The Suitor",
+        "aliases": [
+            "Suitor",
+            "Le Soupirant"
+        ],
+        "description": "1962 film directed by Pierre \u00c9taix",
+        "label": ""
+    },
+    {
+        "qid": "Q1197685",
+        "name": "public holiday",
+        "aliases": [
+            "legal holiday",
+            "national holiday",
+            "statutory holiday",
+            "state holiday"
+        ],
+        "description": "holiday generally established by law, usually a non-working day for most people",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q6584",
+        "name": "mulled wine",
+        "aliases": [
+            "spiced wine"
+        ],
+        "description": "red wine along with various spices and raisins",
+        "label": ""
+    },
+    {
+        "qid": "Q759676",
+        "name": "task",
+        "aliases": [
+            "problem"
+        ],
+        "description": "activity that needs to be accomplished within a defined period of time",
+        "label": ""
+    },
+    {
+        "qid": "Q2628694",
+        "name": "Weekend",
+        "aliases": "",
+        "description": "2011 film directed by Andrew Haigh",
+        "label": ""
+    },
+    {
+        "qid": "Q862086",
+        "name": "Indians",
+        "aliases": [
+            "Indian citizens",
+            "Indian people",
+            "Asian Indians",
+            "East Indians",
+            "Indic peoples"
+        ],
+        "description": "citizens or residents of India",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q27948",
+        "name": "list",
+        "aliases": [
+            "ordered list",
+            "sequence"
+        ],
+        "description": "abstract data type used in computer science",
+        "label": ""
+    },
+    {
+        "qid": "Q261105",
+        "name": "helles",
+        "aliases": [
+            "hell"
+        ],
+        "description": "type of pale lager beer",
+        "label": ""
+    },
+    {
+        "qid": "Q1193177",
+        "name": "The Conqueror",
+        "aliases": [
+            "Conqueror"
+        ],
+        "description": "1956 film by Dick Powell",
+        "label": ""
+    },
+    {
+        "qid": "Q30133833",
+        "name": "Alte Utting",
+        "aliases": "",
+        "description": "bar, nightclub and music venue in a former passenger ship in Munich",
+        "label": ""
+    },
+    {
+        "qid": "Q3445082",
+        "name": "reader",
+        "aliases": "",
+        "description": "academic rank in the United Kingdom and some universities in the Commonwealth of Nations above senior lecturer",
+        "label": ""
+    },
+    {
+        "qid": "Q947859",
+        "name": "research proposal",
+        "aliases": [
+            "proposal",
+            "grant proposal"
+        ],
+        "description": "description of planned research for which funding is requested",
+        "label": ""
+    },
+    {
+        "qid": "Q7401",
+        "name": "part",
+        "aliases": [
+            "voice",
+            "Part (music)"
+        ],
+        "description": "section of a musical composition",
+        "label": ""
+    },
+    {
+        "qid": "Q7920475",
+        "name": "venue",
+        "aliases": [
+            "Venue (law)",
+            "Criminal venue"
+        ],
+        "description": "location where a legal case is heard",
+        "label": ""
+    },
+    {
+        "qid": "Q1221156",
+        "name": "federated state of Germany",
+        "aliases": [
+            "Land",
+            "Bundesland",
+            "States of Germany",
+            "BL",
+            "German federal state"
+        ],
+        "description": "administrative division of the Federal Republic of Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q1318295",
+        "name": "narrative",
+        "aliases": [
+            "story",
+            "tale",
+            "narrative work",
+            "work of narration"
+        ],
+        "description": "account of a series of related events or experiences",
+        "label": ""
+    },
+    {
+        "qid": "Q15835576",
+        "name": "Monuments",
+        "aliases": "",
+        "description": "British metal band",
+        "label": ""
+    },
+    {
+        "qid": "Q183061",
+        "name": "fa\u00e7ade",
+        "aliases": [
+            "exterior",
+            "facade",
+            "frontage",
+            "elevation",
+            "aspect"
+        ],
+        "description": "exterior side of a building, usually the front but not always",
+        "label": ""
+    },
+    {
+        "qid": "Q2204140",
+        "name": "ruffle",
+        "aliases": [
+            "frill",
+            "ruche",
+            "flounce",
+            "furbelow"
+        ],
+        "description": "strip of fabric, lace, or ribbon gathered on one edge and applied as trimming",
+        "label": ""
+    },
+    {
+        "qid": "Q2114182",
+        "name": "Proximity",
+        "aliases": "",
+        "description": "2001 film by Scott Ziehl",
+        "label": ""
+    },
+    {
+        "qid": "Q29",
+        "name": "Spain",
+        "aliases": [
+            "Kingdom of Spain",
+            "ES",
+            "ESP",
+            "\ud83c\uddea\ud83c\uddf8"
+        ],
+        "description": "country in southwestern Europe and northwestern Africa",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q300942",
+        "name": "von",
+        "aliases": "",
+        "description": "German preposition, nobiliary particle",
+        "label": ""
+    },
+    {
+        "qid": "Q857909",
+        "name": "beer garden",
+        "aliases": [
+            "Biergarten"
+        ],
+        "description": "outdoor area in which beer, other drinks, and local food are served",
+        "label": ""
+    },
+    {
+        "qid": "Q467677",
+        "name": "talent",
+        "aliases": [
+            "intellectual giftedness",
+            "gifted",
+            "gifted student",
+            "gifted learner"
+        ],
+        "description": "intellectual ability significantly higher than average",
+        "label": ""
+    },
+    {
+        "qid": "Q178048",
+        "name": "bus",
+        "aliases": [
+            "computer bus",
+            "hardware bus",
+            "electronic bus"
+        ],
+        "description": "system that transfers data between components within a computer",
+        "label": ""
+    },
+    {
+        "qid": "Q164606",
+        "name": "curry",
+        "aliases": [
+            "curries"
+        ],
+        "description": "dish whose origins are in South and Southeast Asian cuisines",
+        "label": ""
+    },
+    {
+        "qid": "Q191290",
+        "name": "ordered pair",
+        "aliases": [
+            "(a, b)",
+            "couple",
+            "double",
+            "pair",
+            "2-tuple"
+        ],
+        "description": "pair of mathematical objects; tuple of specific length (tuple length n=2)",
+        "label": ""
+    },
+    {
+        "qid": "Q104555",
+        "name": "ruler",
+        "aliases": [
+            "rule",
+            "line gauge",
+            "tape measure"
+        ],
+        "description": "tool used to draw or measure distances along a straight line",
+        "label": ""
+    },
+    {
+        "qid": "Q1682309",
+        "name": "Jan van Beers",
+        "aliases": [
+            "Joannes Maria Constantinus Josephus Van Beers",
+            "Jan Van Beers",
+            "Jean Marie Constantin Joseph Van Beers",
+            "van beers j."
+        ],
+        "description": "Belgian painter and illustrator",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q193207",
+        "name": "ambient music",
+        "aliases": [
+            "ambient"
+        ],
+        "description": "music genre",
+        "label": ""
+    },
+    {
+        "qid": "Q2988681",
+        "name": "achievement",
+        "aliases": [
+            "trophy",
+            "badge",
+            "award",
+            "stamp",
+            "medal",
+            "challenge",
+            "achievements",
+            "trophies",
+            "badges",
+            "awards",
+            "stamps",
+            "medals",
+            "challenges",
+            "video game achievement",
+            "video game trophy"
+        ],
+        "description": "meta-goal in a video game",
+        "label": ""
+    },
+    {
+        "qid": "Q2992075",
+        "name": "conclusion",
+        "aliases": [
+            "outro",
+            "coda",
+            "finale"
+        ],
+        "description": "ending of a musical composition that may take the form of a coda or outro",
+        "label": ""
+    },
+    {
+        "qid": "Q205663",
+        "name": "process",
+        "aliases": "",
+        "description": "particular execution of a computer program",
+        "label": ""
+    },
+    {
+        "qid": "Q2207288",
+        "name": "craft",
+        "aliases": "",
+        "description": "field of work that requires particular skills and knowledge of skilled work",
+        "label": ""
+    },
+    {
+        "qid": "Q148",
+        "name": "People's Republic of China",
+        "aliases": [
+            "CN",
+            "PR China",
+            "PRC",
+            "cn",
+            "CHN",
+            "\ud83c\udde8\ud83c\uddf3",
+            "China PR",
+            "Mainland China",
+            "China",
+            "RPC"
+        ],
+        "description": "country in East Asia",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q8486",
+        "name": "coffee",
+        "aliases": "",
+        "description": "brewed beverage made from seeds of Coffea genus",
+        "label": ""
+    },
+    {
+        "qid": "Q283102",
+        "name": "afternoon",
+        "aliases": "",
+        "description": "time of the day between noon and evening",
+        "label": "TIME"
+    },
+    {
+        "qid": "Q838984",
+        "name": "Fun",
+        "aliases": [
+            "fun."
+        ],
+        "description": "American indie rock band",
+        "label": ""
+    },
+    {
+        "qid": "Q879844",
+        "name": "rest",
+        "aliases": "",
+        "description": "interval of silence in a piece of music, marked by a rest symbol indicating the length of the pause",
+        "label": ""
+    },
+    {
+        "qid": "Q133673",
+        "name": "spin",
+        "aliases": "",
+        "description": "intrinsic form of angular momentum as a property of quantum particles",
+        "label": ""
+    },
+    {
+        "qid": "Q83478",
+        "name": "group",
+        "aliases": "",
+        "description": "algebraic set with an invertible, associative internal operation admitting a neutral element",
+        "label": ""
+    },
+    {
+        "qid": "Q160151",
+        "name": "price",
+        "aliases": "",
+        "description": "quantity of payment or compensation given by one party to another in return for goods or services",
+        "label": ""
+    },
+    {
+        "qid": "Q408",
+        "name": "Australia",
+        "aliases": [
+            "Commonwealth of Australia",
+            "AU",
+            "AUS",
+            "au",
+            "\ud83c\udde6\ud83c\uddfa",
+            "Straya",
+            "Aussieland",
+            "Oz"
+        ],
+        "description": "country in Oceania",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q17641254",
+        "name": "Andrew John Henry Way",
+        "aliases": [
+            "A. J. H. Way",
+            "Andrew J. H. Way",
+            "Andrew J.H. Way",
+            "way"
+        ],
+        "description": "American portrait and still life painter",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q8436",
+        "name": "family",
+        "aliases": [
+            "families"
+        ],
+        "description": "group of people affiliated by consanguinity, affinity, or co-residence",
+        "label": ""
+    },
+    {
+        "qid": "Q538348",
+        "name": "Ruhmeshalle",
+        "aliases": "",
+        "description": "building in Schwanthalerh\u00f6he, Upper Bavaria, Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q162668",
+        "name": "visual perception",
+        "aliases": [
+            "sense of sight",
+            "vision",
+            "GO:0007601",
+            "sensory visual perception",
+            "seeing",
+            "sight"
+        ],
+        "description": "series of events required for an organism to receive a visual stimulus",
+        "label": ""
+    },
+    {
+        "qid": "Q34442",
+        "name": "road",
+        "aliases": [
+            "track",
+            "street",
+            "route",
+            "roadway"
+        ],
+        "description": "wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use",
+        "label": ""
+    },
+    {
+        "qid": "Q22652",
+        "name": "green space",
+        "aliases": [
+            "green area",
+            "open space reserve",
+            "open space preserve",
+            "open space reservation",
+            "open space",
+            "greenspace",
+            "urban green space"
+        ],
+        "description": "green area planned in an urban location",
+        "label": ""
+    },
+    {
+        "qid": "Q80973",
+        "name": "breakfast",
+        "aliases": "",
+        "description": "first meal eaten in the early morning",
+        "label": ""
+    },
+    {
+        "qid": "Q3957",
+        "name": "town",
+        "aliases": [
+            "small city"
+        ],
+        "description": "settlement that is smaller than a city but bigger than a large village (or a large borough in some areas)",
+        "label": ""
+    },
+    {
+        "qid": "Q41",
+        "name": "Greece",
+        "aliases": [
+            "Hellenic Republic",
+            "Hellas",
+            "gr",
+            "el",
+            "\ud83c\uddec\ud83c\uddf7",
+            "Greek Republic",
+            "GRE",
+            "Ellada",
+            "Greek"
+        ],
+        "description": "country in Southeast Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q19824822",
+        "name": "The Other Side",
+        "aliases": [
+            "Other Side",
+            "Louisiana: The Other Side"
+        ],
+        "description": "2015 film by Roberto Minervini",
+        "label": ""
+    },
+    {
+        "qid": "Q2221906",
+        "name": "geographic location",
+        "aliases": [
+            "place",
+            "coordinates",
+            "geographical location",
+            "place (geography)",
+            "geographic point",
+            "site (geography)",
+            "geographic place",
+            "geographical place",
+            "setting",
+            "geographical sites",
+            "geographical site",
+            "location"
+        ],
+        "description": "point or an area on something's surface or elsewhere",
+        "label": ""
+    },
+    {
+        "qid": "Q4173974",
+        "name": "flavoring",
+        "aliases": [
+            "flavour",
+            "taste"
+        ],
+        "description": "Food additive used to change the taste or smell of food.",
+        "label": ""
+    },
+    {
+        "qid": "Q4199063",
+        "name": "Economy (religion)",
+        "aliases": "",
+        "description": "bishop's discretionary power to relax rules",
+        "label": ""
+    },
+    {
+        "qid": "Q581161",
+        "name": "Ural Airlines",
+        "aliases": [
+            "Ural Airline",
+            "Ural Air",
+            "Ural",
+            "U6",
+            "SVR",
+            "Ural Airlines OJSC"
+        ],
+        "description": "airline based in Russia",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q212193",
+        "name": "Nutella",
+        "aliases": "",
+        "description": "chocolate hazelnut spread manufactured by Ferrero",
+        "label": ""
+    },
+    {
+        "qid": "Q4839635",
+        "name": "Background",
+        "aliases": "",
+        "description": "1953 film by Daniel Birt",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q617332",
+        "name": "setting",
+        "aliases": [
+            "Setting"
+        ],
+        "description": "place and time where fictional story takes place",
+        "label": ""
+    },
+    {
+        "qid": "Q7087",
+        "name": "consciousness",
+        "aliases": [
+            "consciousness (mental properties)"
+        ],
+        "description": "the state or quality of sentience or awareness of internal or external existence",
+        "label": ""
+    },
+    {
+        "qid": "Q17516",
+        "name": "street art",
+        "aliases": "",
+        "description": "art that is public and temporary in public spaces",
+        "label": ""
+    },
+    {
+        "qid": "Q426254",
+        "name": "Erromanga",
+        "aliases": [
+            "Sie",
+            "Erromanga language"
+        ],
+        "description": "language",
+        "label": ""
+    },
+    {
+        "qid": "Q26382",
+        "name": "side",
+        "aliases": [
+            "edge",
+            "1-orthoplex",
+            "1-polytope",
+            "1-simplex"
+        ],
+        "description": "line segment joining two adjacent vertices in a polygon or polytope",
+        "label": ""
+    },
+    {
+        "qid": "Q16932644",
+        "name": "Ruan",
+        "aliases": [
+            "\u962e",
+            "Yuen",
+            "Juan",
+            "Un"
+        ],
+        "description": "Chinese-language surname (\u962e)",
+        "label": ""
+    },
+    {
+        "qid": "Q26689986",
+        "name": "Mark Lee",
+        "aliases": [
+            "Mark"
+        ],
+        "description": "Canadian rapper",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q657008",
+        "name": "The Stuff",
+        "aliases": [
+            "Stuff"
+        ],
+        "description": "1985 film directed by Larry Cohen",
+        "label": ""
+    },
+    {
+        "qid": "Q509069",
+        "name": "Osten",
+        "aliases": "",
+        "description": "municipality of Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q11563",
+        "name": "number",
+        "aliases": "",
+        "description": "mathematical object used to count, label, and measure",
+        "label": ""
+    },
+    {
+        "qid": "Q39071317",
+        "name": "The Field",
+        "aliases": [
+            "Field"
+        ],
+        "description": "2017 film",
+        "label": ""
+    },
+    {
+        "qid": "Q1395034",
+        "name": "new product development",
+        "aliases": [
+            "NPD",
+            "development",
+            "product development"
+        ],
+        "description": "complete process of bringing a new product to market",
+        "label": ""
+    },
+    {
+        "qid": "Q1445650",
+        "name": "holiday",
+        "aliases": [
+            "observance",
+            "holidays",
+            "observances"
+        ],
+        "description": "festive day set aside by custom or by law",
+        "label": ""
+    },
+    {
+        "qid": "Q81",
+        "name": "carrot",
+        "aliases": [
+            "Daucus carota subsp. sativus",
+            "Daucus Carota Subsp. Sativus"
+        ],
+        "description": "root vegetable, usually orange in color",
+        "label": ""
+    },
+    {
+        "qid": "Q1314",
+        "name": "autumn",
+        "aliases": [
+            "fall",
+            "autumntime",
+            "falltime",
+            "fall season",
+            "autumn season",
+            "autumntime season"
+        ],
+        "description": "one of the Earth's four temperate seasons, occurring between summer and winter",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q838948",
+        "name": "work of art",
+        "aliases": [
+            "artwork",
+            "piece of art",
+            "art work",
+            "art object",
+            "art piece",
+            "artistic work"
+        ],
+        "description": "aesthetic item or artistic creation",
+        "label": ""
+    },
+    {
+        "qid": "Q1894494",
+        "name": "numero sign",
+        "aliases": [
+            "numero symbol",
+            "N\u00ba",
+            "No",
+            "No.",
+            "\u2116",
+            "no",
+            "no."
+        ],
+        "description": "typographic abbreviation of the word \"number(s)\"",
+        "label": ""
+    },
+    {
+        "qid": "Q1553458",
+        "name": "Nur",
+        "aliases": [
+            "Nur, Mazandaran",
+            "Nur, Iran",
+            "Noor, Mazandaran",
+            "Noor, Iran"
+        ],
+        "description": "city in Mazandaran Province, Iran",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q327245",
+        "name": "team",
+        "aliases": "",
+        "description": "group linked in a common purpose",
+        "label": ""
+    },
+    {
+        "qid": "Q707669",
+        "name": "Bavaria",
+        "aliases": [
+            "Bavaria statue"
+        ],
+        "description": "Statue of Bavaria in Munich, Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q11500",
+        "name": "area",
+        "aliases": [
+            "surface area"
+        ],
+        "description": "quantity that expresses the extent of a two-dimensional surface or shape, or planar lamina, in the plane",
+        "label": ""
+    },
+    {
+        "qid": "Q1472481",
+        "name": "spread",
+        "aliases": [
+            "bread topping"
+        ],
+        "description": "food that is spread, generally with a knife, onto food products such as bread and crackers",
+        "label": ""
+    },
+    {
+        "qid": "Q262879",
+        "name": "Sendling",
+        "aliases": "",
+        "description": "borough of Munich",
+        "label": ""
+    },
+    {
+        "qid": "Q548320",
+        "name": "Catholic friar",
+        "aliases": [
+            "friar",
+            "Roman Catholic friar",
+            "mendicant friar"
+        ],
+        "description": "member of a mendicant religious order in Catholic Christianity",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q23004",
+        "name": "bread roll",
+        "aliases": [
+            "yeast roll",
+            "roll",
+            "bap",
+            "cob",
+            "barm",
+            "barm cake",
+            "bun",
+            "bread bun",
+            "breadbun"
+        ],
+        "description": "small, usually round or oblong individual loaf of bread served as a meal accompaniment",
+        "label": ""
+    },
+    {
+        "qid": "Q858185",
+        "name": "Bieten",
+        "aliases": "",
+        "description": "card game",
+        "label": ""
+    },
+    {
+        "qid": "Q1757944",
+        "name": "Partner",
+        "aliases": "",
+        "description": "2007 film by David Dhawan",
+        "label": ""
+    },
+    {
+        "qid": "Q483501",
+        "name": "artist",
+        "aliases": "",
+        "description": "person who engages in any form of artistic creation or practice",
+        "label": ""
+    },
+    {
+        "qid": "Q1553259",
+        "name": "insight",
+        "aliases": [
+            "insights"
+        ],
+        "description": "understanding of a specific cause and effect in a specific context",
+        "label": ""
+    },
+    {
+        "qid": "Q4499813",
+        "name": "Home",
+        "aliases": "",
+        "description": "2015 animated film by Tim Johnson",
+        "label": ""
+    },
+    {
+        "qid": "Q177",
+        "name": "pizza",
+        "aliases": [
+            "pie",
+            "pizza pie"
+        ],
+        "description": "popular Italian dish with a flat dough-based base and toppings",
+        "label": ""
+    },
+    {
+        "qid": "Q5597",
+        "name": "Raphael",
+        "aliases": [
+            "Raffaello Sanzio da Urbino",
+            "Santi Raphael"
+        ],
+        "description": "Italian painter and architect (1483\u20131520)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q744530",
+        "name": "Kansas City Royals",
+        "aliases": [
+            "Royals",
+            "KCR",
+            "KC Royals"
+        ],
+        "description": "baseball team and Major League Baseball franchise in Kansas City, Missouri, United States",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q3658527",
+        "name": "Care",
+        "aliases": "",
+        "description": "English rock band",
+        "label": ""
+    },
+    {
+        "qid": "Q430338",
+        "name": "Gans",
+        "aliases": [
+            "Gans, Oklahoma",
+            "Gans, OK"
+        ],
+        "description": "town in Oklahoma, United States",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q20502",
+        "name": "house music",
+        "aliases": [
+            "house"
+        ],
+        "description": "electronic dance music genre, that originated in Chicago in the early 1980s",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q37105",
+        "name": "line",
+        "aliases": [
+            "straight line"
+        ],
+        "description": "one-dimensional infinite geometric object",
+        "label": ""
+    },
+    {
+        "qid": "Q7272595",
+        "name": "Quirky",
+        "aliases": "",
+        "description": "company",
+        "label": ""
+    },
+    {
+        "qid": "Q4519748",
+        "name": "Mischief",
+        "aliases": "",
+        "description": "1985 film by Mel Damski",
+        "label": ""
+    },
+    {
+        "qid": "Q1214836",
+        "name": "Le Million",
+        "aliases": [
+            "Million"
+        ],
+        "description": "1931 film by Ren\u00e9 Clair",
+        "label": ""
+    },
+    {
+        "qid": "Q2180428",
+        "name": "pole",
+        "aliases": [
+            "post"
+        ],
+        "description": "oblong object, placed vertically (or somewhat obliquely), the width being approximately the same over the entire length",
+        "label": ""
+    },
+    {
+        "qid": "Q36348",
+        "name": "dream",
+        "aliases": [
+            "dreaming",
+            "dreams"
+        ],
+        "description": "a series of images, thoughts, and emotions, often with a story-like quality, generated by mental activity during sleep; the state in which this occurs",
+        "label": ""
+    },
+    {
+        "qid": "Q3303463",
+        "name": "food truck",
+        "aliases": [
+            "taco truck",
+            "canteen truck"
+        ],
+        "description": "truck used for carrying and selling food",
+        "label": ""
+    },
+    {
+        "qid": "Q1439685",
+        "name": "Fotos",
+        "aliases": "",
+        "description": "band",
+        "label": ""
+    },
+    {
+        "qid": "Q23797",
+        "name": "contact lens",
+        "aliases": [
+            "contact",
+            "contact lenses"
+        ],
+        "description": "very thin plastic lens worn directly on the eye to correct visual defects",
+        "label": ""
+    },
+    {
+        "qid": "Q49617",
+        "name": "The Internationale",
+        "aliases": [
+            "Internationale"
+        ],
+        "description": "left-wing anthem",
+        "label": ""
+    },
+    {
+        "qid": "Q56139",
+        "name": "liquor",
+        "aliases": [
+            "spirits",
+            "hard liquor",
+            "distilled drink",
+            "distilled beverage",
+            "spirit drink"
+        ],
+        "description": "alcoholic drink obtained by distillation",
+        "label": ""
+    },
+    {
+        "qid": "Q109061",
+        "name": "Guido Reni",
+        "aliases": [
+            "Guidoraine",
+            "Guido Bolognes",
+            "Il Guido",
+            "Guid Reni",
+            "Guido Rena",
+            "Guido Ren\u00e9",
+            "Grido Reni",
+            "Guido Reno",
+            "Guido Ren",
+            "Guidoreno",
+            "Guido Rene",
+            "Guido Reyna",
+            "Guidoreni",
+            "Guido Bolognese",
+            "Le Guide",
+            "Guido Bollonees",
+            "Guiderone",
+            "Le Guide Reni",
+            "Guido Rueni",
+            "Guiddo Reni",
+            "Guido Rhene",
+            "Il Guido Reni",
+            "Guido",
+            "Guido Rheni",
+            "Guidop Reni",
+            "Guide Reni",
+            "Guido de Reyna",
+            "Guido Reno Bolognese",
+            "Guido Redi",
+            "Guido Renni",
+            "Guido de Reny",
+            "Guidop",
+            "Vidoreno",
+            "Guido bolognes",
+            "Quido Reni",
+            "Guidoren",
+            "Giud",
+            "Guidoni",
+            "Guydo",
+            "Guido-Reni",
+            "guidoreni",
+            "Guido Bolanez",
+            "Guido da Bologna",
+            "Guido R.",
+            "le Quide",
+            "Le Guidoreni",
+            "Guido Reni Bolognese",
+            "Signor Guido",
+            "dit Le Guide Guido Rheni",
+            "Huido reyno",
+            "Grido",
+            "Guide Doreni",
+            "Quindo Rhemmy",
+            "dit le Guide Guido-Reni",
+            "Goidorino",
+            "Guido Reni van Bolonge",
+            "Le Guyde",
+            "guidoredi",
+            "Guydo Reni",
+            "Guide de Renen",
+            "Guido Bolonese",
+            "Gudureno Boloneus",
+            "Giulio Rena",
+            "Giulio Reno",
+            "Buide",
+            "Guido Reni de Bologna",
+            "bologna guido reni",
+            "Guido Bologna",
+            "ou le Guide Guido Reni",
+            "Du Guide",
+            "Guid",
+            "Guidozeni",
+            "Guido Reny",
+            "Guidoreny",
+            "Guidesco",
+            "Guidorene",
+            "Reni Guido",
+            "Giudo Reni",
+            "dit le Guide R\u00e9ni",
+            "Gidoreni",
+            "Gnido",
+            "Reni Quido",
+            "Le Guido r\u00e9uni",
+            "scola di Reno",
+            "Gudio",
+            "Guido Vani",
+            "Guido Rheny",
+            "[Guido Reni]",
+            "dit le Guide Guido Reni",
+            "Guidi",
+            "Guide",
+            "Guido Rheno",
+            "Gueedo",
+            "Guido orena",
+            "Guedo",
+            "Huido reno",
+            "Quido",
+            "c\u00e9l\u00e8bre ma\u00eetre Italien Le Guide",
+            "Guido Rini",
+            "Guido Bolonois",
+            "G. Reni",
+            "g. reni",
+            "Guido Renie",
+            "Leguide",
+            "Le Guido Rheni",
+            "Leguido",
+            "Guidorenie",
+            "Sig.r Guidi",
+            "Guido Boloneze",
+            "Guido Bollonnes",
+            "Guido Remo",
+            "buido",
+            "Haido reno",
+            "Reni",
+            "Guide Le",
+            "guido de Reyna",
+            "School of Guido",
+            "Guido School"
+        ],
+        "description": "Bolognese painter (1575\u20131642)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q62500926",
+        "name": "Special",
+        "aliases": "",
+        "description": "American comedy web television series",
+        "label": ""
+    },
+    {
+        "qid": "Q1120221",
+        "name": "recommendation",
+        "aliases": "",
+        "description": "legislative act of the European Union",
+        "label": ""
+    },
+    {
+        "qid": "Q1107656",
+        "name": "garden",
+        "aliases": [
+            "gardens",
+            "Garden"
+        ],
+        "description": "planned space set aside for the display, cultivation, and enjoyment of plants",
+        "label": ""
+    },
+    {
+        "qid": "Q1260632",
+        "name": "content",
+        "aliases": [
+            "media content"
+        ],
+        "description": "information and experiences that are directed toward an end-user or audience",
+        "label": ""
+    },
+    {
+        "qid": "Q181362",
+        "name": "cr\u00eape",
+        "aliases": [
+            "crape",
+            "crepe"
+        ],
+        "description": "any of various fabrics with twisted threads, often crinkled surface",
+        "label": ""
+    },
+    {
+        "qid": "Q2312129",
+        "name": "delicacy",
+        "aliases": "",
+        "description": "food item that is considered highly desirable in certain cultures",
+        "label": ""
+    },
+    {
+        "qid": "Q30022",
+        "name": "coffeehouse",
+        "aliases": [
+            "cafe",
+            "coffee shop",
+            "caf\u00e9",
+            "coffee-house"
+        ],
+        "description": "establishment that serves coffee and tea",
+        "label": ""
+    },
+    {
+        "qid": "Q907797",
+        "name": "Cheese",
+        "aliases": "",
+        "description": "heroin-based recreational drug",
+        "label": ""
+    },
+    {
+        "qid": "Q1134817",
+        "name": "rooting",
+        "aliases": [
+            "root",
+            "rooted",
+            "rooted Android"
+        ],
+        "description": "modification of Android devices",
+        "label": ""
+    },
+    {
+        "qid": "Q17067943",
+        "name": "Hauptstadt",
+        "aliases": "",
+        "description": "urban plan designed by British architects Alison and Peter Smithson in 1957",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q779974",
+        "name": "precipitation hardening",
+        "aliases": [
+            "aging",
+            "age hardening",
+            "age",
+            "hardening",
+            "PH",
+            "ageing"
+        ],
+        "description": "heat treatment technique used to increase the yield strength of malleable materials",
+        "label": ""
+    },
+    {
+        "qid": "Q484583",
+        "name": "DL-proline",
+        "aliases": [
+            "Pro",
+            "P",
+            "pyrrolidine-2-carboxylic acid",
+            "Proline",
+            "Hpro",
+            "DL-Proline",
+            "proline"
+        ],
+        "description": "group of stereoisomers",
+        "label": ""
+    },
+    {
+        "qid": "Q704124",
+        "name": "Bavarian Forest National Park",
+        "aliases": [
+            "Nationalpark Bayerischer Wald"
+        ],
+        "description": "national park in Bavaria, Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q79692",
+        "name": "3G",
+        "aliases": [
+            "3rd Generation",
+            "3rd-Generation"
+        ],
+        "description": "term used to represent the 3rd generation of mobile telecommunications technology",
+        "label": "CARDINAL"
+    },
+    {
+        "qid": "Q179057",
+        "name": "explosion",
+        "aliases": [
+            "bang",
+            "blast",
+            "burst",
+            "boom",
+            "kaboom",
+            "exploding",
+            "explode"
+        ],
+        "description": "sudden release of energy through high temperatures and gas expansion",
+        "label": ""
+    },
+    {
+        "qid": "Q170924",
+        "name": "interest",
+        "aliases": "",
+        "description": "fee paid by the debtor to the creditor for temporarily borrowed capital",
+        "label": ""
+    },
+    {
+        "qid": "Q5728338",
+        "name": "Jahr",
+        "aliases": "",
+        "description": "village in Iran",
+        "label": ""
+    },
+    {
+        "qid": "Q1766444",
+        "name": "Ticket to Ride",
+        "aliases": [
+            "Offering"
+        ],
+        "description": "1969 debut album by The Carpenters",
+        "label": ""
+    },
+    {
+        "qid": "Q27449447",
+        "name": "S14",
+        "aliases": [
+            "Sich",
+            "C14"
+        ],
+        "description": "Ukrainian far-right organization",
+        "label": ""
+    },
+    {
+        "qid": "Q367293",
+        "name": "convention",
+        "aliases": [
+            "customs",
+            "social norms",
+            "norm",
+            "norms",
+            "custom",
+            "manner",
+            "manners",
+            "standard"
+        ],
+        "description": "set of agreed, stipulated, or generally accepted standards",
+        "label": ""
+    },
+    {
+        "qid": "Q604733",
+        "name": "presentation",
+        "aliases": [
+            "presentations"
+        ],
+        "description": "process of presenting a topic to an audience",
+        "label": ""
+    },
+    {
+        "qid": "Q11460",
+        "name": "clothing",
+        "aliases": [
+            "apparel",
+            "garment",
+            "dress",
+            "wear",
+            "attire",
+            "vestment",
+            "clothes",
+            "costume"
+        ],
+        "description": "covering worn on the body",
+        "label": ""
+    },
+    {
+        "qid": "Q185957",
+        "name": "quality",
+        "aliases": "",
+        "description": "non-inferiority or superiority of something; a perceptual, conditional, and somewhat subjective attribute that may be understood differently by different people",
+        "label": ""
+    },
+    {
+        "qid": "Q728553",
+        "name": "Community",
+        "aliases": "",
+        "description": "American comedy television series created by Dan Harmon",
+        "label": ""
+    },
+    {
+        "qid": "Q660064",
+        "name": "ballot initiative",
+        "aliases": [
+            "initiative",
+            "citizens' initiative",
+            "popular initiative",
+            "Initiative"
+        ],
+        "description": "means by which a petition signed by a certain minimum number of registered voters can force a public vote",
+        "label": ""
+    },
+    {
+        "qid": "Q392825",
+        "name": "Jobs",
+        "aliases": "",
+        "description": "2013 film directed by Joshua Michael Stern",
+        "label": ""
+    },
+    {
+        "qid": "Q2683647",
+        "name": "Ende",
+        "aliases": [
+            "En"
+        ],
+        "description": "female manuscript illuminator who worked on a 10th-century group of manuscripts",
+        "label": ""
+    },
+    {
+        "qid": "Q80994",
+        "name": "adult",
+        "aliases": [
+            "grown up",
+            "adults"
+        ],
+        "description": "living organism that has reached sexual maturity",
+        "label": ""
+    },
+    {
+        "qid": "Q210439",
+        "name": "interpretation",
+        "aliases": [
+            "language interpretation",
+            "Language interpretation",
+            "interpretation (translation)"
+        ],
+        "description": "facilitating of oral or sign-language communication between users of different languages",
+        "label": ""
+    },
+    {
+        "qid": "Q181593",
+        "name": "sorting algorithm",
+        "aliases": [
+            "asc",
+            "desc",
+            "sort"
+        ],
+        "description": "algorithm that puts elements of a list in a certain order",
+        "label": ""
+    },
+    {
+        "qid": "Q58778",
+        "name": "system",
+        "aliases": "",
+        "description": "set of interacting or interdependent components",
+        "label": ""
+    },
+    {
+        "qid": "Q980",
+        "name": "Bavaria",
+        "aliases": [
+            "Free State of Bavaria",
+            "Bayern",
+            "Freistaat Bayern",
+            "Freistoot Bayern"
+        ],
+        "description": "federated state in the south of Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q15054311",
+        "name": "Team",
+        "aliases": "",
+        "description": "Lorde song",
+        "label": ""
+    },
+    {
+        "qid": "Q830719",
+        "name": "visitor pattern",
+        "aliases": [
+            "visitor"
+        ],
+        "description": "design pattern",
+        "label": ""
+    },
+    {
+        "qid": "Q3753285",
+        "name": "Friendly People",
+        "aliases": "",
+        "description": "album by Guttermouth",
+        "label": ""
+    },
+    {
+        "qid": "Q42240",
+        "name": "research",
+        "aliases": [
+            "systematic inquiry",
+            "scientific research"
+        ],
+        "description": "systematic study undertaken to increase knowledge",
+        "label": ""
+    },
+    {
+        "qid": "Q131668",
+        "name": "acropolis",
+        "aliases": "",
+        "description": "defensible hilltop used as a settlement's religious, military, and/or political center",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q11471",
+        "name": "time",
+        "aliases": "",
+        "description": "dimension in which events can be ordered from the past through the present into the future",
+        "label": ""
+    },
+    {
+        "qid": "Q184932",
+        "name": "grammatical mood",
+        "aliases": [
+            "mood",
+            "grammatical mode",
+            "mode"
+        ],
+        "description": "grammatical feature of verbs, used for signaling modality",
+        "label": ""
+    },
+    {
+        "qid": "Q313354",
+        "name": "hundred",
+        "aliases": "",
+        "description": "geographic division formerly used in certain countries",
+        "label": "CARDINAL"
+    },
+    {
+        "qid": "Q37017",
+        "name": "face",
+        "aliases": "",
+        "description": "part of the body at the front of the head",
+        "label": ""
+    },
+    {
+        "qid": "Q570116",
+        "name": "tourist attraction",
+        "aliases": [
+            "visitor attraction",
+            "tourist spot",
+            "tourist place",
+            "attraction for tourists",
+            "POI for tourists",
+            "tourism attraction",
+            "touristic attraction"
+        ],
+        "description": "place of interest where tourists visit",
+        "label": ""
+    },
+    {
+        "qid": "Q192276",
+        "name": "measure",
+        "aliases": "",
+        "description": "function assigning numbers to some subsets of a set, which could be seen as a generalization of length, area, volume and integral",
+        "label": ""
+    },
+    {
+        "qid": "Q131621",
+        "name": "House of Wittelsbach",
+        "aliases": [
+            "Wittelsbach Dynasty",
+            "Wittelsbach",
+            "Wittelsbacher"
+        ],
+        "description": "German noble family; 1180\u20131918, monarchs of Bavaria; 1214\u20131803, counts palatine of the Rhine",
+        "label": "ORG GPE"
+    },
+    {
+        "qid": "Q483261",
+        "name": "dalton",
+        "aliases": [
+            "unified atomic mass unit",
+            "Da",
+            "amu",
+            "atomic mass unit",
+            "u"
+        ],
+        "description": "unit of mass defined as \u00b9\u2044\u2081\u2082 of the mass of a carbon-12 atom",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q53858110",
+        "name": "Manuel Lu\u00eds Cafumana",
+        "aliases": [
+            "Manuel Lu\u00eds Da Silva Cafumana",
+            "Manuel Luis Cafumana",
+            "Manuel Cafumana",
+            "Chow",
+            "Show"
+        ],
+        "description": "Angolan association football player",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q18000",
+        "name": "age of majority",
+        "aliases": [
+            "adulthood",
+            "legal adulthood",
+            "age of legal capacity"
+        ],
+        "description": "threshold of adulthood as it pertains to law",
+        "label": ""
+    },
+    {
+        "qid": "Q102014",
+        "name": "hyperlink",
+        "aliases": [
+            "link"
+        ],
+        "description": "computing term; reference to data that the reader can directly follow either by clicking, tapping, or hovering",
+        "label": ""
+    },
+    {
+        "qid": "Q261155",
+        "name": "consequent",
+        "aliases": [
+            "consequence",
+            "apodosis"
+        ],
+        "description": "hypothetical proposition component",
+        "label": ""
+    },
+    {
+        "qid": "Q3",
+        "name": "life",
+        "aliases": [
+            "biota"
+        ],
+        "description": "matter capable of extracting energy from the environment for replication",
+        "label": ""
+    },
+    {
+        "qid": "Q561084",
+        "name": "K\u00f6nigsplatz",
+        "aliases": "",
+        "description": "square in Munich, Germany",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q957434",
+        "name": "veal",
+        "aliases": "",
+        "description": "meat of calves (young cattle)",
+        "label": ""
+    },
+    {
+        "qid": "Q80228",
+        "name": "bottle",
+        "aliases": [
+            "flask"
+        ],
+        "description": "cylindrical container",
+        "label": ""
+    },
+    {
+        "qid": "Q196305",
+        "name": "File Explorer",
+        "aliases": [
+            "Windows Explorer",
+            "explorer.exe",
+            "Explorer"
+        ],
+        "description": "file manager application that is included with releases of the Microsoft Windows operating system",
+        "label": ""
+    },
+    {
+        "qid": "Q7937",
+        "name": "climate",
+        "aliases": [
+            "local climate"
+        ],
+        "description": "statistics of temperature, humidity, atmospheric pressure, wind, precipitation, atmospheric particle count and other meteorological elemental measurements in a given region over long periods",
+        "label": ""
+    },
+    {
+        "qid": "Q152526",
+        "name": "Berliner",
+        "aliases": "",
+        "description": "pastry",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q2690965",
+        "name": "truffle",
+        "aliases": "",
+        "description": "fruiting body of a subterranean fungus (here focus on cuisine, not on taxonomy)",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q1193004",
+        "name": "offer and acceptance",
+        "aliases": [
+            "offer",
+            "acceptance"
+        ],
+        "description": "two components of agreement",
+        "label": ""
+    },
+    {
+        "qid": "Q42973",
+        "name": "architect",
+        "aliases": "",
+        "description": "person trained to plan and design buildings, and oversee their construction",
+        "label": ""
+    },
+    {
+        "qid": "Q945934",
+        "name": "gravy",
+        "aliases": [
+            "Universal brown sauce",
+            "UBS"
+        ],
+        "description": "food sauce often made from the juices of meats",
+        "label": ""
+    },
+    {
+        "qid": "Q1588422",
+        "name": "Admission",
+        "aliases": "",
+        "description": "2013 film by Paul Weitz",
+        "label": ""
+    },
+    {
+        "qid": "Q188572",
+        "name": "fact",
+        "aliases": "",
+        "description": "datum or structured component of reality",
+        "label": ""
+    },
+    {
+        "qid": "Q860861",
+        "name": "sculpture",
+        "aliases": [
+            "sculptures",
+            "piece of sculpture",
+            "sculptural work"
+        ],
+        "description": "three-dimensional work of art",
+        "label": ""
+    },
+    {
+        "qid": "Q707636",
+        "name": "Weisswurst",
+        "aliases": [
+            "Wei\u00dfwurst"
+        ],
+        "description": "traditional Bavarian sausage",
+        "label": ""
+    },
+    {
+        "qid": "Q48816788",
+        "name": "Impulse",
+        "aliases": "",
+        "description": "2018 American science fiction drama web television series",
+        "label": ""
+    },
+    {
+        "qid": "Q5290",
+        "name": "computer monitor",
+        "aliases": [
+            "display",
+            "screen",
+            "visual display unit",
+            "console",
+            "monitor",
+            "computer screen"
+        ],
+        "description": "electronic visual display for computers",
+        "label": ""
+    },
+    {
+        "qid": "Q251712",
+        "name": "Feldherrnhalle",
+        "aliases": [
+            "Field Marshall's Hall"
+        ],
+        "description": "monumental loggia on the Odeonsplatz in Munich, Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q684",
+        "name": "east",
+        "aliases": [
+            "E",
+            "Eest",
+            "East"
+        ],
+        "description": "one of the four cardinal directions",
+        "label": ""
+    },
+    {
+        "qid": "Q188628",
+        "name": "board of directors",
+        "aliases": [
+            "executive board",
+            "board of governors",
+            "board of managers",
+            "board of regents",
+            "board of trustees",
+            "board of visitors",
+            "B of D",
+            "corporate board"
+        ],
+        "description": "group of people who jointly supervise the activities of an organization",
+        "label": ""
+    },
+    {
+        "qid": "Q29017603",
+        "name": "control",
+        "aliases": [
+            "management",
+            "direction",
+            "directing",
+            "controlling",
+            "managing",
+            "regulation",
+            "regulating"
+        ],
+        "description": "complete authority over something; ability to fully direct the operation of a device, system, or process",
+        "label": ""
+    },
+    {
+        "qid": "Q33506",
+        "name": "museum",
+        "aliases": [
+            "museum-style institution",
+            "museal institution"
+        ],
+        "description": "institution that holds artifacts and other objects of scientific, artistic, cultural, historical, or other importance",
+        "label": ""
+    },
+    {
+        "qid": "Q349",
+        "name": "sport",
+        "aliases": [
+            "sports"
+        ],
+        "description": "forms of competitive activity, usually physical",
+        "label": ""
+    },
+    {
+        "qid": "Q29540",
+        "name": "Bavarian",
+        "aliases": [
+            "bar",
+            "Austro-Bavarian language",
+            "Bavarian language"
+        ],
+        "description": "major group of Upper German varieties spoken in the southeast of the German language area Bavaria",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q1239456",
+        "name": "'Art'",
+        "aliases": "",
+        "description": "1994 play by Yasmina Reza",
+        "label": ""
+    },
+    {
+        "qid": "Q1773818",
+        "name": "Caf\u00e9",
+        "aliases": [
+            "Cafe"
+        ],
+        "description": "2010 film directed by Marc Erlbaum",
+        "label": ""
+    },
+    {
+        "qid": "Q3055143",
+        "name": "Entrance",
+        "aliases": "",
+        "description": "album by Edgar Winter",
+        "label": ""
+    },
+    {
+        "qid": "Q16878033",
+        "name": "Newcomer",
+        "aliases": "",
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q16250945",
+        "name": "The Guest",
+        "aliases": [
+            "Guest"
+        ],
+        "description": "2014 film directed by Adam Wingard",
+        "label": ""
+    },
+    {
+        "qid": "Q48",
+        "name": "Asia",
+        "aliases": [
+            "Asian continent"
+        ],
+        "description": "continent on Earth, mainly on the Earth's northeastern quadrant",
+        "label": "LOC"
+    },
+    {
+        "qid": "Q11829360",
+        "name": "gastrointestinal tract",
+        "aliases": [
+            "Gastrointestinal System",
+            "alimentary canal",
+            "gut",
+            "digestive tract",
+            "GI tract",
+            "GIT",
+            "guts"
+        ],
+        "description": "organ system within humans and other animals",
+        "label": ""
+    },
+    {
+        "qid": "Q973",
+        "name": "Ob",
+        "aliases": [
+            "River Ob",
+            "Ob River",
+            "Obi"
+        ],
+        "description": "river in Russia; second-longest river in Asia",
+        "label": ""
+    },
+    {
+        "qid": "Q1778821",
+        "name": "cuisine",
+        "aliases": "",
+        "description": "characteristic style of cooking practices and traditions",
+        "label": ""
+    },
+    {
+        "qid": "Q63847959",
+        "name": "Valve Index",
+        "aliases": [
+            "Index",
+            "Index VR"
+        ],
+        "description": "virtual reality headset by Valve Corporation",
+        "label": ""
+    },
+    {
+        "qid": "Q903536",
+        "name": "Bread",
+        "aliases": "",
+        "description": "1970s American soft rock band from California",
+        "label": ""
+    },
+    {
+        "qid": "Q4989906",
+        "name": "monument",
+        "aliases": [
+            "monuments"
+        ],
+        "description": "imposing structure created to commemorate a person or event, or used for that purpose",
+        "label": ""
+    },
+    {
+        "qid": "Q282",
+        "name": "wine",
+        "aliases": [
+            "vino",
+            "\ud83c\udf77"
+        ],
+        "description": "alcoholic drink typically made from grapes through the fermentation process",
+        "label": ""
+    },
+    {
+        "qid": "Q42132",
+        "name": "eup",
+        "aliases": [
+            "\u016dp",
+            "up"
+        ],
+        "description": "administrative unit in North and South Korea similar to the unit of town",
+        "label": ""
+    },
+    {
+        "qid": "Q7427585",
+        "name": "Sausage",
+        "aliases": "",
+        "description": "album",
+        "label": ""
+    },
+    {
+        "qid": "Q207694",
+        "name": "art museum",
+        "aliases": [
+            "museum of art",
+            "art museums",
+            "museums of art"
+        ],
+        "description": "building or space for the exhibition of art (for institution, use Q3196771)",
+        "label": ""
+    },
+    {
+        "qid": "Q30604087",
+        "name": "Cabbage",
+        "aliases": "",
+        "description": "English indie rock band formed in 2015",
+        "label": ""
+    },
+    {
+        "qid": "Q242899",
+        "name": "Katarina Waters",
+        "aliases": [
+            "Katarina Leigh Waters",
+            "Winter"
+        ],
+        "description": "German-born English professional wrestler and professional wrestling valet",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q1199764",
+        "name": "Virgin Media",
+        "aliases": "",
+        "description": "British cable and telecommunications company",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q898429",
+        "name": "constantan",
+        "aliases": [
+            "Eureka",
+            "Advance",
+            "Ferry"
+        ],
+        "description": "alloy of copper and nickel",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q2164069",
+        "name": "Traveller",
+        "aliases": [
+            "Original Traveller Edition"
+        ],
+        "description": "tabletop role-playing game",
+        "label": ""
+    },
+    {
+        "qid": "Q1242244",
+        "name": "cup",
+        "aliases": "",
+        "description": "unit of volume with different values",
+        "label": ""
+    },
+    {
+        "qid": "Q1398885",
+        "name": "faux pas",
+        "aliases": [
+            "gaffe",
+            "blunder"
+        ],
+        "description": "socially awkward or tactless act",
+        "label": ""
+    },
+    {
+        "qid": "Q1283556",
+        "name": "guy-wire",
+        "aliases": [
+            "guy",
+            "guy wire",
+            "guy rope",
+            "guy-rope"
+        ],
+        "description": "tensioned cable designed to add stability to a free-standing structure",
+        "label": ""
+    },
+    {
+        "qid": "Q38848",
+        "name": "heavy metal",
+        "aliases": [
+            "heavy metal music"
+        ],
+        "description": "genre of rock music characterized by slack-tuned instruments, and unconventional changes of tonality (key) and time signature (metre)",
+        "label": ""
+    },
+    {
+        "qid": "Q184148",
+        "name": "plug-in",
+        "aliases": [
+            "plugin",
+            "extension",
+            "snap-in",
+            "software plugin"
+        ],
+        "description": "software component that adds a specific feature to an existing software application",
+        "label": ""
+    },
+    {
+        "qid": "Q43482",
+        "name": "Franks",
+        "aliases": [
+            "West Germanic people"
+        ],
+        "description": "Germanic people",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q703313",
+        "name": "Sour rye soup",
+        "aliases": [
+            "kyselo",
+            "West Slavic fermented cereal soups",
+            "\u017curek",
+            "\u017cur",
+            "zurek",
+            "zur"
+        ],
+        "description": "traditional West Slavic soup",
+        "label": ""
+    },
+    {
+        "qid": "Q385378",
+        "name": "construction",
+        "aliases": [
+            "building construction",
+            "building",
+            "construction work",
+            "NACE F",
+            "ISIC F"
+        ],
+        "description": "economic activity that consists of the building or assembling of a building or infrastructure",
+        "label": ""
+    },
+    {
+        "qid": "Q3663088",
+        "name": "Castles",
+        "aliases": "",
+        "description": "1992 video game",
+        "label": ""
+    },
+    {
+        "qid": "Q773108",
+        "name": "seasoning",
+        "aliases": "",
+        "description": "the process of imparting flavor to or improving the flavor of food",
+        "label": ""
+    },
+    {
+        "qid": "Q35127",
+        "name": "website",
+        "aliases": [
+            "World Wide Web site",
+            "web site",
+            "site",
+            "WWW site",
+            "Internet site"
+        ],
+        "description": "set of related web pages served from a single web domain",
+        "label": ""
+    },
+    {
+        "qid": "Q1144924",
+        "name": "U3",
+        "aliases": "",
+        "description": "computer company with a product for launching Windows applications from USB drives, and the specifications for their product",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q668",
+        "name": "India",
+        "aliases": [
+            "Republic of India",
+            "Bharat",
+            "Bharatvarsh",
+            "Hindustan",
+            "Aryavart",
+            "IN",
+            "IND",
+            "\ud83c\uddee\ud83c\uddf3"
+        ],
+        "description": "country in South Asia",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q1272835",
+        "name": "The Statement",
+        "aliases": [
+            "Statement"
+        ],
+        "description": "2003 film by Norman Jewison",
+        "label": ""
+    },
+    {
+        "qid": "Q3546121",
+        "name": "type of cheese",
+        "aliases": "",
+        "description": "classification of cheese",
+        "label": ""
+    },
+    {
+        "qid": "Q192874",
+        "name": "noodle",
+        "aliases": [
+            "noodles"
+        ],
+        "description": "type of staple food made from some type of unleavened dough",
+        "label": ""
+    },
+    {
+        "qid": "Q34617",
+        "name": "Saint Pierre and Miquelon",
+        "aliases": [
+            "Saint-Pierre-et-Miquelon",
+            "Saint-Pierre et Miquelon",
+            "pm",
+            "St. Pierre and Miquelon",
+            "St Pierre and Miquelon",
+            "\ud83c\uddf5\ud83c\uddf2"
+        ],
+        "description": "self-governing territorial overseas collectivity of France",
+        "label": "GPE PRODUCT"
+    },
+    {
+        "qid": "Q836630",
+        "name": "Part of Me",
+        "aliases": "",
+        "description": "song by Katy Perry",
+        "label": ""
+    },
+    {
+        "qid": "Q40056",
+        "name": "computer program",
+        "aliases": [
+            "program",
+            "software program"
+        ],
+        "description": "sequence of instructions written in programming language to perform a specified task with a computer",
+        "label": ""
+    },
+    {
+        "qid": "Q950029",
+        "name": "The Bridge",
+        "aliases": [
+            "Bridge"
+        ],
+        "description": "2006 film directed by Eric Steel",
+        "label": ""
+    },
+    {
+        "qid": "Q1541064",
+        "name": "smell",
+        "aliases": [
+            "olfactory perception",
+            "sense of smell",
+            "olfaction",
+            "olfactics"
+        ],
+        "description": "sense that detects odors",
+        "label": ""
+    },
+    {
+        "qid": "Q7023752",
+        "name": "confidence trick",
+        "aliases": [
+            "con",
+            "confidence game",
+            "confidence scheme",
+            "scam",
+            "stratagem",
+            "con game",
+            "con trick",
+            "grift",
+            "ripoff",
+            "rip-off",
+            "swindle"
+        ],
+        "description": "attempt to defraud a person or group after first gaining their confidence",
+        "label": ""
+    },
+    {
+        "qid": "Q3052382",
+        "name": "fonds",
+        "aliases": [
+            "archival fonds"
+        ],
+        "description": "aggregation of records, documents or works  originating from the same creator",
+        "label": ""
+    },
+    {
+        "qid": "Q12029",
+        "name": "addiction",
+        "aliases": [
+            "dependence",
+            "habit"
+        ],
+        "description": "state characterized by compulsive engagement in rewarding stimuli despite adverse consequences",
+        "label": ""
+    },
+    {
+        "qid": "Q28874479",
+        "name": "The Boring Company",
+        "aliases": [
+            "TBC",
+            "Boring Company",
+            "Boring"
+        ],
+        "description": "infrastructure and tunneling company",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q496946",
+        "name": "table",
+        "aliases": "",
+        "description": "arrangement of data in rows and columns",
+        "label": ""
+    },
+    {
+        "qid": "Q654810",
+        "name": "dating",
+        "aliases": "",
+        "description": "process of interacting and meeting other people on the prospect of establishing a romantic relationship",
+        "label": ""
+    },
+    {
+        "qid": "Q13048507",
+        "name": "Bavarians",
+        "aliases": "",
+        "description": "people of Bavaria",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q504889",
+        "name": "Werben",
+        "aliases": [
+            "Werben (Elbe)"
+        ],
+        "description": "human settlement in rural district Stendal, Saxony-Anhalt, Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q4232578",
+        "name": "crust",
+        "aliases": [
+            "crust (geology)"
+        ],
+        "description": "outermost solid shell of a rocky planet, dwarf planet or natural satellite, which is chemically distinct from the underlying mantle",
+        "label": ""
+    },
+    {
+        "qid": "Q179232",
+        "name": "interior design",
+        "aliases": [
+            "internal contents",
+            "Interior Design and Furnishings",
+            "interior art"
+        ],
+        "description": "design of the interiors, sometimes including the exterior, of a space or building, to achieve a better environment",
+        "label": ""
+    },
+    {
+        "qid": "Q2621234",
+        "name": "Marshall Applewhite",
+        "aliases": [
+            "Bo",
+            "Do",
+            "Nincom",
+            "Guinea"
+        ],
+        "description": "American cult leader",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q14619160",
+        "name": "Ancient Rome",
+        "aliases": "",
+        "description": "painting by Giovanni Paolo Panini",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q1544312",
+        "name": "Telecom Argentina",
+        "aliases": [
+            "Telecom Argentina S.A."
+        ],
+        "description": "Argentine telecommunications company",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q7447725",
+        "name": "selection",
+        "aliases": [
+            "restriction"
+        ],
+        "description": "in relational algebra,  unary operation that denotes a subset of a relation",
+        "label": ""
+    },
+    {
+        "qid": "Q154568",
+        "name": "Alte Pinakothek",
+        "aliases": [
+            "Munich Alte Pinakothek",
+            "Alte Pinakothek Bayerische Staatsgem\u00e4ldesammlungen",
+            "Alte Pinakothek M\u00fcnchen",
+            "\u00c4ltere Pinakothek"
+        ],
+        "description": "art museum in Munich, Germany",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q7915688",
+        "name": "Variable-order Markov model",
+        "aliases": [
+            "VOM"
+        ],
+        "description": "markov-based processes with variable \"memory\"",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q3031",
+        "name": "girl",
+        "aliases": [
+            "lass",
+            "lassie",
+            "\ud83d\udc67"
+        ],
+        "description": "young female human",
+        "label": ""
+    },
+    {
+        "qid": "Q1854639",
+        "name": "dumpling",
+        "aliases": "",
+        "description": "food that consists of small pieces of dough (with or without filling)",
+        "label": ""
+    },
+    {
+        "qid": "Q11707",
+        "name": "restaurant",
+        "aliases": [
+            "eatery",
+            "eating house",
+            "restaurants",
+            "eateries",
+            "eating houses"
+        ],
+        "description": "single establishment which prepares and serves food, located in building",
+        "label": ""
+    },
+    {
+        "qid": "Q288728",
+        "name": "painter and varnisher",
+        "aliases": [
+            "decorator",
+            "house painter and decorator",
+            "house decorator",
+            "painter"
+        ],
+        "description": "tradesman responsible for the painting and decorating of buildings",
+        "label": ""
+    },
+    {
+        "qid": "Q1524",
+        "name": "Athens",
+        "aliases": "",
+        "description": "capital and largest city of Greece",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q578",
+        "name": "century",
+        "aliases": [
+            "centenary",
+            "centennial",
+            "centurial",
+            "hundred years",
+            "one hundred years"
+        ],
+        "description": "unit of time lasting 100 years",
+        "label": ""
+    },
+    {
+        "qid": "Q1371819",
+        "name": "plan",
+        "aliases": [
+            "plans",
+            "program",
+            "programme"
+        ],
+        "description": "outline of a strategy for achievement of an objective",
+        "label": ""
+    },
+    {
+        "qid": "Q16871318",
+        "name": "Keen",
+        "aliases": [
+            "Keen (surname)"
+        ],
+        "description": "family name",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q5503",
+        "name": "rapid transit",
+        "aliases": [
+            "metro",
+            "subway",
+            "U-Bahn",
+            "underground",
+            "underground railway",
+            "underground railroad",
+            "metro rail",
+            "metro system",
+            "subway network",
+            "rail rapid transit"
+        ],
+        "description": "high-capacity public transport generally used in urban areas",
+        "label": ""
+    },
+    {
+        "qid": "Q282250",
+        "name": "qualia",
+        "aliases": [
+            "experience",
+            "subjective experience"
+        ],
+        "description": "individual instances of subjective, conscious experience",
+        "label": ""
+    },
+    {
+        "qid": "Q68015646",
+        "name": "Memories",
+        "aliases": "",
+        "description": "2019 single by Maroon 5",
+        "label": ""
+    },
+    {
+        "qid": "Q103184",
+        "name": "article",
+        "aliases": [
+            "grammatical article",
+            "linguistic article",
+            "art.",
+            "ART"
+        ],
+        "description": "word used with a noun to indicate the type of reference being made by the noun; one of word classes",
+        "label": ""
+    },
+    {
+        "qid": "Q99711",
+        "name": "U5",
+        "aliases": [
+            "U5 (Berlin)"
+        ],
+        "description": "rapid transit line in Berlin, Germany",
+        "label": ""
+    },
+    {
+        "qid": "Q188",
+        "name": "German",
+        "aliases": [
+            "German language",
+            "de"
+        ],
+        "description": "West Germanic language spoken mainly in Central Europe",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q5598",
+        "name": "Rembrandt",
+        "aliases": [
+            "Rembrandt Harmenszoon van Rijn",
+            "Rembrandt van Rijn",
+            "Rembrandt Harmensz. van Rijn",
+            "Rembrandt Harmensz. Van Rijn",
+            "Rembrandt Harmenszoon Van Rijn",
+            "Rembrandt Van Rhyn",
+            "Reimbrandt",
+            "Rembrandt van Rhijn",
+            "Reimbrant van Rijn",
+            "Harmensz. Van Rijn Rembrandt",
+            "Lun-po-lang",
+            "Paul Rembrandt Van Ryn",
+            "Rembrandt van Ryn",
+            "Rembrandt Hermansz van Rijn",
+            "Rhijn Rembrandt",
+            "Rembrandt Garmens van Re\u012dn",
+            "Rembrandt Olandese",
+            "Rembrant van Rijn",
+            "Rhyn",
+            "Van Rhyn Rhembrandt",
+            "R\u0101mbir\u0101nt",
+            "Rembrandt Harmensz. van Rhijn",
+            "Rambrandt van Rijn",
+            "Rembrandt Harmensz Van Rijn",
+            "Rembrant Van Rin",
+            "Rembrandt Harmensz. van Rhyn",
+            "Rembrandt van Rhyn",
+            "Rembrand van Rijn",
+            "Rembrant van Rhijn",
+            "Rembrandt Hermanszoon van Rijn",
+            "Rembrandt van Re\u012dn",
+            "Rembrandt Van Rijn",
+            "Rembrandt Harmensz van Rijn",
+            "Paul Rembrandt Van Rijn",
+            "Hamenzoon van Rijn Rembrandt",
+            "Rembrant",
+            "Rendbrand",
+            "Rhembrant",
+            "Harmensz van Ryn Rembrandt",
+            "Van Rhyn Rembrant",
+            "van Run Rembrandt Harmensz",
+            "P. Rembrant",
+            "Rembrandt.",
+            "Rembrach'",
+            "Rembrant Van-Ryn",
+            "Rembrantz",
+            "Rembrands",
+            "Van Ryn Paul Rembrant",
+            "Rijnbrant",
+            "Reimbrant",
+            "Rembrants",
+            "Reimbrans",
+            "Remb.",
+            "Renbraut",
+            "Rembrat",
+            "Reimbrand",
+            "Reubrent",
+            "Van Rhyn Rembrandt",
+            "Rembrand van Ryn",
+            "Rimbrandt",
+            "Rembrandl",
+            "Rembrandt v. Rijn",
+            "Rembrandt-Vanryn",
+            "Reembrand",
+            "Rimbran",
+            "Rymbrandt",
+            "Rembraud",
+            "Rinebrand",
+            "Harmensz Rembrandt",
+            "rembrandt von rijn",
+            "paul rembrandt harmensz van ryn",
+            "Paul Rembrand",
+            "Rembrardt",
+            "Rimbrant",
+            "Rembrandt Van Roein",
+            "reinbrandt",
+            "van Ryn Rembrandt",
+            "Rheinbrand",
+            "Rembrandt Van-Rhin",
+            "Rembrandt Harmensz van Run",
+            "Rambrant",
+            "Rem.",
+            "Rembrandt van Rhin",
+            "Rienbraut",
+            "Rembrandt H. van Rhyn",
+            "Rebranch",
+            "Renbrant",
+            "Raimbrant",
+            "Reynbrant",
+            "Rembrant V. R.",
+            "V. Rembrants",
+            "Reyn Van Rembrant",
+            "Rembrand van Rhyn",
+            "Haremsz Rembrandt van Rijn",
+            "Rembrandt V. R.",
+            "H. van Rembrandt",
+            "Rymbrand",
+            "Rembrant Van Rhyn",
+            "Van-Ryn Rembrant Fiammingo",
+            "Reimbranlt",
+            "Rymbrant",
+            "dit Rembrandt Van-Ryn",
+            "Rinbraut",
+            "Rembrandt. Van Ryn",
+            "van ryn, harmensz rembrandt",
+            "P. Van-Rhyn Rembrandt",
+            "Rembrand Ryn von",
+            "Rymbrants",
+            "Rembrad",
+            "P. Rembrandt van Ryn",
+            "Rainbrant",
+            "Rembrand von Ryn",
+            "Paul Rembrandt",
+            "Riombrach",
+            "Rembrand Van Rhim",
+            "Rymbrand Van Ryn",
+            "Reimbrat",
+            "Rembrant van Ryn",
+            "Rembr.",
+            "Van-Rhin Rembrandt",
+            "R. Rhyn",
+            "Rimbrandt van Rhyn",
+            "P. Rembrandt",
+            "Bembrant",
+            "Reitumbraz",
+            "Rembradt",
+            "Rhembrant Van-Rhyn",
+            "Rymbrants Van Ryn",
+            "Rijn brant",
+            "Rembrand von Rien",
+            "Raembrant",
+            "Harmansz Rembrandt van Ryn",
+            "Rembrandt Van Rin",
+            "Harmensz van Rijn Rembrandt",
+            "Rembrant van Leyden",
+            "Rimbrand Van Rhin",
+            "Reymbrant",
+            "Rembrandt Harmensz. van Run",
+            "Rimbrans",
+            "Harmensz, van Rijn Rembrandt",
+            "Rembrandt Harmensz van Rhyn",
+            "rembrandt v. ryn",
+            "Rembrandt Vanrin",
+            "Harmensz Rembrandt van Rijn",
+            "Rimbrand",
+            "H. van Rijn Rembrandt",
+            "van Rijn Rembrandt",
+            "Rembrandt H V Rhijn",
+            "Rinbrant",
+            "Rimbrant Van-Rhein",
+            "Rynbrand van Ryn",
+            "Rembramt",
+            "Harmensz Rembrandt van Ryn",
+            "Paul Rembrant Vanryn",
+            "Paul Rembrand van Ryn",
+            "R. van Ryn",
+            "Renbrand",
+            "Rembrant van Reyn",
+            "Rembrandt H. V. Rhyn",
+            "Van Reyn Rembrandt",
+            "Rembrandt Harmensz van Ryn",
+            "Rembrant V.R.",
+            "Rembrandt van Rjin",
+            "Rembrant Van Rhin",
+            "van Ryn Rembrant",
+            "Remdrandt",
+            "o Rembrandt Wan Rhin",
+            "H. v. Rembrandt",
+            "Rembrand",
+            "Reinbrand",
+            "Rhembrant van Rhyn",
+            "Arimbran",
+            "Rembrande",
+            "Reymbram olandes",
+            "Raimbran",
+            "rembrandt h. v. rhijn",
+            "Rhynbrandt",
+            "Rembrandt Van-Ryn",
+            "Van-Ryn Rembrandt",
+            "Rynbrandt",
+            "Harmensz Rembrandt v. Rijn",
+            "rembrandt harmensz v. rijn",
+            "van Ryn Rembrand",
+            "Rembrand von Reihn",
+            "paul rembrandt van ryn",
+            "P. Rembrand van Ryn",
+            "Rambrandt",
+            "Rembrant van Rhim",
+            "Rijmbrand",
+            "Van Rejn"
+        ],
+        "description": "Dutch painter and printmaker (1606\u20131669)",
+        "label": ""
+    },
+    {
+        "qid": "Q3375",
+        "name": "Zugspitze",
+        "aliases": "",
+        "description": "highest peak of the Wetterstein Mountains (Eastern Alps)",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q152281",
+        "name": "pilsner",
+        "aliases": [
+            "pilsener",
+            "pils",
+            "pilsen"
+        ],
+        "description": "type of pale lager",
+        "label": ""
+    },
+    {
+        "qid": "Q1124733",
+        "name": "take",
+        "aliases": "",
+        "description": "single continuous recorded performance",
+        "label": ""
+    },
+    {
+        "qid": "Q1337691",
+        "name": "shortage",
+        "aliases": [
+            "economic shortage",
+            "excess demand",
+            "demand surplus"
+        ],
+        "description": "economic demand that exceeds supply",
+        "label": ""
+    },
+    {
+        "qid": "Q1111",
+        "name": "electric charge",
+        "aliases": [
+            "electrical charge",
+            "charge"
+        ],
+        "description": "physical property that quantifies an object's interaction with electric fields",
+        "label": ""
+    },
+    {
+        "qid": "Q162077",
+        "name": "Glyptothek",
+        "aliases": [
+            "Glyptothek M\u00fcnchen",
+            "Glyptothek Munich"
+        ],
+        "description": "archaeological museum in Munich",
+        "label": ""
+    },
+    {
+        "qid": "Q2041385",
+        "name": "Railway Bridge over Daugava in Riga",
+        "aliases": [
+            "Railway Bridge"
+        ],
+        "description": "bridge that crosses the Daugava river in Riga, the capital of Latvia",
+        "label": "FAC GPE GPE"
+    },
+    {
+        "qid": "Q132",
+        "name": "Sunday",
+        "aliases": [
+            "Sun",
+            "Su",
+            "X"
+        ],
+        "description": "day of the week",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q11469",
+        "name": "glass",
+        "aliases": [
+            "sklo (materi\u00e1l)"
+        ],
+        "description": "amorphous solid that exhibits a glass transition when heated towards the liquid state",
+        "label": ""
+    },
+    {
+        "qid": "Q6097",
+        "name": "tea",
+        "aliases": "",
+        "description": "drink made from infusing water with the leaves of the tea plant",
+        "label": ""
+    },
+    {
+        "qid": "Q56538402",
+        "name": "F\u00fcr",
+        "aliases": "",
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q182995",
+        "name": "kitchen stove",
+        "aliases": [
+            "stove",
+            "range",
+            "cooker",
+            "fireplace",
+            "hearth"
+        ],
+        "description": "kitchen appliance designed for the purpose of cooking food",
+        "label": ""
+    },
+    {
+        "qid": "Q2845",
+        "name": "cannabis",
+        "aliases": [
+            "ganja",
+            "marihuana",
+            "La Kimberly",
+            "Maria",
+            "Mota",
+            "Hierba",
+            "Mostaza",
+            "pot",
+            "mostaza",
+            "weed",
+            "marijuana",
+            "grass",
+            "herb",
+            "flower",
+            "buds",
+            "tokes",
+            "reefer",
+            "Cannabis (drug)",
+            "edibles"
+        ],
+        "description": "psychoactive herb from the Cannabis plant used for medical or recreational purposes",
+        "label": ""
+    },
+    {
+        "qid": "Q2698246",
+        "name": "\u00dcber",
+        "aliases": "",
+        "description": "Lojser",
+        "label": ""
+    },
+    {
+        "qid": "Q28389",
+        "name": "screenwriter",
+        "aliases": [
+            "scenarist",
+            "writer",
+            "screen writer",
+            "script writer",
+            "scriptwriter",
+            "screenplay writer"
+        ],
+        "description": "writer who writes for films, TV shows, comics and games",
+        "label": ""
+    },
+    {
+        "qid": "Q862761",
+        "name": "interior",
+        "aliases": [
+            "interior of a set",
+            "open kernel"
+        ],
+        "description": "given a subset S of a topological space X, the biggest set of points in S not part of the boundary of S",
+        "label": ""
+    },
+    {
+        "qid": "Q1726",
+        "name": "Munich",
+        "aliases": [
+            "M\u00fcnchen",
+            "Munchen",
+            "Muenchen",
+            "Minga",
+            "Monachium",
+            "M\u00fcnich"
+        ],
+        "description": "capital and most populous city of Bavaria, Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q533572",
+        "name": "Specialty",
+        "aliases": [
+            "Specialty Records"
+        ],
+        "description": "US record label; imprint of Specialty Records Inc.",
+        "label": ""
+    },
+    {
+        "qid": "Q41884",
+        "name": "Mehr",
+        "aliases": "",
+        "description": "seventh month of the Solar Hijri calendar",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q183",
+        "name": "Germany",
+        "aliases": [
+            "Federal Republic of Germany",
+            "Deutschland",
+            "GER",
+            "BR Deutschland",
+            "DE",
+            "BRD",
+            "Bundesrepublik Deutschland",
+            "de",
+            "GFR"
+        ],
+        "description": "country in Central Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q587180",
+        "name": "base on balls",
+        "aliases": [
+            "walk",
+            "BB"
+        ],
+        "description": "in baseball, reaching base on four balls",
+        "label": ""
+    },
+    {
+        "qid": "Q188558",
+        "name": "Wine",
+        "aliases": [
+            "Winelib",
+            "W.I.N.E.",
+            "WineHQ",
+            "Windows Emulator",
+            "Wine Is Not an Emulator"
+        ],
+        "description": "compatibility layer for running Windows software on Unix-like systems",
+        "label": ""
+    },
+    {
+        "qid": "Q37654",
+        "name": "market",
+        "aliases": "",
+        "description": "mechanisms whereby supply and demand confront each other and deals are made, involving places, processes and institutions in which exchanges occur (for physical venues, use Q132510 or Q330284)",
+        "label": ""
+    },
+    {
+        "qid": "Q22336953",
+        "name": "European Masters",
+        "aliases": "",
+        "description": "snooker tournament",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q3806921",
+        "name": "Jan Philip van Thielen",
+        "aliases": [
+            "Jan Philips Van Rigoults",
+            "Jan Philip van Thielen-Rigouldts",
+            "Jan Philips Van Conwemberg",
+            "Philip Thielen",
+            "Jean Philips Van Rigoults",
+            "Jan Philip Van Thielen Rigouldts",
+            "Jan Philip van Thielen",
+            "Jan Philips van Righolz",
+            "Jan Philips Van Thielen-Rigoults",
+            "Jan Van Thielen",
+            "Jean Philips van Thielen",
+            "Jan Philip Van Thielen",
+            "Jean Philips Van Conwemberg",
+            "Jan Philip van Thielen Rigouldts",
+            "Thielin of Mechlin",
+            "Jan Philips gen. Rigouldts Thielen",
+            "Jan Vanthelen",
+            "Van Tiel",
+            "J.P. v. Thielens",
+            "Johann Philipp van Thielen",
+            "Van Theling",
+            "j. p. van thielen",
+            "Van Thelin",
+            "Jan Philipp van Thielen",
+            "J.P. Van Thielen de Kauwenhoven",
+            "Philipp van Thielen",
+            "Thielen-Rigouldts",
+            "V. Thielen",
+            "jan van thielen",
+            "Van Theilan",
+            "j. ph. v. thielen",
+            "jan philips van thielen",
+            "Van Thielen",
+            "J.B. Van Thielen",
+            "j. p. v. thielen",
+            "Jan Philips Thielens van Rigoults",
+            "Juan Van tielen",
+            "Thielen",
+            "Van Thulen",
+            "Thillen",
+            "Jean Van Thielen",
+            "Thiel",
+            "philipp van thielen",
+            "jan philipe van thielen",
+            "J.P. van Thielen"
+        ],
+        "description": "Flemish still life painter (1618-1667)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q152810",
+        "name": "landfill",
+        "aliases": [
+            "landfill site",
+            "dump",
+            "tip",
+            "rubbish dump",
+            "dumping ground",
+            "Final landfill site"
+        ],
+        "description": "site for the disposal of waste materials by burial",
+        "label": ""
+    },
+    {
+        "qid": "Q1321",
+        "name": "Spanish",
+        "aliases": [
+            "es",
+            "Castilian",
+            "Spanish language",
+            "Castilian language",
+            "Espa\u00f1ol"
+        ],
+        "description": "Romanic language originating in the central part of the Iberian Peninsula",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q4503831",
+        "name": "goal",
+        "aliases": [
+            "aim",
+            "goals",
+            "objective",
+            "purpose",
+            "desired result"
+        ],
+        "description": "idea of the future or result that a person or group wants to achieve",
+        "label": ""
+    },
+    {
+        "qid": "Q7300356",
+        "name": "Read",
+        "aliases": [
+            "read",
+            "read (biology)"
+        ],
+        "description": "short sequence of DNA or cDNA obtained by sequencing",
+        "label": ""
+    },
+    {
+        "qid": "Q79784",
+        "name": "Friends",
+        "aliases": "",
+        "description": "American sitcom (1994\u20132004)",
+        "label": ""
+    },
+    {
+        "qid": "Q11028",
+        "name": "information",
+        "aliases": [
+            "information artifact",
+            "info"
+        ],
+        "description": "that which informs; the answer to a question; that from which data and knowledge can be derived",
+        "label": ""
+    },
+    {
+        "qid": "Q18690969",
+        "name": "meeting point",
+        "aliases": [
+            "assembly point",
+            "meeting place"
+        ],
+        "description": "place where people meet",
+        "label": ""
+    },
+    {
+        "qid": "Q1329910",
+        "name": "view",
+        "aliases": [
+            "SQL view",
+            "database view"
+        ],
+        "description": "result set of a stored query on a database",
+        "label": ""
+    },
+    {
+        "qid": "Q190087",
+        "name": "data type",
+        "aliases": [
+            "type",
+            "data type (computer programming)",
+            "type of data",
+            "type (computer science)",
+            "computing type"
+        ],
+        "description": "classification of data in computer science",
+        "label": ""
+    },
+    {
+        "qid": "Q82821",
+        "name": "tradition",
+        "aliases": [
+            "folk custom"
+        ],
+        "description": "belief or behavior passed down within a group or society with symbolic meaning or special significance with origins in the past",
+        "label": ""
+    },
+    {
+        "qid": "Q32455",
+        "name": "Hall of Fame",
+        "aliases": "",
+        "description": "original song written and composed by Danny O'Donoghue, James Barry, Mark Sheehan, and will.i.am; recorded by The Script feat. will.i.am",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q8805",
+        "name": "bit",
+        "aliases": [
+            "b"
+        ],
+        "description": "basic unit of information in computing and digital communications",
+        "label": ""
+    },
+    {
+        "qid": "Q16502",
+        "name": "world",
+        "aliases": [
+            "natural world",
+            "the world",
+            "World"
+        ],
+        "description": "totality of entities, to the whole of reality or to everything that is",
+        "label": ""
+    },
+    {
+        "qid": "Q5169211",
+        "name": "Copyright",
+        "aliases": "",
+        "description": "band",
+        "label": ""
+    },
+    {
+        "qid": "Q1076521",
+        "name": "psychedelic experience",
+        "aliases": [
+            "trip",
+            "acid trip"
+        ],
+        "description": "altered state of consciousness brought upon by the consumption of psychoactive substances",
+        "label": ""
+    },
+    {
+        "qid": "Q43016",
+        "name": "1000",
+        "aliases": [
+            "thousand",
+            "one thousand",
+            "k",
+            "Number 1000",
+            "1,000",
+            "M",
+            "1.000",
+            "1 000"
+        ],
+        "description": "natural number",
+        "label": "CARDINAL"
+    },
+    {
+        "qid": "Q274758",
+        "name": "digital certificate",
+        "aliases": [
+            "certificate",
+            "identity certificate",
+            "public key certificate"
+        ],
+        "description": "electronic document used to prove the ownership of a public key",
+        "label": ""
+    },
+    {
+        "qid": "Q7590",
+        "name": "transport",
+        "aliases": [
+            "transportation",
+            "delivery",
+            "transit"
+        ],
+        "description": "human-directed movement of things or people between locations",
+        "label": ""
+    },
+    {
+        "qid": "Q157195",
+        "name": "waiter",
+        "aliases": [
+            "waiter boy",
+            "waitress",
+            "waitress girl",
+            "waitstaff",
+            "server",
+            "serving staff",
+            "waitron",
+            "waitperson",
+            "table waiter",
+            "foki",
+            "waiters"
+        ],
+        "description": "person who attends to customers by serving them food and drink",
+        "label": ""
+    },
+    {
+        "qid": "Q189569",
+        "name": "basis",
+        "aliases": [
+            "Hamel basis",
+            "algebraic basis",
+            "basis of a vector space",
+            "vector basis",
+            "base"
+        ],
+        "description": "subset of a vector space that allows defining coordinates",
+        "label": ""
+    },
+    {
+        "qid": "Q517",
+        "name": "Napoleon",
+        "aliases": [
+            "Napol\u00e9on Bonaparte",
+            "Napoleone di Buonaparte",
+            "Empereur des Fran\u00e7ais Napol\u00e9on I",
+            "Napoleon Buonaparte",
+            "emperador dels francesos Napole\u00f3 I",
+            "Napoleone Bonaparte",
+            "Napoleone Buonaparte",
+            "Emperador de Francia Napole\u00f3n I",
+            "Napoleon I",
+            "Napoleon Bonaparte",
+            "the Corsican Napolean",
+            "The Little Corporal",
+            "Napulione Buonaparte",
+            "Napulione di Buonaparte",
+            "Napoleon I of France",
+            "Napoleone I",
+            "Little Corporal"
+        ],
+        "description": "French military leader, French Emperor 1804\u20131814 and again in 1815",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q10179",
+        "name": "Zulu",
+        "aliases": [
+            "isiZulu",
+            "Zulu language",
+            "zu"
+        ],
+        "description": "Nguni language of eastern South Africa and neighbouring countries",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q132241",
+        "name": "festival",
+        "aliases": [
+            "Fiesta Day",
+            "Ecclesiastical Feast",
+            "festivity",
+            "feast",
+            "festival series"
+        ],
+        "description": "celebration that focuses upon a theme, and may run for hours to weeks; usually repeated regularily, eg. once a year",
+        "label": ""
+    },
+    {
+        "qid": "Q48103",
+        "name": "torque",
+        "aliases": "",
+        "description": "tendency of a force to rotate an object",
+        "label": ""
+    },
+    {
+        "qid": "Q180309",
+        "name": "hyphen",
+        "aliases": [
+            "-",
+            "bar",
+            "\u2010"
+        ],
+        "description": "punctuation mark used to join words",
+        "label": ""
+    },
+    {
+        "qid": "Q21509219",
+        "name": "Arbeit",
+        "aliases": "",
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q13116",
+        "name": "Benelux",
+        "aliases": [
+            "Benelux Union",
+            "Benelux Economic Union"
+        ],
+        "description": "politico-economic union between Belgium, the Netherlands and Luxembourg",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q6101",
+        "name": "Marco Polo",
+        "aliases": [
+            "Magebeiluo",
+            "Marco Emilio Polo"
+        ],
+        "description": "Venetian explorer and merchant who travelled through Asia",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q585",
+        "name": "Oslo",
+        "aliases": [
+            "Christiania",
+            "Kristiania",
+            "NOOSL",
+            "Oslo, Norway"
+        ],
+        "description": "capital city of Norway",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q387834",
+        "name": "thing",
+        "aliases": "",
+        "description": "type of governing assembly",
+        "label": ""
+    },
+    {
+        "qid": "Q1012111",
+        "name": "Gr\u00fcnwald castle",
+        "aliases": "",
+        "description": "castle",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q1390690",
+        "name": "Showcase",
+        "aliases": "",
+        "description": "Canadian television channel",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q5111",
+        "name": "Abkhaz",
+        "aliases": [
+            "Abkhaz language",
+            "Abkhazian",
+            "ab",
+            "Abxaz",
+            "apsshwa",
+            "Apsua byzshwa"
+        ],
+        "description": "Northwest Caucasian language native to northwestern Georgia",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q1370468",
+        "name": "reconstruction",
+        "aliases": [
+            "restoration",
+            "building reconstruction"
+        ],
+        "description": "repair of an existing architectural object",
+        "label": ""
+    },
+    {
+        "qid": "Q10943",
+        "name": "cheese",
+        "aliases": [
+            "cheeses"
+        ],
+        "description": "yellow or white, creamy or solid food made from the pressed curds of milk",
+        "label": ""
+    },
+    {
+        "qid": "Q131413",
+        "name": "wheat beer",
+        "aliases": "",
+        "description": "beer brewed in part with wheat",
+        "label": ""
+    },
+    {
+        "qid": "Q1580267",
+        "name": "Hans Hinrich Rundt",
+        "aliases": [
+            "Hans Hinrich Ruundt",
+            "Johann Rundt",
+            "Rundt",
+            "Ruundt",
+            "Rund",
+            "J. Rundt"
+        ],
+        "description": "German painter (1660-1750)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q5122468",
+        "name": "Cities",
+        "aliases": "",
+        "description": "album by Anberlin",
+        "label": ""
+    },
+    {
+        "qid": "Q170584",
+        "name": "project",
+        "aliases": [
+            "program",
+            "programme",
+            "effort"
+        ],
+        "description": "collaborative enterprise, frequently involving research or design, that is carefully planned to achieve a particular aim",
+        "label": ""
+    },
+    {
+        "qid": "Q1313",
+        "name": "summer",
+        "aliases": [
+            "summer season",
+            "summertime season"
+        ],
+        "description": "warmest of the four temperate seasons, beginning or centered around the summer solstice",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q1792644",
+        "name": "art style",
+        "aliases": [
+            "visual style",
+            "style",
+            "style of art",
+            "style (art)",
+            "visual art style",
+            "style in visual art",
+            "artistic style",
+            "style in art"
+        ],
+        "description": "classification of an art work, based on how it is perceived by the audience, specific to an artist or shared with other works of the same movement or school",
+        "label": ""
+    },
+    {
+        "qid": "Q881659",
+        "name": "bone",
+        "aliases": [
+            "boning",
+            "steels",
+            "whalebone",
+            "stay"
+        ],
+        "description": "strip of rigid material used to stiffen corsets, bodices, collars, or other types of costume",
+        "label": ""
+    },
+    {
+        "qid": "Q36866088",
+        "name": "Macht",
+        "aliases": "",
+        "description": "family name",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q728646",
+        "name": "partnership",
+        "aliases": [
+            "partner"
+        ],
+        "description": "arrangement in which parties agree to cooperate to advance their mutual interests",
+        "label": ""
+    },
+    {
+        "qid": "Q1351911",
+        "name": "Fame",
+        "aliases": "",
+        "description": "1980 film by Alan Parker",
+        "label": ""
+    },
+    {
+        "qid": "Q16928008",
+        "name": "State",
+        "aliases": "",
+        "description": "semantic web platform created by London, England-based Equal Media Ltd.",
+        "label": ""
+    },
+    {
+        "qid": "Q1554231",
+        "name": "resource",
+        "aliases": [
+            "resources",
+            "ressource",
+            "natural resources site"
+        ],
+        "description": "source or supply from which benefit is produced",
+        "label": ""
+    },
+    {
+        "qid": "Q334600",
+        "name": "practice",
+        "aliases": [
+            "Practice, Psychological"
+        ],
+        "description": "act of rehearsing a behavior repeatedly; sessions scheduled for the purpose of rehearsing and performance improvement",
+        "label": ""
+    },
+    {
+        "qid": "Q667",
+        "name": "south",
+        "aliases": [
+            "S",
+            "southbound",
+            "southerly"
+        ],
+        "description": "one of the four cardinal directions",
+        "label": ""
+    },
+    {
+        "qid": "Q877322",
+        "name": "U4",
+        "aliases": "",
+        "description": "metro line in Vienna",
+        "label": "PRODUCT"
+    },
+    {
+        "qid": "Q1071233",
+        "name": "terminal emulator",
+        "aliases": [
+            "terminal",
+            "terminal application",
+            "term"
+        ],
+        "description": "program that emulates a video terminal",
+        "label": ""
+    },
+    {
+        "qid": "Q36279",
+        "name": "biography",
+        "aliases": [
+            "bio",
+            "Biography",
+            "Biographical [Theme]"
+        ],
+        "description": "published account of a person's life",
+        "label": ""
+    },
+    {
+        "qid": "Q38695",
+        "name": "cooking",
+        "aliases": [
+            "cookery"
+        ],
+        "description": "preparing food for consumption by the application of heat",
+        "label": ""
+    },
+    {
+        "qid": "Q567400",
+        "name": "Karlstor",
+        "aliases": "",
+        "description": "gate tower in Munich",
+        "label": ""
+    },
+    {
+        "qid": "Q185698",
+        "name": "methodology",
+        "aliases": [
+            "research methodology"
+        ],
+        "description": "scientific method of accumulating data",
+        "label": ""
+    },
+    {
+        "qid": "Q4169",
+        "name": "outer space",
+        "aliases": [
+            "space",
+            "deep space",
+            "exosphere"
+        ],
+        "description": "the area of space after the earth's atmosphere ends.",
+        "label": ""
+    },
+    {
+        "qid": "Q12558574",
+        "name": "point of view",
+        "aliases": [
+            "perspective",
+            "point of view (philosophy)",
+            "POV",
+            "point of observation",
+            "position",
+            "viewpoint",
+            "standpoint",
+            "view",
+            "outlook"
+        ],
+        "description": "standpoint regarding a topic; opinion, attitude, or judgment upon some matter; way that one looks at something",
+        "label": ""
+    },
+    {
+        "qid": "Q16842519",
+        "name": "Heart Beats",
+        "aliases": "",
+        "description": "2007 film",
+        "label": ""
+    },
+    {
+        "qid": "Q2874682",
+        "name": "Awesome",
+        "aliases": "",
+        "description": "1990 video game",
+        "label": ""
+    },
+    {
+        "qid": "Q2140674",
+        "name": "ballistic trauma",
+        "aliases": [
+            "GSW",
+            "bullet wound",
+            "gunshot wound",
+            "shot",
+            "gunshot wounds",
+            "wounds, gunshot",
+            "firearm wound",
+            "firearm trauma"
+        ],
+        "description": "form of physical trauma sustained from the discharge of arms or munitions",
+        "label": ""
+    },
+    {
+        "qid": "Q2283",
+        "name": "Microsoft",
+        "aliases": [
+            "MS",
+            "MSFT",
+            "Microsoft Corp.",
+            "Micro-Soft",
+            "Microsoft Corporation"
+        ],
+        "description": "American multinational technology corporation",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q57607",
+        "name": "Christmas market",
+        "aliases": [
+            "Christkindlmarkt",
+            "Christkindlesmarkt",
+            "Christkindlmarket",
+            "Weihnachtsmarkt"
+        ],
+        "description": "market, usually outdoor, associated with the celebration of Christmas",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q656656",
+        "name": "tap",
+        "aliases": [
+            "faucet",
+            "water taps"
+        ],
+        "description": "valve controlling the release of a liquid or gas from a pipe",
+        "label": ""
+    },
+    {
+        "qid": "Q1962728",
+        "name": "course",
+        "aliases": "",
+        "description": "direction or route along which an object travels",
+        "label": ""
+    },
+    {
+        "qid": "Q1460347",
+        "name": "Recherche",
+        "aliases": "",
+        "description": "newspaper",
+        "label": ""
+    },
+    {
+        "qid": "Q36784",
+        "name": "region of France",
+        "aliases": [
+            "administrative region of France",
+            "regions of France",
+            "administrative regions of France",
+            "French region"
+        ],
+        "description": "France top-level territorial subdivision",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q3434245",
+        "name": "Little Sister",
+        "aliases": "",
+        "description": "1961 single by Elvis Presley",
+        "label": ""
+    },
+    {
+        "qid": "Q178512",
+        "name": "public transport",
+        "aliases": [
+            "public transportation",
+            "public transit",
+            "mass transit"
+        ],
+        "description": "shared transportation service for use by the general public",
+        "label": ""
+    },
+    {
+        "qid": "Q920586",
+        "name": "Green",
+        "aliases": "",
+        "description": "1988 album by R.E.M.",
+        "label": ""
+    },
+    {
+        "qid": "Q813461",
+        "name": "Beautiful Thing",
+        "aliases": "",
+        "description": "1996 film by Hettie MacDonald",
+        "label": ""
+    },
+    {
+        "qid": "Q11629",
+        "name": "art of painting",
+        "aliases": [
+            "painting",
+            "to paint"
+        ],
+        "description": "practice of applying paint, pigment, color or other medium to a surface",
+        "label": ""
+    },
+    {
+        "qid": "Q160525",
+        "name": "pretzel",
+        "aliases": [
+            "Bretzel",
+            "Pretzels"
+        ],
+        "description": "German baked pastry shaped into a knot",
+        "label": ""
+    },
+    {
+        "qid": "Q917284",
+        "name": "climbing plant",
+        "aliases": [
+            "climber",
+            "vine",
+            "climbing plants",
+            "creeper"
+        ],
+        "description": "plant with a growth habit of trailing or scandent (that is, climbing) stems or runners",
+        "label": ""
+    },
+    {
+        "qid": "Q30",
+        "name": "United States of America",
+        "aliases": [
+            "the United States of America",
+            "America",
+            "U.S.A.",
+            "USA",
+            "U.S.",
+            "US",
+            "the US",
+            "the USA",
+            "US of A",
+            "the United States",
+            "U. S. A.",
+            "U. S.",
+            "the States",
+            "the U.S.",
+            "United States",
+            "\ud83c\uddfa\ud83c\uddf8"
+        ],
+        "description": "country in North America",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q101072",
+        "name": "definition",
+        "aliases": [
+            "meaning",
+            "definitional",
+            "definitonally",
+            "defining"
+        ],
+        "description": "statement that attaches a meaning to a term",
+        "label": ""
+    },
+    {
+        "qid": "Q169276",
+        "name": "Allg\u00e4u",
+        "aliases": "",
+        "description": "southern German region in Swabia",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q64",
+        "name": "Berlin",
+        "aliases": [
+            "Berlin, Germany",
+            "Berlin (Germany)",
+            "DE-BE"
+        ],
+        "description": "federal state, capital and largest city of Germany",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q187860",
+        "name": "option",
+        "aliases": [
+            "stock option",
+            "Option (finance)",
+            "financial option",
+            "option contract",
+            "options contract"
+        ],
+        "description": "financial derivative conferring the right to to buy or sell a certain thing at a later date at an agreed price",
+        "label": ""
+    },
+    {
+        "qid": "Q131419",
+        "name": "sausage",
+        "aliases": "",
+        "description": "food usually made from ground meat with a skin around it",
+        "label": ""
+    },
+    {
+        "qid": "Q542707",
+        "name": "New City",
+        "aliases": [
+            "New City, Chicago",
+            "New City, IL"
+        ],
+        "description": "human settlement in Cook County, Illinois, United States of America",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q1098",
+        "name": "uranium",
+        "aliases": [
+            "U",
+            "element 92"
+        ],
+        "description": "radioactive, metallic element with the atomic number 92",
+        "label": ""
+    },
+    {
+        "qid": "Q5195228",
+        "name": "curry house",
+        "aliases": [
+            "Indian restaurant"
+        ],
+        "description": "restaurant serving Indian, Kashmiri, Bangladeshi or similar cuisine",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q21510774",
+        "name": "Radler",
+        "aliases": "",
+        "description": "family name",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q5375780",
+        "name": "end",
+        "aliases": [
+            "American football end",
+            "gridiron football end",
+            "Canadian football end"
+        ],
+        "description": "position in American and Canadian football",
+        "label": ""
+    },
+    {
+        "qid": "Q1162163",
+        "name": "director",
+        "aliases": [
+            "chief",
+            "head"
+        ],
+        "description": "person who leads a particular area of a company or organization",
+        "label": ""
+    },
+    {
+        "qid": "Q7366",
+        "name": "song",
+        "aliases": [
+            "songs",
+            "vocal piece",
+            "piece of vocal music",
+            "vocal pieces",
+            "pieces of vocal music"
+        ],
+        "description": "musical composition for voice(s)",
+        "label": ""
+    },
+    {
+        "qid": "Q485537",
+        "name": "odor",
+        "aliases": [
+            "scent",
+            "smell",
+            "odour",
+            "fragrance",
+            "aroma",
+            "malodor",
+            "stench",
+            "stink",
+            "odorant",
+            "odorants"
+        ],
+        "description": "thing sensed by smell",
+        "label": ""
+    },
+    {
+        "qid": "Q1149770",
+        "name": "Von",
+        "aliases": "",
+        "description": "1997 album by Sigur R\u00f3s",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q6770871",
+        "name": "Marketing",
+        "aliases": "",
+        "description": "Canadian business magazine",
+        "label": ""
+    },
+    {
+        "qid": "Q742333",
+        "name": "history painting",
+        "aliases": [
+            "historical painting",
+            "historical art"
+        ],
+        "description": "genre in painting defined by historical matter (see also religious painting and mythological painting)",
+        "label": ""
+    },
+    {
+        "qid": "Q16166142",
+        "name": "Review",
+        "aliases": "",
+        "description": "television series",
+        "label": ""
+    },
+    {
+        "qid": "Q180711",
+        "name": "search engine optimization",
+        "aliases": [
+            "SEO",
+            "Search Optimization",
+            "Search Engine Optimization",
+            "Search Engine Optimization, SEO",
+            "SMO"
+        ],
+        "description": "practice of increasing online visibility in search engine results pages",
+        "label": ""
+    },
+    {
+        "qid": "Q309100",
+        "name": "planning",
+        "aliases": [
+            "forethought"
+        ],
+        "description": "process of determining the activities required to achieve a desired goal",
+        "label": ""
+    },
+    {
+        "qid": "Q40156",
+        "name": "A6M Zero",
+        "aliases": [
+            "Mitsubishi A6M Zero",
+            "Navy Type 0 Carrier Fighter",
+            "Zero",
+            "Type 0",
+            "Reisen",
+            "Zeke",
+            "Mitsubishi Carrier Fighter Design 6",
+            "A6M Reisen",
+            "Mitsubishi Navy 12-shi Carrier Fighter"
+        ],
+        "description": "1939 fighter aircraft family by Mitsubishi",
+        "label": "PRODUCT"
+    },
+    {
+        "qid": "Q7741996",
+        "name": "The Influence",
+        "aliases": [
+            "Influence"
+        ],
+        "description": "2010 film by Lee Jae-gyu",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q11106",
+        "name": "bacon",
+        "aliases": "",
+        "description": "cured and smoked pork belly",
+        "label": ""
+    },
+    {
+        "qid": "Q551800",
+        "name": "ticket",
+        "aliases": [
+            "entrance ticket",
+            "ticket of admission"
+        ],
+        "description": "paper or cardboard document showing payment for access to an event or service",
+        "label": ""
+    },
+    {
+        "qid": "Q16949280",
+        "name": "LOVE",
+        "aliases": "",
+        "description": "British magazine",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q171186",
+        "name": "Blogger",
+        "aliases": [
+            "Blogspot",
+            "blogspot.com",
+            ".blogspot.com",
+            "Google Blogger",
+            "Blogger beta",
+            "Blogger.com"
+        ],
+        "description": "social network and blogging platform by Google",
+        "label": ""
+    },
+    {
+        "qid": "Q749316",
+        "name": "snack",
+        "aliases": [
+            "snack food",
+            "convenience snack food",
+            "convenience snack"
+        ],
+        "description": "portion of food, often smaller than a regular meal",
+        "label": ""
+    },
+    {
+        "qid": "Q552",
+        "name": "Oder",
+        "aliases": [
+            "Odra",
+            "Oder River"
+        ],
+        "description": "river in Central Europe flowing from the Czech Republic and along the Poland\u2013Germany border",
+        "label": ""
+    },
+    {
+        "qid": "Q28758319",
+        "name": "Brazen",
+        "aliases": "",
+        "description": "comic book series by P\u00e9n\u00e9lope Bagieu",
+        "label": ""
+    },
+    {
+        "qid": "Q3235331",
+        "name": "Les Saveurs du Palais",
+        "aliases": [
+            "Saveurs du Palais.",
+            "Les Saveurs du palais",
+            "Haute Cuisine",
+            "Saveurs du Palais"
+        ],
+        "description": "2012 film by Christian Vincent",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q3469910",
+        "name": "performing arts center",
+        "aliases": [
+            "performance space",
+            "performance venue",
+            "performing arts venue",
+            "Center for the Performing Arts",
+            "performing arts centre"
+        ],
+        "description": "facility primarily intended for the performing arts and that may consist of several performance spaces along with other multi-purpose event spaces",
+        "label": ""
+    },
+    {
+        "qid": "Q180686",
+        "name": "PubMed",
+        "aliases": [
+            "PM",
+            "PubMed.gov",
+            "Public Medicine"
+        ],
+        "description": "online database with abstracts of medical articles, hosted by US National Library of Medicine",
+        "label": ""
+    },
+    {
+        "qid": "Q3024715",
+        "name": "A Cooler Climate",
+        "aliases": [
+            "Cooler Climate"
+        ],
+        "description": "1999 film directed by Susan Seidelman",
+        "label": ""
+    },
+    {
+        "qid": "Q40050",
+        "name": "drink",
+        "aliases": [
+            "beverage",
+            "drinks",
+            "beverages"
+        ],
+        "description": "kind of liquid which is specifically prepared for human consumption",
+        "label": ""
+    },
+    {
+        "qid": "Q735",
+        "name": "art",
+        "aliases": [
+            "arts",
+            "Art and design, photography and architecture"
+        ],
+        "description": "field of work focused on creating expressive work intended to be appreciated for its beauty or emotional power; NOT the resulting work",
+        "label": ""
+    },
+    {
+        "qid": "Q1872",
+        "name": "americium",
+        "aliases": [
+            "Am",
+            "element 95"
+        ],
+        "description": "chemical element with the atomic number of 95",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q7737701",
+        "name": "The Great Day",
+        "aliases": [
+            "Great Day"
+        ],
+        "description": "1920 film by Hugh Ford",
+        "label": "EVENT"
+    },
+    {
+        "qid": "Q53171341",
+        "name": "Fam",
+        "aliases": [
+            "Fam"
+        ],
+        "description": "American comedy television series created by Corinne Kingsbury for CBS",
+        "label": ""
+    },
+    {
+        "qid": "Q5578502",
+        "name": "gold(I) fluoride",
+        "aliases": [
+            "AuF"
+        ],
+        "description": "chemical compound (AuF)",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q7802",
+        "name": "bread",
+        "aliases": [
+            "Breads & Buns"
+        ],
+        "description": "food made of flour and water",
+        "label": ""
+    },
+    {
+        "qid": "Q2798912",
+        "name": "accountability",
+        "aliases": [
+            "answerability",
+            "responsibility",
+            "account"
+        ],
+        "description": "concept of responsibility in ethics, governance and decision-making, which encompasses answerability, blameworthiness, liability, and the expectation of account-giving",
+        "label": ""
+    },
+    {
+        "qid": "Q130838",
+        "name": "Today",
+        "aliases": [
+            "The Today Show",
+            "Today show",
+            "Today show (television program)",
+            "Today (television program)",
+            "NBC Today show",
+            "NBC Today show (television program)",
+            "today.com"
+        ],
+        "description": "American morning television program broadcast on NBC",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q1056761",
+        "name": "significant figure",
+        "aliases": [
+            "significance",
+            "significant digip",
+            "significant figures"
+        ],
+        "description": "any digit of a number within the measurement resolution of that number, as opposed to spurious digits",
+        "label": ""
+    },
+    {
+        "qid": "Q760170",
+        "name": "enumerated type",
+        "aliases": [
+            "enumeration",
+            "enum",
+            "enumerated type (computer programming)",
+            "factor"
+        ],
+        "description": "data type consisting of an unordered set of named values",
+        "label": ""
+    },
+    {
+        "qid": "Q706622",
+        "name": "intention",
+        "aliases": [
+            "goal",
+            "purpose",
+            "premeditation",
+            "intent",
+            "intentionality",
+            "intentional",
+            "on purpose",
+            "intended",
+            "determination",
+            "determined"
+        ],
+        "description": "mental state representing commitment to perform an action",
+        "label": ""
+    },
+    {
+        "qid": "Q577",
+        "name": "year",
+        "aliases": [
+            "anno",
+            "annum",
+            "a"
+        ],
+        "description": "estimated period of time for the Earth's orbit around the Sun and observed at a fixed geographic point (averaging 365.24 days); base later modified to define or adjust various calendars",
+        "label": ""
+    },
+    {
+        "qid": "Q273062",
+        "name": "stern",
+        "aliases": "",
+        "description": "back or aft-most part of a ship or boat",
+        "label": ""
+    },
+    {
+        "qid": "Q12896105",
+        "name": "lunch",
+        "aliases": [
+            "luncheon"
+        ],
+        "description": "meal eaten around midday",
+        "label": ""
+    },
+    {
+        "qid": "Q15751355",
+        "name": "Schweinshaxe",
+        "aliases": "",
+        "description": "roasted pork knuckles",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q1347572",
+        "name": "evidence",
+        "aliases": [
+            "clues",
+            "tips"
+        ],
+        "description": "anything presented in support of an assertion",
+        "label": ""
+    },
+    {
+        "qid": "Q12271",
+        "name": "architecture",
+        "aliases": "",
+        "description": "both the process and product of planning, designing and construction",
+        "label": ""
+    },
+    {
+        "qid": "Q224",
+        "name": "Croatia",
+        "aliases": [
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+        ],
+        "description": "country in Central and Southeastern Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q123705",
+        "name": "neighborhood",
+        "aliases": [
+            "neighbourhood",
+            "quarter",
+            "subdistrict",
+            "district"
+        ],
+        "description": "geographically localised community within a larger city, town or suburb",
+        "label": ""
+    },
+    {
+        "qid": "Q4913972",
+        "name": "Bindaas",
+        "aliases": "",
+        "description": "2010 film by Veeru Potla",
+        "label": ""
+    },
+    {
+        "qid": "Q1047422",
+        "name": "director",
+        "aliases": [
+            "auxiliary predictor"
+        ],
+        "description": "computer that continuously calculates trigonometric firing solutions",
+        "label": ""
+    },
+    {
+        "qid": "Q2680856",
+        "name": "King",
+        "aliases": [
+            "King.com",
+            "King.com Ltd.",
+            "King Digital Entertainment PLC",
+            "AlphaBetty Saga",
+            "Pyramid Solitaire Saga",
+            "Shuffle Cats"
+        ],
+        "description": "video game developer",
+        "label": ""
+    },
+    {
+        "qid": "Q896435",
+        "name": "Volkseigenes Gut",
+        "aliases": [
+            "VEG"
+        ],
+        "description": "state-owned farm in the Communist German Democratic Republic",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q478798",
+        "name": "image",
+        "aliases": [
+            "picture",
+            "graphic",
+            "images"
+        ],
+        "description": "artifact that depicts or records visual perception",
+        "label": ""
+    },
+    {
+        "qid": "Q119",
+        "name": "May",
+        "aliases": [
+            "5. month"
+        ],
+        "description": "fifth month in the Julian and Gregorian calendars",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q869161",
+        "name": "cornerback",
+        "aliases": [
+            "CB",
+            "corner"
+        ],
+        "description": "defensive position in American and Canadian football, covering receivers, to defend against pass offenses and make tackles",
+        "label": ""
+    },
+    {
+        "qid": "Q6746712",
+        "name": "Manager",
+        "aliases": "",
+        "description": "type of operating system component in Classic Mac OS",
+        "label": ""
+    },
+    {
+        "qid": "Q48322275",
+        "name": "Museum",
+        "aliases": [
+            "Museo"
+        ],
+        "description": "2018 film directed by Alonso Ruizpalacios",
+        "label": ""
+    },
+    {
+        "qid": "Q10987",
+        "name": "honey",
+        "aliases": "",
+        "description": "sweet food made by bees mostly using nectar from flowers",
+        "label": ""
+    },
+    {
+        "qid": "Q638",
+        "name": "music",
+        "aliases": [
+            "creating music",
+            "musical art"
+        ],
+        "description": "art/activity of creating art using sound",
+        "label": ""
+    },
+    {
+        "qid": "Q544099",
+        "name": "Autobahn",
+        "aliases": "",
+        "description": "1974 studio album by Kraftwerk",
+        "label": ""
+    },
+    {
+        "qid": "Q3031868",
+        "name": "Spot",
+        "aliases": [
+            "Dr. Jonathan Ohnn",
+            "Jonathan Ohnn"
+        ],
+        "description": "fictional character in Marvel Comics",
+        "label": ""
+    },
+    {
+        "qid": "Q125",
+        "name": "November",
+        "aliases": [
+            "Nov",
+            "11th month"
+        ],
+        "description": "eleventh month in the Julian and Gregorian calendars",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q515",
+        "name": "city",
+        "aliases": [
+            "cities",
+            "cities and towns"
+        ],
+        "description": "large permanent human settlement",
+        "label": ""
+    },
+    {
+        "qid": "Q1103",
+        "name": "iodine",
+        "aliases": [
+            "I",
+            "element 53",
+            "53I",
+            "Iod",
+            "iodum",
+            "iode"
+        ],
+        "description": "chemical element with symbol I and atomic number 53",
+        "label": ""
+    },
+    {
+        "qid": "Q30849",
+        "name": "blog",
+        "aliases": [
+            "web log",
+            "blogs",
+            "weblog"
+        ],
+        "description": "discussion or informational site published on the World Wide Web",
+        "label": ""
+    },
+    {
+        "qid": "Q16955499",
+        "name": "The Right Way",
+        "aliases": [
+            "Right Way"
+        ],
+        "description": "2004 film by Mark Penney",
+        "label": ""
+    },
+    {
+        "qid": "Q4822696",
+        "name": "Aus",
+        "aliases": "",
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q573",
+        "name": "day",
+        "aliases": [
+            "d",
+            "days",
+            "Earth day"
+        ],
+        "description": "unit of time lasting 24 hours, derived from the period of Earth's rotation about its axis",
+        "label": ""
+    },
+    {
+        "qid": "Q4011044",
+        "name": "Vibe",
+        "aliases": [
+            "Paco Ramone",
+            "Francisco Ramon",
+            "Cisco Ramon",
+            "Francisco \u201cCisco\u201d Ramon",
+            "Francisco \"Cisco\" Ramon"
+        ],
+        "description": "fictional superhero from DC Comics",
+        "label": ""
+    },
+    {
+        "qid": "Q1202398",
+        "name": "Visual merchandising",
+        "aliases": "",
+        "description": "marketing technique emphasizing 3D model displays",
+        "label": ""
+    },
+    {
+        "qid": "Q7278",
+        "name": "political party",
+        "aliases": [
+            "party",
+            "party in politics",
+            "party (politics)",
+            "political parties",
+            "parties",
+            "parties in politics",
+            "parties (politics)"
+        ],
+        "description": "organization that seeks to influence government policy and actions and be elected to directly take part on government or legislation",
+        "label": ""
+    },
+    {
+        "qid": "Q2063826",
+        "name": "deposit",
+        "aliases": "",
+        "description": "in politics",
+        "label": ""
+    },
+    {
+        "qid": "Q259225",
+        "name": "Kunstareal",
+        "aliases": [
+            "Kunstareal Munich"
+        ],
+        "description": "human settlement in Germany",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q2900194",
+        "name": "Ganz",
+        "aliases": "",
+        "description": "Canadian toy company",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q386880",
+        "name": "Castle",
+        "aliases": "",
+        "description": "American police procedural comedy-drama television series (2009-2016)",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q814607",
+        "name": "Bei",
+        "aliases": [
+            "Pei"
+        ],
+        "description": "Chinese surname  (\u8c9d / \u8d1d)",
+        "label": ""
+    },
+    {
+        "qid": "Q4830453",
+        "name": "business",
+        "aliases": "",
+        "description": "organization undertaking commercial, industrial, or professional activity",
+        "label": ""
+    },
+    {
+        "qid": "Q41487",
+        "name": "court",
+        "aliases": "",
+        "description": "judicial institution with the authority to resolve legal disputes",
+        "label": ""
+    },
+    {
+        "qid": "Q21449793",
+        "name": "Pariser",
+        "aliases": "",
+        "description": "family name",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q82794",
+        "name": "geographic region",
+        "aliases": [
+            "region",
+            "geographical region",
+            "place",
+            "delimited region",
+            "bounded region",
+            "bounded area",
+            "geographical area",
+            "geographic area",
+            "geographic zone",
+            "geographical zone"
+        ],
+        "description": "2D or 3D defined space on something, mainly in terrestrial and astrophysics sciences",
+        "label": ""
+    },
+    {
+        "qid": "Q2074546",
+        "name": "bisj pole",
+        "aliases": [
+            "bisj",
+            "bis",
+            "bis pole",
+            "mbis",
+            "mis"
+        ],
+        "description": "type of Asmat ritual artefact",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q625642",
+        "name": "word",
+        "aliases": [
+            "data word"
+        ],
+        "description": "base memory unit handled by a computer",
+        "label": ""
+    },
+    {
+        "qid": "Q7096237",
+        "name": "Open Space",
+        "aliases": "",
+        "description": "a pop rock and indie rock band from Minsk, Belarus",
+        "label": ""
+    },
+    {
+        "qid": "Q629975",
+        "name": "The Tourist",
+        "aliases": [
+            "Tourist"
+        ],
+        "description": "2010 film directed by Florian Henckel von Donnersmarck",
+        "label": ""
+    },
+    {
+        "qid": "Q370979",
+        "name": "Amigaguide",
+        "aliases": [
+            "AmigaGuide",
+            "GUIDE"
+        ],
+        "description": "file format",
+        "label": ""
+    },
+    {
+        "qid": "Q264441",
+        "name": "Bezirk",
+        "aliases": [
+            "Bezirke"
+        ],
+        "description": "district in Germany, Austria and Switzerland",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q9056",
+        "name": "Czech",
+        "aliases": [
+            "Czech language",
+            "cs"
+        ],
+        "description": "West Slavic language",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q386724",
+        "name": "work",
+        "aliases": [
+            "creation",
+            "creative work",
+            "artwork"
+        ],
+        "description": "individual intellectual or artistic work",
+        "label": ""
+    },
+    {
+        "qid": "Q1063",
+        "name": "evolution",
+        "aliases": [
+            "biological evolution"
+        ],
+        "description": "change in the heritable characteristics of biological populations over successive generations",
+        "label": ""
+    },
+    {
+        "qid": "Q48680",
+        "name": "Ma\u00df",
+        "aliases": "",
+        "description": "unit of volume",
+        "label": ""
+    },
+    {
+        "qid": "Q5599",
+        "name": "Peter Paul Rubens",
+        "aliases": [
+            "Petro Paulo Rubes",
+            "Sir Rubens",
+            "Peter Paul Ruben",
+            "Peeter Pauwel Rubens",
+            "Peter Paul Ruebens",
+            "Pedro Pablo de Rubenes",
+            "Pietro Paulo Rubens",
+            "Pieter Paul Rubens",
+            "Peter Paolo Rubens",
+            "Pi\u00e8rre Paul Rubens",
+            "Pietro Robino",
+            "Paulo Rubbens",
+            "Rubens Peter Paul",
+            "Bubens",
+            "Pietro Paolo",
+            "Reubens",
+            "P. Paul Rubens",
+            "Pietro Paolo Fumino",
+            "Ruwens",
+            "Ruebens",
+            "Rubins",
+            "Rubens ou dans sa maniere",
+            "R\u00fbbens",
+            "P. Paolo Rubens",
+            "Peter Poulo Ribbens",
+            "Buddens",
+            "P. v. Rubens",
+            "Rubens d'Anversa",
+            "Pierre Paul Rubbens",
+            "Pieter Paul Rubbens",
+            "Piere Paul Rubens",
+            "P.o Pablo Rubens",
+            "Rurens",
+            "Ruben",
+            "Pet. Paul Rubens",
+            "Reuben",
+            "pieter paul rubens",
+            "Pieree Paul Rubens",
+            "P. P. Rubbens",
+            "Pedro Paulo Rubbens",
+            "rrubes",
+            "P: P: Rubbens",
+            "Sir P. Reuben",
+            "Rubenso fiamengo",
+            "P. Pauel Rubens",
+            "Petri Paulo Rubbens",
+            "P.P. Rubens",
+            "Ruben's",
+            "Petro Paul Rubens",
+            "P. P. Reubens",
+            "Sir P. Paul Rubens",
+            "Ruvens",
+            "Rubben",
+            "Pierre Rubens",
+            "Pietro Pauolo",
+            "Sir P. P. Rubens",
+            "Ribbens",
+            "petro paulo rubes",
+            "Rhubens",
+            "P. Reuben",
+            "P. Paulus Rubbens",
+            "Sir Peter Paul, Flem. Rubens",
+            "Ubens Fiammingo",
+            "Rubenns",
+            "P. Rubens",
+            "Pieter Paulo Rubbens",
+            "Rubens Pietro Paolo",
+            "P.P. Rubeens",
+            "petrus paulus rubens",
+            "P.P. Rubbens",
+            "P. Rubbens",
+            "Ruvenes",
+            "P. Paulo Rubbens",
+            "petrus paul rubens",
+            "Pierre-Paul Rubbens",
+            "Pieter Paulus Rubbens",
+            "Rubens ou sa mani\u00e8re",
+            "Paul Reubens",
+            "Rubenes",
+            "Paul Rubens",
+            "P. Ribbens",
+            "Rubeen",
+            "Peter Paul, Sir Rubens",
+            "P.-P. Rubens",
+            "Rubbens",
+            "Sir P.Paul Rubens",
+            "Petrus Paulus Rubbens",
+            "Petro Paulo Rubbens",
+            "Pablo Rubes",
+            "Rubin",
+            "PP Rubens",
+            "rubens pp",
+            "Sir PP Rubens",
+            "Rupen",
+            "Chev. Mascota. Pablo. Rubens",
+            "rubens p. p.",
+            "Sir P.P. Rubens",
+            "Rupens",
+            "PP. Rubens",
+            "P.P Rubens",
+            "Chev. Pet. Paul. Rubens",
+            "P. P. Rubens",
+            "Petrus Paulus Rubens",
+            "Peter Paul Reubens",
+            "Rubens",
+            "Pedro Pablo Rubenes",
+            "Peter Paul Rubenns",
+            "Pietro Paolo Rubbens",
+            "Sir Peter Paul Rubens",
+            "Pietro Paolo Rubens",
+            "Pieter-Pauwel Rubens",
+            "Pierre Paul Rubens",
+            "Paolo Rubens",
+            "Peter Paul Ruuenes",
+            "Pietro Pauolo Rubens",
+            "Pierre-Paul Rubens",
+            "Pietropaolo Rubenz"
+        ],
+        "description": "Flemish painter (1577-1640)",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q23397",
+        "name": "lake",
+        "aliases": [
+            "lakes",
+            "Lake"
+        ],
+        "description": "body of relatively still water, localized in a basin",
+        "label": ""
+    },
+    {
+        "qid": "Q4959451",
+        "name": "Breakfast",
+        "aliases": "",
+        "description": "Philippine TV program",
+        "label": ""
+    },
+    {
+        "qid": "Q39809",
+        "name": "marketing",
+        "aliases": [
+            "mktg",
+            "PR",
+            "public relations",
+            "publicity",
+            "communications",
+            "promotion"
+        ],
+        "description": "study and process of exploring, creating, and delivering value to customers",
+        "label": ""
+    },
+    {
+        "qid": "Q309",
+        "name": "history",
+        "aliases": "",
+        "description": "past events and their tracks or records",
+        "label": ""
+    },
+    {
+        "qid": "Q965448",
+        "name": "Fred",
+        "aliases": [
+            "Frederico Rodrigues de Paula Santos"
+        ],
+        "description": "Brazilian association football player, born 1993",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q180445",
+        "name": "Nature",
+        "aliases": [
+            "Nature Magazine",
+            "magazine Nature",
+            "Nature (Lond.)",
+            "nature.com"
+        ],
+        "description": "British scientific journal since 1869",
+        "label": ""
+    },
+    {
+        "qid": "Q5",
+        "name": "human",
+        "aliases": [
+            "human being",
+            "humankind",
+            "people",
+            "homosapiens",
+            "mankind",
+            "peoplekind",
+            "humans",
+            "Human",
+            "individual",
+            "individuals",
+            "man",
+            "men"
+        ],
+        "description": "common name of Homo sapiens, unique extant species of the genus Homo, from single-cell embryo to adult",
+        "label": ""
+    },
+    {
+        "qid": "Q1132051",
+        "name": "vertical bar",
+        "aliases": [
+            "|",
+            "pipe",
+            "\uff5c",
+            "Unsupported_titles/Vertical_line",
+            "vertical line",
+            "vertical bar"
+        ],
+        "description": "character; | or \u2758",
+        "label": ""
+    },
+    {
+        "qid": "Q8035663",
+        "name": "World Education Games",
+        "aliases": [
+            "WEG"
+        ],
+        "description": "global online competition focused on mathematics, science and literacy",
+        "label": "EVENT"
+    },
+    {
+        "qid": "Q159816",
+        "name": "Leo",
+        "aliases": [
+            "\u264c",
+            "\u264c\ufe0e"
+        ],
+        "description": "fifth astrological sign in the present zodiac",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q1748",
+        "name": "Copenhagen",
+        "aliases": [
+            "K\u00f8benhavn",
+            "CPH",
+            "K\u00f6penhamn",
+            "K\u00f6\u00f6penhamina",
+            "Kopenhagen",
+            "Kobenhavn",
+            "K\u00f6benhavn",
+            "Hafnia",
+            "Hafn",
+            "Havn",
+            "Copenhagen, Denmark",
+            "Kj\u00f6b",
+            "Kj\u00f6b.",
+            "Kj\u00f6benhavn"
+        ],
+        "description": "capital city of Denmark",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q987767",
+        "name": "container",
+        "aliases": [
+            "case",
+            "bin",
+            "casing",
+            "enclosure",
+            "box",
+            "receptacle",
+            "holder",
+            "vessel",
+            "storage container"
+        ],
+        "description": "any receptacle for holding a product used in storage, packaging, and shipping",
+        "label": ""
+    },
+    {
+        "qid": "Q27496",
+        "name": "Western Europe",
+        "aliases": [
+            "West Europe"
+        ],
+        "description": "western part of the European continent",
+        "label": "LOC"
+    },
+    {
+        "qid": "Q7743",
+        "name": "home",
+        "aliases": [
+            "domicile"
+        ],
+        "description": "dwelling-place used as a permanent or semi-permanent residence",
+        "label": ""
+    },
+    {
+        "qid": "Q179700",
+        "name": "statue",
+        "aliases": "",
+        "description": "sculpture primarily conceived as a representational figure",
+        "label": ""
+    },
+    {
+        "qid": "Q427667",
+        "name": "Goodyear welt",
+        "aliases": [
+            "Goodyear welt"
+        ],
+        "description": "strip of leather, rubber, or plastic that runs along the perimeter of a shoe outsole",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q18035109",
+        "name": "ALG3",
+        "aliases": [
+            "CDG1D",
+            "CDGS4",
+            "D16Ertd36e",
+            "NOT56L",
+            "Not56",
+            "CDGS6",
+            "not",
+            "ALG3, alpha-1,3- mannosyltransferase",
+            "ALG3 alpha-1,3- mannosyltransferase"
+        ],
+        "description": "protein-coding gene in the species Homo sapiens",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q83267",
+        "name": "crime",
+        "aliases": [
+            "criminal offence",
+            "offence",
+            "offense",
+            "hoodlum",
+            "criminal offense"
+        ],
+        "description": "unlawful act forbidden and punishable by criminal law",
+        "label": ""
+    },
+    {
+        "qid": "Q14745",
+        "name": "furniture",
+        "aliases": "",
+        "description": "movable objects used to equip households, offices, or shops for purposes such as storage, seating, sleeping",
+        "label": ""
+    },
+    {
+        "qid": "Q1801",
+        "name": "lanthanum",
+        "aliases": [
+            "La",
+            "element 57",
+            "57La",
+            "Lanthan",
+            "metallic lanthanum",
+            "lanthane"
+        ],
+        "description": "chemical element with symbol La and atomic number 57",
+        "label": ""
+    },
+    {
+        "qid": "Q37533687",
+        "name": "Fasching",
+        "aliases": "",
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q396",
+        "name": "U2",
+        "aliases": "",
+        "description": "Irish rock band",
+        "label": ""
+    },
+    {
+        "qid": "Q843297",
+        "name": "Iwate Menkoi Television",
+        "aliases": [
+            "Iwate Menkoi Television Co., Ltd.",
+            "mit"
+        ],
+        "description": "Japanese television station",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q846849",
+        "name": "hot pot",
+        "aliases": [
+            "steamboat",
+            "huoguo",
+            "huo guo"
+        ],
+        "description": "Chinese and Southeast Asian dish",
+        "label": ""
+    },
+    {
+        "qid": "Q2387515",
+        "name": "centrepiece",
+        "aliases": [
+            "centerpiece"
+        ],
+        "description": "important item of a display, usually of a table setting",
+        "label": ""
+    },
+    {
+        "qid": "Q219423",
+        "name": "mural",
+        "aliases": [
+            "murals"
+        ],
+        "description": "piece of artwork painted or applied directly on a large permanent surface",
+        "label": ""
+    },
+    {
+        "qid": "Q5456612",
+        "name": "Flag",
+        "aliases": "",
+        "description": "painting by Jasper Johns, Museum of Modern Art, made in 1954\u20131955",
+        "label": ""
+    },
+    {
+        "qid": "Q7569",
+        "name": "child",
+        "aliases": [
+            "children",
+            "kid"
+        ],
+        "description": "human between birth and puberty",
+        "label": ""
+    },
+    {
+        "qid": "Q60061622",
+        "name": "video production",
+        "aliases": "",
+        "description": "process of producing video content",
+        "label": ""
+    },
+    {
+        "qid": "Q208123",
+        "name": "deck",
+        "aliases": "",
+        "description": "part of a ship or boat",
+        "label": ""
+    },
+    {
+        "qid": "Q6256",
+        "name": "country",
+        "aliases": [
+            "countries",
+            "states (countries)"
+        ],
+        "description": "distinct territorial body or political entity",
+        "label": ""
+    },
+    {
+        "qid": "Q8441",
+        "name": "man",
+        "aliases": [
+            "Gentleman",
+            "M.",
+            "male human",
+            "men"
+        ],
+        "description": "male adult human",
+        "label": ""
+    },
+    {
+        "qid": "Q8502",
+        "name": "mountain",
+        "aliases": [
+            "mountains",
+            "\u26f0\ufe0f"
+        ],
+        "description": "a large natural elevation of the Earth's surface",
+        "label": ""
+    },
+    {
+        "qid": "Q3407658",
+        "name": "tram",
+        "aliases": [
+            "streetcar",
+            "trolley",
+            "tramcar",
+            "light rail",
+            "trolley car",
+            "street railway",
+            "street railroad"
+        ],
+        "description": "public transport vehicle running on rails predominantly located on streets",
+        "label": ""
+    },
+    {
+        "qid": "Q3088188",
+        "name": "Ivano-Frankivsk Regional Art Museum",
+        "aliases": "",
+        "description": "art museum in Ivano-Frankivsk",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q50602",
+        "name": "Manchester City F.C.",
+        "aliases": [
+            "Manchester City FC",
+            "Manchester City",
+            "Man City",
+            "Manchester City F.C. Soccer",
+            "Manchester City Football Club",
+            "Citizens",
+            "Sky Blues",
+            "MCFC",
+            "City"
+        ],
+        "description": "association football club in Manchester, England",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q12056156",
+        "name": "den",
+        "aliases": "",
+        "description": "type of room in a house",
+        "label": ""
+    },
+    {
+        "qid": "Q27",
+        "name": "Republic of Ireland",
+        "aliases": [
+            "\u00c9ire",
+            "IE",
+            "IRL",
+            "Hibernia",
+            "Ireland, Republic of",
+            "ie",
+            "\ud83c\uddee\ud83c\uddea",
+            "Eire",
+            "Southern Ireland",
+            "Ireland (state)",
+            "Ireland"
+        ],
+        "description": "country in north-western Europe",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q131748",
+        "name": "mustard",
+        "aliases": [
+            "mustard condiment",
+            "culinary mustard",
+            "Mustard"
+        ],
+        "description": "condiment made from various varieties of mustard seeds",
+        "label": ""
+    },
+    {
+        "qid": "Q106588",
+        "name": "Isar",
+        "aliases": [
+            "Iser"
+        ],
+        "description": "river in Tyrol, Austria and Bavaria, Germany",
+        "label": ""
+    },
+    {
+        "qid": "Q3331189",
+        "name": "version, edition, or translation",
+        "aliases": [
+            "edition",
+            "version",
+            "expression",
+            "translation",
+            "adaptation",
+            "manifestation",
+            "edition (book)",
+            "issue"
+        ],
+        "description": "specific version of a work, resulting from its edition, adaptation, or translation; set of substantially similar copies of a work",
+        "label": ""
+    },
+    {
+        "qid": "Q1892425",
+        "name": "Parliament",
+        "aliases": [
+            "The Parliaments"
+        ],
+        "description": "American funk band most prominent during the 1970s",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q623306",
+        "name": "Passion",
+        "aliases": [
+            "Passion of Christ",
+            "Passion of Jesus"
+        ],
+        "description": "final period in the life of Jesus, before his crucifixion",
+        "label": ""
+    },
+    {
+        "qid": "Q17156455",
+        "name": "young adult",
+        "aliases": "",
+        "description": "person in the age range of 20 to 40",
+        "label": ""
+    },
+    {
+        "qid": "Q657221",
+        "name": "dinner",
+        "aliases": [
+            "dinner time"
+        ],
+        "description": "largest most formal meal of the day",
+        "label": ""
+    },
+    {
+        "qid": "Q180910",
+        "name": "leisure",
+        "aliases": [
+            "free time"
+        ],
+        "description": "time that is freely disposed by individuals",
+        "label": ""
+    },
+    {
+        "qid": "Q23020316",
+        "name": "Updates",
+        "aliases": "",
+        "description": "television series",
+        "label": ""
+    },
+    {
+        "qid": "Q22698",
+        "name": "park",
+        "aliases": [
+            "park (public recreation area)",
+            "garden & park",
+            "Parks, Recreational"
+        ],
+        "description": "permanently dedicated recreation area, often open to the public and generally characterized by natural, historic, or landscape features",
+        "label": ""
+    },
+    {
+        "qid": "Q942466",
+        "name": "Ist",
+        "aliases": [
+            "Otok Ist"
+        ],
+        "description": "island of Croatia",
+        "label": ""
+    },
+    {
+        "qid": "Q7727",
+        "name": "minute",
+        "aliases": [
+            "min",
+            "mins",
+            "minutes"
+        ],
+        "description": "unit of time",
+        "label": ""
+    },
+    {
+        "qid": "Q1140288",
+        "name": "Statues",
+        "aliases": [
+            "Red Light, Green Light",
+            "Grandmother's Footsteps"
+        ],
+        "description": "children's game",
+        "label": ""
+    },
+    {
+        "qid": "Q28803",
+        "name": "sandwich",
+        "aliases": [
+            "sandwiches",
+            "sammich"
+        ],
+        "description": "any dish wherein bread serves as a container or wrapper for another food type; not to be confused with Q111836983 (the narrower sense of \"sandwich\")",
+        "label": ""
+    },
+    {
+        "qid": "Q6368",
+        "name": "web browser",
+        "aliases": [
+            "WWW browser",
+            "Web client",
+            "WWW client",
+            "W3 browser",
+            "W3 client",
+            "browser",
+            "Web browser",
+            "Internet browser",
+            "internet browser",
+            "W browser"
+        ],
+        "description": "software application for retrieving, presenting, and traversing information resources on the World Wide Web",
+        "label": ""
+    },
+    {
+        "qid": "Q532",
+        "name": "village",
+        "aliases": [
+            "small town",
+            "Village"
+        ],
+        "description": "small clustered human settlement smaller than a town",
+        "label": ""
+    },
+    {
+        "qid": "Q918",
+        "name": "Twitter",
+        "aliases": [
+            "twttr",
+            "twitter.com"
+        ],
+        "description": "American social networking site",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q7860",
+        "name": "nature",
+        "aliases": "",
+        "description": "natural, physical, or material world and its phenomena",
+        "label": ""
+    },
+    {
+        "qid": "Q435977",
+        "name": "Old Masters",
+        "aliases": "",
+        "description": "novel by Thomas Bernhard",
+        "label": ""
+    },
+    {
+        "qid": "Q947103",
+        "name": "watchtower",
+        "aliases": [
+            "watch tower"
+        ],
+        "description": "tower used for the surveillance of the surrounding area",
+        "label": ""
+    },
+    {
+        "qid": "Q82916",
+        "name": "spotlight",
+        "aliases": [
+            "spot"
+        ],
+        "description": "lighting device which projects a bright beam of light",
+        "label": ""
+    },
+    {
+        "qid": "Q28640",
+        "name": "profession",
+        "aliases": [
+            "craft"
+        ],
+        "description": "occupation requiring specialized training",
+        "label": ""
+    },
+    {
+        "qid": "Q1433373",
+        "name": "other",
+        "aliases": "",
+        "description": "philosophical, psychological and anthropological concept that refers to the opposite of one's own identity",
+        "label": ""
+    },
+    {
+        "qid": "Q2095",
+        "name": "food",
+        "aliases": [
+            "foodstuff",
+            "edibles",
+            "feed",
+            "chow",
+            "foodstuffs",
+            "sustenance",
+            "food item"
+        ],
+        "description": "any substance consumed to provide nutritional support for the body; form of energy stored in chemical",
+        "label": ""
+    },
+    {
+        "qid": "Q219239",
+        "name": "recipe",
+        "aliases": "",
+        "description": "a set of instructions for preparing a processed food item",
+        "label": ""
+    },
+    {
+        "qid": "Q156389",
+        "name": "point",
+        "aliases": [
+            "pt"
+        ],
+        "description": "measurement unit used in typography",
+        "label": ""
+    },
+    {
+        "qid": "Q588870",
+        "name": "Laut people",
+        "aliases": [
+            "Laut",
+            "Orang Laut"
+        ],
+        "description": "ethnic group originated from Laut island in Riau Archipelago",
+        "label": "GPE"
+    },
+    {
+        "qid": "Q466024",
+        "name": "The Child",
+        "aliases": [
+            "Child",
+            "L\u2019Enfant",
+            "L'Enfant"
+        ],
+        "description": "2005 film by Luc Dardenne, Jean-Pierre Dardenne",
+        "label": ""
+    },
+    {
+        "qid": "Q102400",
+        "name": "Oktoberfest",
+        "aliases": [
+            "Beer fest",
+            "October fest",
+            "M\u00fcnchner Oktoberfest",
+            "Zum Schichtl",
+            "October party"
+        ],
+        "description": "world's largest Volks festival in Munich, Bavaria, Germany",
+        "label": "DATE"
+    },
+    {
+        "qid": "Q23498",
+        "name": "archaeology",
+        "aliases": [
+            "archeology",
+            "arch\u00e6ology",
+            "Archaeology"
+        ],
+        "description": "study of the past via material culture",
+        "label": ""
+    },
+    {
+        "qid": "Q458851",
+        "name": "Bavarian cuisine",
+        "aliases": [
+            "cuisine of Bavaria",
+            "Bavarian food"
+        ],
+        "description": "regional cuisine",
+        "label": "NORP"
+    },
+    {
+        "qid": "Q6587194",
+        "name": "centrism",
+        "aliases": [
+            "centre",
+            "center",
+            "centrist",
+            "political center",
+            "political centre"
+        ],
+        "description": "political outlook or specific position",
+        "label": ""
+    },
+    {
+        "qid": "Q190637",
+        "name": "web design",
+        "aliases": "",
+        "description": "creation and maintenance of websites",
+        "label": ""
+    },
+    {
+        "qid": "Q259839",
+        "name": "Odeonsplatz",
+        "aliases": "",
+        "description": "square in Munich, Germany",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q182060",
+        "name": "office",
+        "aliases": [
+            "offices",
+            "commercial office",
+            "commercial offices"
+        ],
+        "description": "room where people perform office work",
+        "label": ""
+    },
+    {
+        "qid": "Q200535",
+        "name": "wealth",
+        "aliases": [
+            "richness"
+        ],
+        "description": "abundance of value",
+        "label": ""
+    },
+    {
+        "qid": "Q6497253",
+        "name": "section",
+        "aliases": [
+            "sec",
+            "military section",
+            "section (military)",
+            "sect"
+        ],
+        "description": "military unit size designation",
+        "label": ""
+    },
+    {
+        "qid": "Q7491682",
+        "name": "Shaykhontohur",
+        "aliases": [
+            "Oktober",
+            "Shaykhontohur Tumani"
+        ],
+        "description": "district of Tashkent, Uzbekistan",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q1411242",
+        "name": "vice",
+        "aliases": "",
+        "description": "practice, behavior or habit generally considered immoral, depraved, or degrading in the associated society",
+        "label": ""
+    },
+    {
+        "qid": "Q7302421",
+        "name": "Recht",
+        "aliases": "",
+        "description": "lunar crater",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q19897965",
+        "name": "Renegades",
+        "aliases": [
+            "Lake",
+            "The Lake"
+        ],
+        "description": "2017 film directed by Steven Quale",
+        "label": ""
+    },
+    {
+        "qid": "Q15116397",
+        "name": "Winner",
+        "aliases": [
+            "WINNER"
+        ],
+        "description": "South Korean boy band",
+        "label": ""
+    },
+    {
+        "qid": "Q1401655",
+        "name": "Welche",
+        "aliases": "",
+        "description": "Gallo-Romance dialect of Lorrain",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q30250674",
+        "name": "Guided Tour",
+        "aliases": "",
+        "description": "studio album by Gary Burton",
+        "label": ""
+    },
+    {
+        "qid": "Q2249676",
+        "name": "environment",
+        "aliases": [
+            "biophysical environment",
+            "setting",
+            "environment",
+            "medium"
+        ],
+        "description": "surrounding of an organism or population",
+        "label": ""
+    },
+    {
+        "qid": "Q458",
+        "name": "European Union",
+        "aliases": [
+            "EU",
+            "E.U.",
+            "eu",
+            "\ud83c\uddea\ud83c\uddfa",
+            "Europe"
+        ],
+        "description": "political and economic union of 27 European states",
+        "label": "ORG"
+    },
+    {
+        "qid": "Q1931960",
+        "name": "registration",
+        "aliases": [
+            "registering"
+        ],
+        "description": "in color printing, the precise aligning of plates or stencils, usually by means of special marks",
+        "label": ""
+    },
+    {
+        "qid": "Q18545",
+        "name": "ball",
+        "aliases": [
+            "balls"
+        ],
+        "description": "round object used in sports or for playing",
+        "label": ""
+    },
+    {
+        "qid": "Q178354",
+        "name": "reason",
+        "aliases": [
+            "Vernunft"
+        ],
+        "description": "the capacity of consciously making sense of things, applying logic, and adapting or justifying practices, institutions, and beliefs based on new or existing information",
+        "label": ""
+    },
+    {
+        "qid": "Q17126187",
+        "name": "session",
+        "aliases": [
+            "visit"
+        ],
+        "description": "web analytics term \u2014 unit of measurement of a user's actions taken within a period of time or with regard to completion of a task",
+        "label": ""
+    },
+    {
+        "qid": "Q4479242",
+        "name": "class",
+        "aliases": [
+            "cls",
+            "Class (computer programming)"
+        ],
+        "description": "in object-oriented programming, a definition that specifies how an object works",
+        "label": ""
+    },
+    {
+        "qid": "Q7566",
+        "name": "parent",
+        "aliases": [
+            "parents",
+            "mother",
+            "father",
+            "mothers",
+            "fathers",
+            "guardian"
+        ],
+        "description": "progenitor or caregiver of the offspring in their own species, inverse label for property P40",
+        "label": ""
+    },
+    {
+        "qid": "Q262432",
+        "name": "Der",
+        "aliases": [
+            "Tell Aqar"
+        ],
+        "description": "archaeological site in Iraq",
+        "label": "PERSON"
+    },
+    {
+        "qid": "Q13553622",
+        "name": "Das",
+        "aliases": [
+            "D\u0101s"
+        ],
+        "description": "family name",
+        "label": ""
+    },
+    {
+        "qid": "Q42213",
+        "name": "work",
+        "aliases": [
+            "physical work",
+            "mechanical work"
+        ],
+        "description": "energy transferred to an object via the application of force on it through a displacement",
+        "label": ""
+    },
+    {
+        "qid": "Q10990",
+        "name": "meat",
+        "aliases": "",
+        "description": "animal flesh eaten as food",
+        "label": ""
+    },
+    {
+        "qid": "Q464980",
+        "name": "exhibition",
+        "aliases": [
+            "expositions",
+            "expos",
+            "museum",
+            "presentation",
+            "exhibits",
+            "exhibit",
+            "expo"
+        ],
+        "description": "organized presentation and display of a selection of items or pictures",
+        "label": ""
+    },
+    {
+        "qid": "Q658274",
+        "name": "menu",
+        "aliases": "",
+        "description": "list of food and drinks",
+        "label": ""
+    }
+]

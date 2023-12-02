@@ -1,0 +1,423 @@
+[
+  [
+    "An art museum or art gallery is a building or space for the display of art, usually from the museum's own collection.",
+    {
+      "entities": [
+        [
+          3,
+          13,
+          "ENTITY"
+        ],
+        [
+          93,
+          99,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Although primarily concerned with visual art, art museums are often used as a venue for other cultural exchanges and artistic activities, such as lectures, performance arts, music concerts, or poetry readings.",
+    {
+      "entities": [
+        [
+          46,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "An institution dedicated to the display of art can be called an art museum or an art gallery, and the two terms may be used interchangeably.",
+    {
+      "entities": [
+        [
+          64,
+          74,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The phrase 'art gallery' can also be used for businesses which display art for sale, but these are not art museums.",
+    {
+      "entities": [
+        [
+          103,
+          114,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The first such museum was the Ashmolean Museum in Oxford, opened in 1683 to house and display the artefacts of Elias Ashmole that were given to Oxford University in a bequest.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Kunstmuseum Basel, through its lineage which extends back to the Amerbach Cabinet, which included a collection of works by Hans Holbein the Younger and purchased by the city of Basel in 1661, is considered to be the first museum of art open to the public in the world.",
+    {
+      "entities": [
+        [
+          226,
+          239,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The opening of the Musée du Louvre during the French Revolution in 1793 as a public museum for much of the former French royal collection marked an important stage in the development of public access to art by transferring the ownership to a republican state; but it was a continuation of trends already well established.",
+    {
+      "entities": [
+        [
+          84,
+          90,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Corcoran Gallery of Art in Washington, D.C. is generally considered to have been the first art museum in the United States.",
+    {
+      "entities": [
+        [
+          95,
+          105,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "University art museums and galleries constitute collections of art developed, owned, and maintained by all kinds of schools, community colleges, colleges, and universities.",
+    {
+      "entities": [
+        [
+          11,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Although easily overlooked, there are over 700 university art museums in the US alone.",
+    {
+      "entities": [
+        [
+          58,
+          69,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "This number, compared to other kinds of art museums, makes university art museums perhaps the largest category of art museums in the country.",
+    {
+      "entities": [
+        [
+          40,
+          51,
+          "ENTITY"
+        ],
+        [
+          70,
+          81,
+          "ENTITY"
+        ],
+        [
+          114,
+          125,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Also frequently, a series of rooms dedicated to specific historic periods (e.g. Ancient Egypt) or other significant themed groupings of works (e.g. the collection of plaster casts as in the Ashmolean Museum) within a museum with a more varied collection are referred to as specific galleries, e.g. Egyptian Gallery or Cast Gallery.",
+    {
+      "entities": [
+        [
+          217,
+          223,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Instead, public access to these materials is provided by a dedicated print room located within the museum.",
+    {
+      "entities": [
+        [
+          99,
+          105,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Most larger paintings from about 1530 onwards were designed to be seen either in churches or (increasingly) palaces, and many buildings built as palaces now function successfully as art museums.",
+    {
+      "entities": [
+        [
+          182,
+          193,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Over the middle and late twentieth century, earlier architectural styles employed for art museums (such as the Beaux-Arts style of the Metropolitan Museum of Art in New York City or the Gothic and Renaissance Revival architecture of Amsterdam's Rijksmuseum) succumbed to modern styles, such as Deconstructivism.",
+    {
+      "entities": [
+        [
+          86,
+          97,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Many art museums throughout history have been designed with a cultural purpose or been subject to political intervention.",
+    {
+      "entities": [
+        [
+          5,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "This has occurred in both democratic and non-democratic countries, although authoritarian regimes have historically exercised more control over administration of art museums.",
+    {
+      "entities": [
+        [
+          162,
+          173,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The question of the place of the art museum in its community has long been under debate.",
+    {
+      "entities": [
+        [
+          33,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Some see art museums as fundamentally elitist institutions, while others see them as institutions with the potential for societal education and uplift.",
+    {
+      "entities": [
+        [
+          9,
+          20,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "John Cotton Dana, an American librarian and museum director, as well as the founder of the Newark Museum, saw the traditional art museum as a useless public institution, one that focused more on fashion and conformity rather than education and uplift.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ],
+        [
+          126,
+          136,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Indeed, Dana's ideal museum would be one best suited for active and vigorous use by the average citizen, located near the center of their daily movement.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In addition, Dana's conception of the perfect museum included a wider variety of objects than the traditional art museum, including industrial tools and handicrafts that encourage imagination in areas traditionally considered mundane.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ],
+        [
+          110,
+          120,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "This view of the art museum envisions it as one well-suited to an industrial world, indeed enhancing it.",
+    {
+      "entities": [
+        [
+          17,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dana viewed paintings and sculptures as much less useful than industrial products, comparing the museum to a department store.",
+    {
+      "entities": [
+        [
+          97,
+          103,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In addition, he encouraged the active lending-out of a museum's collected objects in order to enhance education at schools and to aid in the cultural development of individual members of the community.",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dana's view of the ideal museum sought to invest a wider variety of people in it, and was self-consciously not elitist.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since the 1970s, a number of political theorists and social commentators have pointed to the political implications of art museums and social relations.",
+    {
+      "entities": [
+        [
+          119,
+          130,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The argument states that certain art museums are aimed at perpetuating aristocratic and upper class ideals of taste and excludes segments of society without the social opportunities to develop such interest.",
+    {
+      "entities": [
+        [
+          33,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Research suggests that the context in which an artwork is being presented has significant influence on its reception by the audience, and viewers shown artworks in a museum rated them more highly than when displayed in a \"laboratory\" setting",
+    {
+      "entities": [
+        [
+          166,
+          172,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Most art museums have only limited online collections, but a few museums, as well as some libraries and government agencies, have developed substantial online catalogues.",
+    {
+      "entities": [
+        [
+          5,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are a number of online art catalogues and galleries that have been developed independently of the support of any individual museum.",
+    {
+      "entities": [
+        [
+          130,
+          136,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are relatively few local/regional/national organizations dedicated specifically to art museums.",
+    {
+      "entities": [
+        [
+          89,
+          100,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Most art museums are associated with local/regional/national organizations for the arts, humanities or museums in general.",
+    {
+      "entities": [
+        [
+          5,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ]
+]

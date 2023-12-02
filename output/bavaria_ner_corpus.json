@@ -1,0 +1,1169 @@
+[
+  [
+    "Bavaria (/bəˈvɛəriə/ bə-VAIR-ee-ə; German: Bayern [ˈbaɪɐn] (listen)), officially the Free State of Bavaria (German: Freistaat Bayern [ˈfʁaɪʃtaːt ˈbaɪɐn] (listen)), is a state in the south-east of Germany.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ],
+        [
+          99,
+          106,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With an area of 70,550.19 km2 (27,239.58 sq mi), Bavaria is the largest German state by land area, comprising roughly a fifth of the total land area of Germany.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria's main cities are Munich (its capital and largest city and also the third largest city in Germany), Nuremberg, and Augsburg.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The history of Bavaria includes its earliest settlement by Iron Age Celtic tribes, followed by the conquests of the Roman Empire in the 1st century BC, when the territory was incorporated into the provinces of Raetia and Noricum.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It became the Duchy of Bavaria (a stem duchy) in the 6th century AD following the collapse of the Western Roman Empire.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has a unique culture, largely because of the state's Catholic heritage and conservative traditions.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia.",
+    {
+      "entities": [
+        [
+          13,
+          20,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From about 554 to 788, the house of Agilolfing ruled the Duchy of Bavaria, ending with Tassilo III who was deposed by Charlemagne.",
+    {
+      "entities": [
+        [
+          66,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Odilo issued a law code for Bavaria, completed the process of church organization in partnership with St. Boniface (739), and tried to intervene in Frankish succession disputes by fighting for the claims of the Carolingian Grifo.",
+    {
+      "entities": [
+        [
+          28,
+          35,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tassilo III (b. 741 – d. after 796) succeeded his father at the age of eight after an unsuccessful attempt by Grifo to rule Bavaria.",
+    {
+      "entities": [
+        [
+          124,
+          131,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With the revolt of duke Henry the Quarrelsome in 976, Bavaria lost large territories in the south and south east.",
+    {
+      "entities": [
+        [
+          54,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Later the counts of Tyrol next to other princes began to act more independently from the dukes of Bavaria, and the new Duchy of Merania was created from lordships once under the jurisdiction of the Duchy of Bavaria.",
+    {
+      "entities": [
+        [
+          98,
+          105,
+          "ENTITY"
+        ],
+        [
+          207,
+          214,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The last, and one of the most important, of the dukes of Bavaria was Henry the Lion of the house of Welf, founder of Munich, and de facto the second most powerful man in the empire as the ruler of two duchies.",
+    {
+      "entities": [
+        [
+          57,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When in 1180, Henry the Lion was deposed as Duke of Saxony and Bavaria by his cousin, Frederick I, Holy Roman Emperor (a.k.a.",
+    {
+      "entities": [
+        [
+          63,
+          70,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "\"Barbarossa\" for his red beard), Bavaria was awarded as fief to the Wittelsbach family, counts palatinate of Schyren (\"Scheyern\" in modern German).",
+    {
+      "entities": [
+        [
+          33,
+          40,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1180 however also Styria was separated from Bavaria.",
+    {
+      "entities": [
+        [
+          47,
+          54,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The first of several divisions of the duchy of Bavaria occurred in 1255.",
+    {
+      "entities": [
+        [
+          47,
+          54,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "That time also Salzburg finally became independent from the Duchy of Bavaria.",
+    {
+      "entities": [
+        [
+          69,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the 14th and 15th centuries, upper and lower Bavaria were repeatedly subdivided.",
+    {
+      "entities": [
+        [
+          48,
+          55,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria-Straubing, Bavaria-Landshut, Bavaria-Ingolstadt and Bavaria-Munich.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ],
+        [
+          19,
+          26,
+          "ENTITY"
+        ],
+        [
+          37,
+          44,
+          "ENTITY"
+        ],
+        [
+          60,
+          67,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1506 with the Landshut War of Succession, the other parts of Bavaria were reunited, and Munich became the sole capital.",
+    {
+      "entities": [
+        [
+          64,
+          71,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From 1777 onward, and after the younger Bavarian branch of the family had died out with elector Max III Joseph, Bavaria and the Electorate of the Palatinate were governed once again in personal union, now by the Palatinian lines.",
+    {
+      "entities": [
+        [
+          112,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When Napoleon abolished the Holy Roman Empire, Bavaria became – by grace of Napoleon – a kingdom in 1806 due, in part, to the Confederation of the Rhine.",
+    {
+      "entities": [
+        [
+          47,
+          54,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tyrol and Salzburg were temporarily reunited with Bavaria but finally ceded to Austria by the Congress of Vienna.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In return Bavaria was allowed to annex the modern-day region of Palatinate to the west of the Rhine and Franconia in 1815.",
+    {
+      "entities": [
+        [
+          10,
+          17,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the rise of Prussia to power in the early 18th century, Bavaria preserved its independence by playing off the rivalry of Prussia and Austria.",
+    {
+      "entities": [
+        [
+          62,
+          69,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When France declared war on Prussia in 1870, all the south German states (Baden, Württemberg, Hessen-Darmstadt and Bavaria) aside from Austria, joined the Prussian forces and ultimately joined the Federation, which was renamed Deutsches Reich (German Empire) in 1871.",
+    {
+      "entities": [
+        [
+          115,
+          122,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria continued formally as a monarchy, and it had some special rights within the federation (such as an army, railways, postal service and a diplomatic body of its own) but the diplomatic body were later undone by Wilhelm II who declared them illegal and got rid of the diplomatic service.[citation needed]",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When Bavaria became part of the newly formed German Empire, this action was considered controversial by Bavarian nationalists who had wanted to retain independence from the rest of Germany, as had Austria.",
+    {
+      "entities": [
+        [
+          5,
+          12,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As Bavaria had a heavily Catholic majority population, many people resented being ruled by the mostly Protestant northerners of Prussia.",
+    {
+      "entities": [
+        [
+          3,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As a direct result of the Bavarian-Prussian feud, political parties formed to encourage Bavaria to break away and regain its independence.",
+    {
+      "entities": [
+        [
+          88,
+          95,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the early 20th century, Wassily Kandinsky, Paul Klee, Henrik Ibsen, and other artists were drawn to Bavaria, especially to the Schwabing district of Munich, a center of international artistic activity.",
+    {
+      "entities": [
+        [
+          103,
+          110,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Family members are active in cultural and social life, including the head of the house, Franz, Duke of Bavaria.",
+    {
+      "entities": [
+        [
+          103,
+          110,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bamberg Constitution (Bamberger Verfassung) was enacted on 12 or 14 August 1919 and came into force on 15 September 1919 creating the Free State of Bavaria within the Weimar Republic.",
+    {
+      "entities": [
+        [
+          152,
+          159,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, in the crucial German federal election, March 1933, the Nazis received less than 50% of the votes cast in Bavaria.",
+    {
+      "entities": [
+        [
+          115,
+          122,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Rhenish Palatinate was detached from Bavaria in 1946 and made part of the new state Rhineland-Palatinate.",
+    {
+      "entities": [
+        [
+          41,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During the Cold War, Bavaria was part of West Germany.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1949, the Free State of Bavaria chose not to sign the Founding Treaty (Gründungsvertrag) for the formation of the Federal Republic of Germany, opposing the division of Germany into two countries after World War II.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bavarian Parliament did not sign the Basic Law of Germany, mainly because it was seen as not granting sufficient powers to the individual Länder (states), but at the same time decided that it would still come into force in Bavaria if two-thirds of the other Länder ratified it.",
+    {
+      "entities": [
+        [
+          227,
+          234,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "This feeling started to come about more strongly among Bavarians when the Kingdom of Bavaria was forced by Bismarck to join the Protestant Prussian-dominated German Empire in 1871, while the Bavarian nationalists wanted to keep Bavaria as Catholic and an independent state.",
+    {
+      "entities": [
+        [
+          85,
+          92,
+          "ENTITY"
+        ],
+        [
+          228,
+          235,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aside from the minority Bavaria Party, most Bavarians now accept Bavaria is part of Germany.",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "ENTITY"
+        ],
+        [
+          65,
+          72,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Another consideration is that Bavarians foster different cultural identities: Franconia in the north, speaking East Franconian German; Bavarian Swabia in the south west, speaking Swabian German; and Altbayern (so-called \"Old Bavaria\", the regions forming the \"historic\", pentagon-shaped Bavaria before the acquisitions through the Vienna Congress, at present the districts of the Upper Palatinate, Lower and Upper Bavaria) speaking Austro-Bavarian.[citation needed]",
+    {
+      "entities": [
+        [
+          225,
+          232,
+          "ENTITY"
+        ],
+        [
+          287,
+          294,
+          "ENTITY"
+        ],
+        [
+          414,
+          421,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Uniquely among German states, Bavaria has two official flags of equal status, one with a white and blue stripe, the other with white and blue lozenges.",
+    {
+      "entities": [
+        [
+          30,
+          37,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The modern coat of arms of Bavaria was designed by Eduard Ege in 1946, following heraldic traditions.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria shares international borders with Austria (Salzburg, Tyrol, Upper Austria and Vorarlberg) and the Czech Republic (Karlovy Vary, Plzeň and South Bohemian Regions), as well as with Switzerland (across Lake Constance to the Canton of St. Gallen).",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The major cities in Bavaria are Munich (München), Nuremberg (Nürnberg), Augsburg, Regensburg, Würzburg, Ingolstadt, Fürth, and Erlangen.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The geographic center of the European Union is located in the northwestern corner of Bavaria.",
+    {
+      "entities": [
+        [
+          85,
+          92,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "For example, June 2019 was the warmest June in Bavaria since weather observations have been recorded and the winter 2019/2020 was 3 degrees Celsius warmer than the average temperature for many years all over Bavaria.",
+    {
+      "entities": [
+        [
+          47,
+          54,
+          "ENTITY"
+        ],
+        [
+          208,
+          215,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "One effect of the continuing warming is the melting of almost all Bavarian Alpine glaciers: Of the five glaciers of Bavaria only the Höllentalferner is predicted to exist over a longer time perspective.",
+    {
+      "entities": [
+        [
+          116,
+          123,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria is divided into seven administrative regions called Regierungsbezirke (singular Regierungsbezirk).",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bezirke (districts) are the third communal layer in Bavaria; the others are the Landkreise and the Gemeinden or Städte.",
+    {
+      "entities": [
+        [
+          52,
+          59,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bezirke in Bavaria are territorially identical with the Regierungsbezirke, but they are self-governing regional corporation, having their own parliaments.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the other larger states of Germany, there are only Regierungsbezirke as administrative divisions and no self-governing entities at the level of the Regierungsbezirke as the Bezirke in Bavaria.",
+    {
+      "entities": [
+        [
+          187,
+          194,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Together with the 25 independent cities (kreisfreie Städte, which are in effect municipalities independent of Landkreis administrations), there are a total of 2,056 municipalities in Bavaria.",
+    {
+      "entities": [
+        [
+          183,
+          190,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 44 of the 71 rural districts, there are a total of 215 unincorporated areas (as of 1 January 2005, called gemeindefreie Gebiete, singular gemeindefreies Gebiet), not belonging to any municipality, all uninhabited, mostly forested areas, but also four lakes (Chiemsee-without islands, Starnberger See-without island Roseninsel, Ammersee, which are the three largest lakes of Bavaria, and Waginger See).",
+    {
+      "entities": [
+        [
+          377,
+          384,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has a multiparty system dominated by the conservative Christian Social Union (CSU), which has won every election since 1945 with the exception of the 1950 ballot.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The center-right Free Voters party gained 11.6% of the vote and formed a government coalition with the CSU which led to the subsequent reelection of Markus Söder as Minister-President of Bavaria.",
+    {
+      "entities": [
+        [
+          187,
+          194,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Constitution of Bavaria of the Free State of Bavaria was enacted on 8 December 1946.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "ENTITY"
+        ],
+        [
+          49,
+          56,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has a unicameral Landtag (English: State Parliament), elected by universal suffrage.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Until December 1999, there was also a Senat, or Senate, whose members were chosen by social and economic groups in Bavaria, but following a referendum in 1998, this institution was abolished.[citation needed]",
+    {
+      "entities": [
+        [
+          115,
+          122,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bavarian State Government consists of the Minister-President of Bavaria, eleven Ministers and six Secretaries of State.",
+    {
+      "entities": [
+        [
+          68,
+          75,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Political processes also take place in the seven regions (Regierungsbezirke or Bezirke) in Bavaria, in the 71 rural districts (Landkreise) and the 25 towns and cities forming their own districts (kreisfreie Städte), and in the 2,031 local authorities (Gemeinden).",
+    {
+      "entities": [
+        [
+          91,
+          98,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1995 Bavaria introduced direct democracy on the local level in a referendum.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nevertheless, Bavaria has the most advanced regulations on local direct democracy in Germany.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Unlike most German states (Länder), which simply designate themselves as \"State of\" (Land [...]), Bavaria uses the style of \"Free State of Bavaria\" (Freistaat Bayern).",
+    {
+      "entities": [
+        [
+          98,
+          105,
+          "ENTITY"
+        ],
+        [
+          139,
+          146,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Unlike most other states – many of which were new creations – Bavaria has resumed this terminology after World War II.",
+    {
+      "entities": [
+        [
+          62,
+          69,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In July 2017, Bavaria's parliament enacted a new revision of the \"Gefährdergesetz\", allowing the authorities to imprison a person for a three months term, renewable indefinitely, when they haven't committed a crime but it is assumed that they might commit a crime \"in the near future\".",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has long had one of the largest economies of any region in Germany, and in Europe.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "This makes Bavaria itself one of the largest economies in Europe, and only 20 countries in the world have a higher GDP.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "This makes Bavaria one of the wealthiest regions in Europe.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has strong economic ties with Austria, Czech Republic, Switzerland, and Northern Italy.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has the best developed industry in Germany and the lowest unemployment rate with 2.9% as of October 2021.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria R40",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Many large companies are headquartered in Bavaria, including Adidas, Allianz, Airbus, Audi, BMW, Brose, BSH Hausgeräte, HypoVereinsbank, Infineon, KUKA, Traton, MTU Aero Engines, Munich Re, Osram, Puma, Rohde & Schwarz, Schaeffler, Siemens, Wacker Chemie, Linde, Vitesco Technologies, Webasto, Grob, Heidenhain, Koenig & Bauer, Kaeser Compressors, Krones, Knorr-Bremse, Wacker Neuson, Krauss-Maffei Wegmann, Siltronic, Leoni, Fielmann, MediaMarkt, Conrad Electronic, BayWa, ProSiebenSat.1 Media, Telefónica Germany, Knauf, Rehau, Giesecke+Devrient.",
+    {
+      "entities": [
+        [
+          42,
+          49,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With 40 million tourists in 2019, Bavaria is the most visited German state and one of Europe's leading tourist destinations.",
+    {
+      "entities": [
+        [
+          34,
+          41,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria has a population of approximately 13.1 million inhabitants (2020).",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "8 of the 80 largest cities in Germany are located within Bavaria with Munich being the largest (1,484,226 inhabitants, approximately 6.1 million when including the broader metropolitan area), followed by Nuremberg (518,370 inhabitants, approximately 3.6 million when including the broader metropolitan area), Augsburg (296,582 inhabitants) and Regensburg (153,094 inhabitants).",
+    {
+      "entities": [
+        [
+          57,
+          64,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "All other cities in Bavaria had less than 150,000 inhabitants each in 2020.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Population density in Bavaria was 186/km2 (480/sq mi), below the national average of 233/km2 (600/sq mi).",
+    {
+      "entities": [
+        [
+          22,
+          29,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Foreign nationals resident in Bavaria (both immigrants and refugees/asylum seekers) were principally from other EU countries and Turkey.",
+    {
+      "entities": [
+        [
+          30,
+          37,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pope Benedict XVI (Joseph Alois Ratzinger) was born in Marktl am Inn in Upper Bavaria and was Cardinal-Archbishop of Munich and Freising.",
+    {
+      "entities": [
+        [
+          78,
+          85,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Otherwise, the culturally Franconian and Swabian regions of the modern State of Bavaria are historically more diverse in religiosity, with both Catholic and Protestant traditions.",
+    {
+      "entities": [
+        [
+          80,
+          87,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "17.2 percent of the population adheres to the Evangelical Lutheran Church in Bavaria, which has also declined since 1970.",
+    {
+      "entities": [
+        [
+          77,
+          84,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Three percent was Orthodox, Muslims make up 4.0% of the population of Bavaria.",
+    {
+      "entities": [
+        [
+          70,
+          77,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Whether in Bavaria, overseas or with citizens from other nations Bavarians continue to cultivate their traditions.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavarians are particularly proud of the traditional Reinheitsgebot, or beer purity law, initially established by the Duke of Bavaria for the City of Munich (i.e. the court) in 1487 and the duchy in 1516.",
+    {
+      "entities": [
+        [
+          125,
+          132,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria is also home to the Franconia wine region, which is situated along the river Main in Franconia.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Three German dialects are most commonly spoken in Bavaria: Austro-Bavarian in Old Bavaria (Upper Bavaria, Lower Bavaria and the Upper Palatinate), Swabian German (an Alemannic German dialect) in the Bavarian part of Swabia (south west) and East Franconian German in Franconia (North).",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "ENTITY"
+        ],
+        [
+          82,
+          89,
+          "ENTITY"
+        ],
+        [
+          97,
+          104,
+          "ENTITY"
+        ],
+        [
+          112,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria is home to several football clubs including FC Bayern Munich, 1. FC Nürnberg, FC Augsburg, TSV 1860 Munich, FC Ingolstadt 04 and SpVgg Greuther Fürth.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bavaria is also home to several professional basketball teams, including FC Bayern Munich, Brose Baskets Bamberg, s.Oliver Würzburg, Nürnberg Falcons BC and TSV Oberhaching Tropics.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Many famous people have been born or lived in present-day Bavaria:",
+    {
+      "entities": [
+        [
+          58,
+          65,
+          "ENTITY"
+        ]
+      ]
+    }
+  ]
+]

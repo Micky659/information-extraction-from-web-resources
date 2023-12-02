@@ -1,0 +1,3434 @@
+[
+  [
+    "Munich (/ˈmjuːnɪk/ MEW-nik; German: München [ˈmʏnçn̩] (listen); Bavarian: Minga [ˈmɪŋ(ː)ɐ] (listen)) is the capital and most populous city of the German state of Bavaria.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          36,
+          43,
+          "ENTITY"
+        ],
+        [
+          74,
+          79,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Straddling the banks of the River Isar (a tributary of the Danube) north of the Bavarian Alps, Munich is the seat of the Bavarian administrative region of Upper Bavaria, while being the most densely populated municipality in Germany (4,500 people per km2).",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is the second-largest city in the Bavarian dialect area, after the Austrian capital of Vienna.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Catholic Munich strongly resisted the Reformation and was a political point of divergence during the resulting Thirty Years' War, but remained physically untouched despite an occupation by the Protestant Swedes.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Once Bavaria was established as a sovereign kingdom in 1806, Munich became a major European centre of arts, architecture, culture and science.",
+    {
+      "entities": [
+        [
+          61,
+          67,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1918, during the German Revolution, the ruling house of Wittelsbach, which had governed Bavaria since 1180, was forced to abdicate in Munich and a short-lived socialist republic was declared.",
+    {
+      "entities": [
+        [
+          137,
+          143,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the 1920s, Munich became home to several political factions, among them the NSDAP.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the Nazis' rise to power, Munich was declared their \"Capital of the Movement\".",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Today, Munich is a global centre of art, science, technology, finance, publishing, culture, innovation, education, business, and tourism and enjoys a very high standard and quality of living, reaching first in Germany and third worldwide according to the 2018 Mercer survey, and being rated the world's most liveable city by the Monocle's Quality of Life Survey 2018.",
+    {
+      "entities": [
+        [
+          7,
+          13,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is consistently ranked as one of the most expensive cities in Germany in terms of real estate prices and rental costs.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to the Globalization and World Rankings Research Institute, Munich is considered an alpha-world city, as of 2015[update].",
+    {
+      "entities": [
+        [
+          70,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich's economy is based on high tech, automobiles, the service sector and creative industries, as well as IT, biotechnology, engineering and electronics among many other sectors.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is also one of the most attractive business locations in Germany.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In addition, Munich is home to two research universities, a multitude of scientific institutions, and world-renowned technology and science museums like the Deutsches Museum and BMW Museum.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich's numerous architectural and cultural attractions, sports events, exhibitions and its annual Oktoberfest, the world's largest Volksfest, attract considerable tourism.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The name in modern German is München, but this has been variously translated in different languages: in English, French, Spanish and various other languages as \"Munich\", in Italian as \"Monaco di Baviera\", in Portuguese as \"Munique\".",
+    {
+      "entities": [
+        [
+          29,
+          36,
+          "ENTITY"
+        ],
+        [
+          161,
+          167,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Archeological finds in Munich, such as in Freiham/Aubing, indicate early settlements and graves dating back to the Bronze Age.",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The ancient Roman road Via Julia, which connected Augsburg and Salzburg, crossed over the Isar River south of modern-day Munich, at the towns of Baierbrunn and Gauting.",
+    {
+      "entities": [
+        [
+          121,
+          127,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A Roman settlement north-east of downtown Munich was excavated in the neighborhood of Denning/Bogenhausen.",
+    {
+      "entities": [
+        [
+          42,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the 6th Century and beyond, various ethnic groups, such as the Baiuvarii, populated the area around what is now modern Munich, such as in Johanneskirchen, Feldmoching, Bogenhausen and Pasing.",
+    {
+      "entities": [
+        [
+          122,
+          128,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The origin of the modern city of Munich is the result of a power struggle between a military warlord and an influential Catholic bishop.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "He then built a new toll bridge, customs house and a coin market closer to his home somewhat upstream (at a settlement around the area of modern oldtown Munich: Marienplatz, Marienhof and the St. Peter's Church).",
+    {
+      "entities": [
+        [
+          153,
+          159,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "14 June 1158, is considered the official 'founding day' of the city of Munich, not the date when it was first settled.",
+    {
+      "entities": [
+        [
+          71,
+          77,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Archaeological excavations at Marienhof Square (near Marienplatz) in advance of the expansion of the S-Bahn (subway) in 2012 discovered shards of vessels from the 11th century, which prove again that the settlement of Munich must be older than the Augsburg Arbitration of 1158.",
+    {
+      "entities": [
+        [
+          218,
+          224,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1175, Munich received city status and fortification.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1180, after Henry the Lion's fall from grace with Emperor Frederick Barbarosa, including his trial and exile, Otto I Wittelsbach became Duke of Bavaria, and Munich was handed to the Bishop of Freising.",
+    {
+      "entities": [
+        [
+          160,
+          166,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1240, Munich was transferred to Otto II Wittelsbach and in 1255, when the Duchy of Bavaria was split in two, Munich became the ducal residence of Upper Bavaria.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ],
+        [
+          112,
+          118,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Duke Louis IV, a native of Munich, was elected German king in 1314 and crowned as Holy Roman Emperor in 1328.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On 13 February 1327, a large fire broke out in Munich that lasted two days and destroyed about a third of the town.",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1349, the Black Death ravaged Munich and Bavaria.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the 15th century, Munich underwent a revival of Gothic arts: the Old Town Hall was enlarged, and Munich's largest Gothic church – the Frauenkirche – now a cathedral, was constructed in only 20 years, starting in 1468.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ],
+        [
+          100,
+          106,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When Bavaria was reunited in 1506 after a brief war against the Duchy of Landshut, Munich became its capital.",
+    {
+      "entities": [
+        [
+          83,
+          89,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During the 16th century, Munich was a centre of the German counter reformation, and also of renaissance arts.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Catholic League was founded in Munich in 1609.",
+    {
+      "entities": [
+        [
+          35,
+          41,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1623, during the Thirty Years' War, Munich became an electoral residence when Maximilian I, Duke of Bavaria was invested with the electoral dignity, but in 1632 the city was occupied by Gustav II Adolph of Sweden.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Under the regency of the Bavarian electors, Munich was an important centre of Baroque life, but also had to suffer under Habsburg occupations in 1704 and 1742.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The state parliament (the Landtag) and the new archdiocese of Munich and Freising were also located in the city.",
+    {
+      "entities": [
+        [
+          62,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During the early to mid-19th century, the old fortified city walls of Munich were largely demolished due to population expansion.",
+    {
+      "entities": [
+        [
+          70,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich's annual Beer Festival, Oktoberfest, has its origins from a royal wedding in October 1810.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1826, Landshut University was moved to Munich.",
+    {
+      "entities": [
+        [
+          42,
+          48,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Especially Ludwig I rendered outstanding services to Munich's status as a centre of the arts, attracting numerous artists and enhancing the city's architectural substance with grand boulevards and buildings.",
+    {
+      "entities": [
+        [
+          53,
+          59,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The first Munich railway station was built in 1839, with a line going to Augsburg in the west.",
+    {
+      "entities": [
+        [
+          10,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "By 1849 a newer Munich Central Train Station (München Hauptbahnhof) was completed, with a line going to Landshut and Regensburg in the north.",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "ENTITY"
+        ],
+        [
+          46,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Later, Prince Regent Luitpold's years as regent were marked by tremendous artistic and cultural activity in Munich, enhancing its status as a cultural force of global importance (see Franz von Stuck and Der Blaue Reiter).",
+    {
+      "entities": [
+        [
+          108,
+          114,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Following the outbreak of World War I in 1914, life in Munich became very difficult, as the Allied blockade of Germany led to food and fuel shortages.",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During French air raids in 1916, three bombs fell on Munich.",
+    {
+      "entities": [
+        [
+          53,
+          59,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In March 1916, three separate aircraft-engine and automobile companies joined to form 'Bayerische Motoren Werke' (BMW) in Munich.",
+    {
+      "entities": [
+        [
+          122,
+          128,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "When Communists took power, Lenin, who had lived in Munich some years before, sent a congratulatory telegram, but the Soviet Republic was ended on 3 May 1919 by the Freikorps.",
+    {
+      "entities": [
+        [
+          52,
+          58,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "While the republican government had been restored, Munich became a hotbed of extremist politics, among which Adolf Hitler and the National Socialists soon rose to prominence.",
+    {
+      "entities": [
+        [
+          51,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich's first film studio (Bavaria Film) was founded in 1919.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1923, Adolf Hitler and his supporters, who were concentrated in Munich, staged the Beer Hall Putsch, an attempt to overthrow the Weimar Republic and seize power.",
+    {
+      "entities": [
+        [
+          67,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Because of its importance to the rise of National Socialism, Munich was referred to as the Hauptstadt der Bewegung (\"Capital of the Movement\").",
+    {
+      "entities": [
+        [
+          61,
+          67,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The NSDAP headquarters and the documentation apparatus for controlling all aspects of life were located in Munich.",
+    {
+      "entities": [
+        [
+          107,
+          113,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In March 1924, Munich broadcast its first radio program.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city was the site where the 1938 Munich Agreement signed between Britain and France with Germany as part of the Franco-British policy of appeasement.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The first airport in Munich was completed in October 1939, in the area of Riem.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On November 8, 1939, shortly after the Second World War had begun, a bomb was planted in the Bürgerbräukeller in Munich in an attempt to assassinate Adolf Hitler during a political party speech.",
+    {
+      "entities": [
+        [
+          113,
+          119,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "On its site today stands the GEMA Building, the Gasteig Cultural Centre and the Munich City Hilton Hotel.",
+    {
+      "entities": [
+        [
+          80,
+          86,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich was the base of the White Rose, a student resistance movement.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The group had distributed leaflets in several cities and following the 1943 Battle of Stalingrad members of the group stenciled slogans such as \"Down with Hitler\" and \"Hitler the Mass Murderer\" on public buildings in Munich.",
+    {
+      "entities": [
+        [
+          217,
+          223,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The core members were arrested and executed after Sophie Scholl and her brother Hans Scholl were caught distributing leaflets on Munich University campus calling upon the youth to rise against Hitler.",
+    {
+      "entities": [
+        [
+          129,
+          135,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "US troops liberated Munich on April 30, 1945.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After US occupation in 1945, Munich was completely rebuilt following a meticulous plan, which preserved its pre-war street grid, bar a few exceptions owing to then modern traffic concepts.",
+    {
+      "entities": [
+        [
+          29,
+          35,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1957, Munich's population surpassed one million.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Munich, Bayerischer Rundfunk began its first television broadcast in 1954.",
+    {
+      "entities": [
+        [
+          3,
+          9,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 1963, Munich has been hosting the Munich Security Conference, held annually in the Hotel Bayerischer Hof.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ],
+        [
+          40,
+          46,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich also became known on the political level due to the strong influence of Bavarian politician Franz Josef Strauss from the 1960s to the 1980s.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Munich Airport, which commenced operations in 1992, was named in his honor.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich hosted the 1972 Summer Olympics.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After winning the bid in 1966 the Mayor of Munich Hans-Jochen Vogel accelerated the construction of the U-Bahn subway and the S-Bahn metropolitan commuter railway.",
+    {
+      "entities": [
+        [
+          43,
+          49,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Shortly before the opening ceremony, Munich also inaugurated a sizable pedestrian priority zone between Klarlsplatz and Marienplatz.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1970 the Munich city council released funds so that the iconic gothic facade and Glockenspiel of the New City Hall (Neues Rathaus) could be restored.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "During 1972 Summer Olympics 11 Israeli athletes were murdered by Palestinian terrorists in the Munich massacre, when gunmen from the Palestinian \"Black September\" group took hostage members of the Israeli Olympic team.  ",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mass murders also occurred in Munich in 1980 and 2016.",
+    {
+      "entities": [
+        [
+          30,
+          36,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich also hosted the FIFA World Cup finals in 1974.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is also home of the famous Nockherberg Strong Beer Festival during the Lenten fasting period (usually in March).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich was one of the host cities for the 2006 FIFA World Cup.[citation needed]",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2007 the ecological restoration of the river Isar in the urban area of Munich was awarded the Water Development Prize by the German Association for Water, Wastewater and Waste (known as DWA in German).",
+    {
+      "entities": [
+        [
+          74,
+          80,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The renaturation of the Isar allows for the near natural development of the river bed and is part of Munich's flood protection.",
+    {
+      "entities": [
+        [
+          101,
+          107,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "About 20 percent of buildings in Munich now have a green roof, the Munich city council has been encouraging better stormwater management since the 1990s with regulations and subsidies.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ],
+        [
+          67,
+          73,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich was one of the host cities for UEFA Euro 2020, which was delayed for a year due to the COVID-19 pandemic in Germany, and is planned to be a host city for UEFA Euro 2024.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich lies on the elevated plains of Upper Bavaria, about 50 km (31 mi) north of the northern edge of the Alps, at an altitude of about 520 m (1,706 ft) ASL.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is situated in the Northern Alpine Foreland.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Between these are fields of fluvio-glacial out-wash, such as around Munich.",
+    {
+      "entities": [
+        [
+          68,
+          74,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wherever these deposits get thinner, the ground water can permeate the gravel surface and flood the area, leading to marshes as in the north of Munich.",
+    {
+      "entities": [
+        [
+          144,
+          150,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city centre lies between both climates, while the airport of Munich has a humid continental climate.",
+    {
+      "entities": [
+        [
+          65,
+          71,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Being at the centre of Europe, Munich is subject to many climatic influences, so that weather conditions there are more variable than in other European cities, especially those further west and south of the Alps.",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "At Munich's official weather stations, the highest and lowest temperatures ever measured are 37.5 °C (100 °F), on 27 July 1983 in Trudering-Riem, and −31.6 °C (−24.9 °F), on 12 February 1929 in the Botanic Garden of the city.",
+    {
+      "entities": [
+        [
+          3,
+          9,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Munich, the general trend of global warming with a rise of medium yearly temperatures of about 1 °C in Germany over the last 120 years can be observed as well.",
+    {
+      "entities": [
+        [
+          3,
+          9,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The data is supposed to be used to create a plan for action for adapting the city to better deal with climate change as well as an integrated action program for climate protection in Munich.",
+    {
+      "entities": [
+        [
+          183,
+          189,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since then, Munich has become Germany's third-largest city.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In July 2017, Munich had 1.42 million inhabitants; 421,832 foreign nationals resided in the city as of 31 December 2017 with 50.7% of these residents being citizens of EU member states, and 25.2% citizens in European states not in the EU (including Russia and Turkey).",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "About 45% of Munich's residents are not affiliated with any religious group; this ratio represents the fastest growing segment of the population.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "According to Munich Statistical Office, in 2013 about 8.6% of Munich's population was Muslim.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ],
+        [
+          62,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "As the capital of Bavaria, Munich is an important political centre for both the state and country as a whole.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Several national and international authorities are located in Munich, including the Federal Finance Court of Germany, the German Patent Office and the European Patent Office.",
+    {
+      "entities": [
+        [
+          62,
+          68,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The current mayor of Munich is Dieter Reiter of the centre-left Social Democratic Party (SPD), who was elected in 2014 and re-elected in 2020.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has a much stronger left-wing tradition than the rest of the state, which has been dominated by the conservative Christian Social Union in Bavaria (CSU) on a federal, state, and local level since the establishment of the Federal Republic in 1949.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich, by contrast, has been governed by the SPD for all but six years since 1948.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Munich city council (Stadtrat) governs the city alongside the Mayor.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the Landtag of Bavaria, Munich is divided between nine constituencies.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the Bundestag, Munich is divided between four constituencies.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is twinned with the following cities (date of agreement shown in parentheses): Edinburgh, Scotland (1954), Verona, Italy (March 17, 1960), Bordeaux, France (1964),[85] Sapporo, Japan (1972),[86] Cincinnati, Ohio, United States (1989), Kyiv, Ukraine (1989), Harare, Zimbabwe (1996) and Beersheba, Israel (2022).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since the administrative reform in 1992, Munich is divided into 25 boroughs or Stadtbezirke, which themselves consist of smaller quarters.",
+    {
+      "entities": [
+        [
+          41,
+          47,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A survey by the Society's Centre for Sustainable Destinations for the National Geographic Traveller chose over 100 historic destinations around the world and ranked Munich 30th.",
+    {
+      "entities": [
+        [
+          165,
+          171,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It was first built during the Romanesque period, and was the focus of the early monastic settlement in Munich before the city's official foundation in 1158.",
+    {
+      "entities": [
+        [
+          103,
+          109,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Frauenkirche serves as the cathedral for the Catholic Archdiocese of Munich and Freising.",
+    {
+      "entities": [
+        [
+          73,
+          79,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The large Residenz palace complex (begun in 1385) on the edge of Munich's Old Town, Germany's largest urban palace, ranks among Europe's most significant museums of interior decoration.",
+    {
+      "entities": [
+        [
+          65,
+          71,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Among the baroque and neoclassical mansions which still exist in Munich are the Palais Porcia, the Palais Preysing, the Palais Holnstein and the Prinz-Carl-Palais.",
+    {
+      "entities": [
+        [
+          65,
+          71,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "All mansions are situated close to the Residenz, same as the Alte Hof, a medieval castle and first residence of the Wittelsbach dukes in Munich.",
+    {
+      "entities": [
+        [
+          137,
+          143,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "St. Lukas is the largest Protestant Church in Munich.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Four grand royal avenues of the 19th century with official buildings connect Munich's inner city with its then-suburbs:",
+    {
+      "entities": [
+        [
+          77,
+          83,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The area around Königsplatz is home to the Kunstareal, Munich's gallery and museum quarter (as described below).",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The western portion of Maximilianstraße is known for its designer shops, luxury boutiques, jewellery stores, and one of Munich's foremost five-star hotels, the Hotel Vier Jahreszeiten.",
+    {
+      "entities": [
+        [
+          120,
+          126,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The wealthy district of Bogenhausen in the east of Munich is another little-known area (at least among tourists) rich in extravagant architecture, especially around Prinzregentenstraße.",
+    {
+      "entities": [
+        [
+          51,
+          57,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Schloss Fürstenried (Fürstenried Palace), a baroque palace of similar structure to Nymphenburg but of much smaller size, was erected around the same time in the south west of Munich.",
+    {
+      "entities": [
+        [
+          175,
+          181,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Grünwald castle is the only medieval castle in the Munich area which still exists.",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Especially in its suburbs, Munich features a wide and diverse array of modern architecture, although strict culturally sensitive height limitations for buildings have limited the construction of skyscrapers to avoid a loss of views to the distant Bavarian Alps.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Most high-rise buildings are clustered at the northern edge of Munich in the skyline, like the Hypo-Haus, the Arabella High-Rise Building, the Highlight Towers, Uptown Munich, Münchner Tor and the BMW Headquarters next to the Olympic Park.",
+    {
+      "entities": [
+        [
+          63,
+          69,
+          "ENTITY"
+        ],
+        [
+          168,
+          174,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Several other high-rise buildings are located near the city centre and on the Siemens campus in southern Munich.",
+    {
+      "entities": [
+        [
+          105,
+          111,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "A landmark of modern Munich is also the architecture of the sport stadiums (as described below).",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is a densely-built city but has numerous public parks.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 1789, the Englischer Garten was created just north of Munich's old city center.",
+    {
+      "entities": [
+        [
+          57,
+          63,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Other large green spaces are the modern Olympiapark, the Westpark, and the parks of Nymphenburg Palace (with the Botanischer Garten München-Nymphenburg to the north), and Schleissheim Palace.",
+    {
+      "entities": [
+        [
+          132,
+          139,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Another notable park is Ostpark located in the Ramersdorf-Perlach borough which also houses the Michaelibad, the largest water park in Munich.",
+    {
+      "entities": [
+        [
+          135,
+          141,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is home to several professional football teams including Bayern Munich, Germany's most successful club and a multiple UEFA Champions League winner.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          71,
+          77,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Other notable clubs include 1860 Munich, who were long time their rivals on a somewhat equal footing, but currently play in the 3rd Division 3.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "FC Bayern Munich Basketball is currently playing in the Beko Basket Bundesliga.",
+    {
+      "entities": [
+        [
+          10,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city's ice hockey club is EHC Red Bull München who play in the Deutsche Eishockey Liga.",
+    {
+      "entities": [
+        [
+          43,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich hosted the 1972 Summer Olympics; the Munich Massacre took place in the Olympic village.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It was one of the host cities for the 2006 Football World Cup, which was not held in Munich's Olympic Stadium, but in a new football specific stadium, the Allianz Arena.",
+    {
+      "entities": [
+        [
+          85,
+          91,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich bid to host the 2018 Winter Olympic Games, but lost to Pyeongchang.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In September 2011 the DOSB President Thomas Bach confirmed that Munich would bid again for the Winter Olympics in the future.",
+    {
+      "entities": [
+        [
+          64,
+          70,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Regular annual road running events in Munich are the Munich Marathon in October, the Stadtlauf end of June, the company run B2Run in July, the New Year's Run on 31 December, the Spartan Race Sprint, the Olympia Alm Crosslauf and the Bestzeitenmarathon.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ],
+        [
+          53,
+          59,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Public sporting facilities in Munich include ten indoor swimming pools and eight outdoor swimming pools, which are operated by the Munich City Utilities (SWM) communal company.",
+    {
+      "entities": [
+        [
+          30,
+          36,
+          "ENTITY"
+        ],
+        [
+          131,
+          137,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Further, swimming within Munich's city limits is also possible in several artificial lakes such as for example the Riemer See or the Langwieder lake district.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has a reputation as a surfing hotspot, offering the world's best known river surfing spot, the Eisbach wave, which is located at the southern edge of the Englischer Garten park and used by surfers day and night and throughout the year.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Starting in 2023, Munich will have a team enter into the European League of Football, a professional American football league with teams throughout Europe.[citation needed]",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bavarian dialects are spoken in and around Munich, with its variety West Middle Bavarian or Old Bavarian (Westmittelbairisch / Altbairisch).",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Lenbachhaus houses works by the group of Munich-based modernist artists known as Der Blaue Reiter (The Blue Rider).",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The gothic Morris dancers of Erasmus Grasser are exhibited in the Munich City Museum in the old gothic arsenal building in the inner city.",
+    {
+      "entities": [
+        [
+          66,
+          72,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is a major international cultural centre and has played host to many prominent composers including Orlando di Lasso, W.A. Mozart, Carl Maria von Weber, Richard Wagner, Gustav Mahler, Richard Strauss, Max Reger and Carl Orff.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "With the Munich Biennale founded by Hans Werner Henze, and the A*DEvantgarde festival, the city still contributes to modern music theatre.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Some of classical music's best-known pieces have been created in and around Munich by composers born in the area, for example, Richard Strauss's tone poem Also sprach Zarathustra or Carl Orff's Carmina Burana.",
+    {
+      "entities": [
+        [
+          76,
+          82,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Gärtnerplatz Theatre is a ballet and musical state theatre while another opera house, the Prinzregententheater, has become the home of the Bavarian Theatre Academy and the Munich Chamber Orchestra.",
+    {
+      "entities": [
+        [
+          176,
+          182,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The modern Gasteig centre houses the Munich Philharmonic Orchestra.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The third orchestra in Munich with international importance is the Bavarian Radio Symphony Orchestra.",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Its primary concert venue is the Herkulessaal in the former city royal residence, the Munich Residenz.",
+    {
+      "entities": [
+        [
+          86,
+          92,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich's contributions to modern popular music are often overlooked in favour of its strong association with classical music, but they are numerous: the city has had a strong music scene in the 1960s and 1970s, with many internationally renowned bands and musicians frequently performing in its clubs.[citation needed]",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Furthermore, Munich was the centre of Krautrock in southern Germany, with many important bands such as Amon Düül II, Embryo or Popol Vuh hailing from the city.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich also played a significant role in the development of electronic music, with genre pioneer Giorgio Moroder, who invented synth disco and electronic dance music, and Donna Summer, one of disco music's most important performers, both living and working in the city.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the late 1990s, Electroclash was substantially co-invented if not even invented in Munich, when DJ Hell introduced and assembled international pioneers of this musical genre through his International DeeJay Gigolo Records label here.",
+    {
+      "entities": [
+        [
+          86,
+          92,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Other notable musicians and bands from Munich include Konstantin Wecker, Willy Astor, Spider Murphy Gang, Münchener Freiheit, Lou Bega, Megaherz, FSK, Colour Haze and Sportfreunde Stiller.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Next to the Bavarian Staatsschauspiel in the Residenz Theatre (Residenztheater), the Munich Kammerspiele in the Schauspielhaus is one of the most important German-language theatres in the world.",
+    {
+      "entities": [
+        [
+          85,
+          91,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since Gotthold Ephraim Lessing's premieres in 1775 many important writers have staged their plays in Munich such as Christian Friedrich Hebbel, Henrik Ibsen and Hugo von Hofmannsthal.[citation needed]",
+    {
+      "entities": [
+        [
+          101,
+          107,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The city is known as the second-largest publishing centre in the world (around 250 publishing houses have offices in the city), and many national and international publications are published in Munich, such as Arts in Munich, LAXMag and Prinz.[citation needed]",
+    {
+      "entities": [
+        [
+          194,
+          200,
+          "ENTITY"
+        ],
+        [
+          218,
+          224,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "At the turn of the 20th century, Munich, and especially its suburb of Schwabing, was the preeminent cultural metropolis of Germany.",
+    {
+      "entities": [
+        [
+          33,
+          39,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "For example, Wassily Kandinsky chose Munich over Paris to study at the Akademie der Bildenden Künste München, and, along with many other painters and writers living in Schwabing at that time, had a profound influence on modern art.[citation needed]",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ],
+        [
+          101,
+          108,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Prominent literary figures worked in Munich especially during the final decades of the Kingdom of Bavaria, the so-called Prinzregentenzeit (literally \"prince regent's time\") under the reign of Luitpold, Prince Regent of Bavaria, a period often described as a cultural Golden Age for both Munich and Bavaria as a whole.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ],
+        [
+          288,
+          294,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Central to Schwabing's bohemian scene (although they were actually often located in the nearby Maxvorstadt quarter) were Künstlerlokale (artist's cafés) like Café Stefanie or Kabarett Simpl, whose liberal ways differed fundamentally from Munich's more traditional localities.",
+    {
+      "entities": [
+        [
+          238,
+          244,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Simpl, which survives to this day (although with little relevance to the city's contemporary art scene), was named after Munich's anti-authoritarian satirical magazine Simplicissimus, founded in 1896 by Albert Langen and Thomas Theodor Heine, which quickly became an important organ of the Schwabinger Bohème.",
+    {
+      "entities": [
+        [
+          125,
+          131,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Its caricatures and biting satirical attacks on Wilhelmine German society were the result of countless of collaborative efforts by many of the best visual artists and writers from Munich and elsewhere.[citation needed]",
+    {
+      "entities": [
+        [
+          180,
+          186,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Thomas Mann wrote in his novella Gladius Dei about this period: \"München leuchtete\" (literally \"Munich shone\").",
+    {
+      "entities": [
+        [
+          65,
+          72,
+          "ENTITY"
+        ],
+        [
+          96,
+          102,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich remained a centre of cultural life during the Weimar period, with figures such as Lion Feuchtwanger, Bertolt Brecht, Peter Paul Althaus, Stefan George, Ricarda Huch, Joachim Ringelnatz, Oskar Maria Graf, Annette Kolb, Ernst Toller, Hugo Ball and Klaus Mann adding to the already established big names.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After World War II, Munich soon again became a focal point of the German literary scene and remains so to this day, with writers as diverse as Wolfgang Koeppen, Erich Kästner, Eugen Roth, Alfred Andersch, Elfriede Jelinek, Hans Magnus Enzensberger, Michael Ende, Franz Xaver Kroetz, Gerhard Polt and Patrick Süskind calling the city their home.[citation needed]",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From the Gothic to the Baroque era, the fine arts were represented in Munich by artists like Erasmus Grasser, Jan Polack, Johann Baptist Straub, Ignaz Günther, Hans Krumpper, Ludwig von Schwanthaler, Cosmas Damian Asam, Egid Quirin Asam, Johann Baptist Zimmermann, Johann Michael Fischer and François de Cuvilliés.",
+    {
+      "entities": [
+        [
+          70,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich had already become an important place for painters like Carl Rottmann, Lovis Corinth, Wilhelm von Kaulbach, Carl Spitzweg, Franz von Lenbach, Franz von Stuck, Karl Piloty and Wilhelm Leibl when Der Blaue Reiter (The Blue Rider), a group of expressionist artists, was established in Munich in 1911.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          289,
+          295,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich was (and in some cases, still is) home to many of the most important authors of the New German Cinema movement, including Rainer Werner Fassbinder, Werner Herzog, Edgar Reitz and Herbert Achternbusch.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich served as the location for many of Fassbinder's films, among them Ali: Fear Eats the Soul.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich remains one of the centres of the German film and entertainment industry.[citation needed]",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Annual \"High End Munich\" trade show.",
+    {
+      "entities": [
+        [
+          17,
+          23,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "March and April, city-wide: Starkbierfest is held for three weeks during Lent, between Carnival and Easter, celebrating Munich's “strong beer”.",
+    {
+      "entities": [
+        [
+          120,
+          126,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It became a public festival in 1751 and is now the second largest beer festival in Munich.",
+    {
+      "entities": [
+        [
+          83,
+          89,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "July, English Garden:Traditionally a ball for Munich's domestic servants, cooks, nannies, and other household staff, Kocherlball, or ‘cook’s ball’ was a chance for the lower classes to take the morning off and dance together before the families of their households woke up.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It now runs between 6 and 10 am the third Sunday in July at the Chinese Tower in Munich's English Garden.",
+    {
+      "entities": [
+        [
+          81,
+          87,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "September and October, Theresienwiese: The largest beer festival in the world, Munich's Oktoberfest runs for 16–18 days from the end of September through early October.",
+    {
+      "entities": [
+        [
+          79,
+          85,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are 14 beer tents which together can seat 119,000 attendees at a time, and serve beer from the six major breweries of Munich: Augustiner, Hacker-Pschorr, Löwenbräu, Paulaner, Spaten and Staatliches Hofbräuhaus.",
+    {
+      "entities": [
+        [
+          124,
+          130,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "November and December, city-wide: Munich's Christmas Markets, or Christkindlmärkte, are held throughout the city from late November until Christmas Eve, the largest spanning the Marienplatz and surrounding streets.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Late-July to mid-August, city-wide: Mini-Munich provides kids ages 7–15 with the opportunity to participate in a Spielstadt, the German term for a miniature city composed almost entirely of children.",
+    {
+      "entities": [
+        [
+          41,
+          47,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The experimental game was invented in Munich in the 1970s and has since spread to other countries like Egypt and China.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Coopers' Dance (German: Schäfflertanz) is a guild dance of coopers originally started in Munich.",
+    {
+      "entities": [
+        [
+          93,
+          99,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 2001, historically interesting places in Munich can be explored via the cultural history trails (KulturGeschichtsPfade).",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sign-posted cycle routes are the Outer Äußere Radlring (outer cycle route) and the RadlRing München.",
+    {
+      "entities": [
+        [
+          92,
+          99,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Munich cuisine contributes to the Bavarian cuisine.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich Weisswurst (\"white sausage\", German: Münchner Weißwurst) was invented here in 1857.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is a Munich speciality.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich offers 11 restaurants that have been awarded one or more Michelin stars in the Michelin Guide of 2021.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is known for its breweries and the Weissbier (or Weißbier / Weizenbier, wheat beer) is a speciality from Bavaria.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Helles, a pale lager with a translucent gold colour is the most popular Munich beer today, although it's not old (only introduced in 1895) and is the result of a change in beer tastes.",
+    {
+      "entities": [
+        [
+          72,
+          78,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Helles has largely replaced Munich's dark beer, Dunkles, which gets its colour from roasted malt.",
+    {
+      "entities": [
+        [
+          28,
+          34,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It was the typical beer in Munich in the 19th century, but it is now more of a speciality.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Starkbier is the strongest Munich beer, with 6%–9% alcohol content.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Biergärten (beer gardens) are popular fixtures of Munich's gastronomic landscape.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are many smaller beer gardens and around twenty major ones, providing at least a thousand seats, with four of the largest in the Englischer Garten: Chinesischer Turm (Munich's second-largest beer garden with 7,000 seats), Seehaus, Hirschau and Aumeister.",
+    {
+      "entities": [
+        [
+          173,
+          179,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "There are six main breweries in Munich: Augustiner-Bräu, Hacker-Pschorr, Hofbräu, Löwenbräu, Paulaner and Spaten-Franziskaner-Bräu (separate brands Spaten and Franziskaner, the latter of which mainly for Weissbier).",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Also much consumed, though not from Munich and thus without the right to have a tent at the Oktoberfest, are Tegernseer and Schneider Weisse, the latter of which has a major beer hall in Munich.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "ENTITY"
+        ],
+        [
+          187,
+          193,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Smaller breweries are becoming more prevalent in Munich, such as Giesinger Bräu.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Circus Krone based in Munich is one of the largest circuses in Europe.",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nightlife in Munich is located mostly in the boroughs Ludwigsvorstadt-Isarvorstadt, Maxvorstadt, Au-Haidhausen, Berg am Laim and Sendling.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Between Sendlinger Tor and Maximiliansplatz, on the edge of the central Altstadt-Lehel district, there is also the so-called Feierbanane (party banana), a roughly banana-shaped unofficial party zone spanning 1.3 km (0.8 mi) along Sonnenstraße, characterized by a high concentration of clubs, bars and restaurants, which became the center of Munich's nightlife in the mid-2000s.",
+    {
+      "entities": [
+        [
+          341,
+          347,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the 1960s and 1970s, Schwabing was considered a center of nightlife in Germany, with internationally known clubs such as Big Apple, PN hit-house, Domicile, Hot Club, Piper Club, Tiffany, Germany's first large-scale discotheque Blow Up and the underwater nightclub Yellow Submarine,  and Munich has been called \"New York's big disco sister\" in this context.",
+    {
+      "entities": [
+        [
+          290,
+          296,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since the 1960s, the Rosa Viertel (pink quarter) developed in the Glockenbachviertel and around Gärtnerplatz, which in the 1980s made Munich \"one of the four gayest metropolises in the world\" along with San Francisco, New York City and Amsterdam.",
+    {
+      "entities": [
+        [
+          134,
+          140,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "One of them was the travesty nightclub Old Mrs. Henderson, where Freddie Mercury, who lived in Munich from 1979 to 1985, filmed the music video for the song Living on My Own at his 39th birthday party.",
+    {
+      "entities": [
+        [
+          95,
+          101,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since the mid-1990s, the Kunstpark Ost and its successor Kultfabrik, a former industrial complex that was converted to a large party area near München Ostbahnhof in Berg am Laim, hosted more than 30 clubs and was especially popular among younger people from the metropolitan area surrounding Munich and tourists.",
+    {
+      "entities": [
+        [
+          143,
+          150,
+          "ENTITY"
+        ],
+        [
+          292,
+          298,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Before the Kunstpark Ost, there had already been an accumulation of internationally known nightclubs in the remains of the abandoned former Munich-Riem Airport.",
+    {
+      "entities": [
+        [
+          140,
+          146,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich nightlife tends to change dramatically and quickly.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Beyond the already mentioned venues of the 1960s and 1970s, nightclubs with international recognition in recent history included Tanzlokal Größenwahn, Atomic Cafe and the techno clubs Babalu Club, Ultraschall, KW – Das Heizkraftwerk, Natraj Temple, MMA Club (Mixed Munich Arts), Die Registratur and Bob Beaman.",
+    {
+      "entities": [
+        [
+          265,
+          271,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "From 1995 to 2001, Munich was also home to the Union Move, one of the largest technoparades in Germany.",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has the highest density of music venues of any German city, followed by Hamburg, Cologne and Berlin.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is a leading location for science and research with a long list of Nobel Prize laureates from Wilhelm Conrad Röntgen in 1901 to Theodor Hänsch in 2005.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has become a spiritual centre already since the times of Emperor Louis IV when philosophers like Michael of Cesena, Marsilius of Padua and William of Ockham were protected at the emperor's court.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Ludwig Maximilian University (LMU) and the Technische Universität München (TUM), were two of the first three German universities to be awarded the title elite university by a selection committee composed of academics and members of the Ministries of Education and Research of the Federation and the German states (Länder).",
+    {
+      "entities": [
+        [
+          70,
+          77,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Only the two Munich universities and the Technical University of Karlsruhe (now part of Karlsruhe Institute of Technology) have held this honour, and the implied greater chances of attracting research funds, since the first evaluation round in 2006.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Grundschulen in Munich:",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gymnasien in Munich:",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Realschulen in Munich:",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "International schools in Munich:",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Max Planck Society, an independent German non-profit research organisation, has its administrative headquarters in Munich.",
+    {
+      "entities": [
+        [
+          119,
+          125,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The following institutes are located in the Munich area:",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Fraunhofer Society, the German non-profit research organization for applied research, has its headquarters in Munich.",
+    {
+      "entities": [
+        [
+          114,
+          120,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The following institutes are located in the Munich area:",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has the strongest economy of any German city according to a study and the lowest unemployment rate (5.4% in July 2020) of any German city of more than a million people (the others being Berlin, Hamburg and Cologne).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich ranks third on the list of German cities by gross domestic product (GDP).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich topped the ranking of the magazine Capital in February 2005 for the economic prospects between 2002 and 2011 in 60 German cities.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is a financial center and global city that holds the headquarters of many companies.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "One of the best-known newly established Munich companies is Flixbus.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich holds the headquarters of Siemens AG (electronics), BMW (car), MAN AG (truck manufacturer, engineering), MTU Aero Engines (aircraft engine manufacturer), Linde (gases) and Rohde & Schwarz (electronics).",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Among German cities with more than 500,000 inhabitants, purchasing power is highest in Munich (€26,648 per inhabitant) as of 2007[update].",
+    {
+      "entities": [
+        [
+          87,
+          93,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2006, Munich blue-collar workers enjoyed an average hourly wage of €18.62 (ca.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The breakdown by cities proper (not metropolitan areas) of Global 500 cities listed Munich in 8th position in 2009.",
+    {
+      "entities": [
+        [
+          84,
+          90,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is also a centre for biotechnology, software and other service industries.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Furthermore, Munich is the home of the headquarters of many other large companies such as the injection moulding machine manufacturer Krauss-Maffei, the camera and lighting manufacturer Arri, the semiconductor firm Infineon Technologies (headquartered in the suburban town of Neubiberg), lighting giant Osram, as well as the German or European headquarters of many foreign companies such as Microsoft.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has significance as a financial centre (second only to Frankfurt), being home of HypoVereinsbank and the Bayerische Landesbank.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It outranks Frankfurt though as home of insurance companies such as Allianz (insurance) and Munich Re (re-insurance).",
+    {
+      "entities": [
+        [
+          92,
+          98,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is the largest publishing city in Europe and home to the Süddeutsche Zeitung, one of Germany's biggest daily newspapers.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The headquarters of the German branch of Random House, the world's largest publishing house, and of Burda publishing group are also in Munich.",
+    {
+      "entities": [
+        [
+          135,
+          141,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Most Munich residents enjoy a high quality of life.",
+    {
+      "entities": [
+        [
+          5,
+          11,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mercer HR Consulting consistently rates the city among the top 10 cities with the highest quality of life worldwide – a 2011 survey ranked Munich as 4th.",
+    {
+      "entities": [
+        [
+          139,
+          145,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2007 the same company also ranked Munich as the 39th most expensive in the world and most expensive major city in Germany.",
+    {
+      "entities": [
+        [
+          37,
+          43,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich enjoys a thriving economy, driven by the information technology, biotechnology, and publishing sectors.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Due to the high standard of living in and the thriving economy of the city and the region, there was an influx of people and Munich's population surpassed 1.5 million by June 2015, an increase of more than 20% in 10 years.[citation needed]",
+    {
+      "entities": [
+        [
+          125,
+          131,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich has an extensive public transport system consisting of an underground metro, trams, buses and high-speed rail.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2015, the transport modal share in Munich was 38 percent public transport, 25 percent car, 23 percent walking, and 15 percent bicycle.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is the hub of a well-developed regional transportation system, including the second-largest airport in Germany and the Berlin–Munich high-speed railway, which connects Munich to the German capital city with a journey time of about 4 hours.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ],
+        [
+          133,
+          139,
+          "ENTITY"
+        ],
+        [
+          175,
+          181,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The trade fair transport logistic is held every two years at the Neue Messe München (Messe München International).",
+    {
+      "entities": [
+        [
+          76,
+          83,
+          "ENTITY"
+        ],
+        [
+          91,
+          98,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Flixmobility which offers intercity coach service is headquartered in Munich.",
+    {
+      "entities": [
+        [
+          70,
+          76,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "For its urban population of 2.6 million people, Munich and its closest suburbs have a comprehensive network of public transport incorporating the Munich U-Bahn (underground railway), the Munich S-Bahn (suburban trains), trams and buses.",
+    {
+      "entities": [
+        [
+          48,
+          54,
+          "ENTITY"
+        ],
+        [
+          146,
+          152,
+          "ENTITY"
+        ],
+        [
+          187,
+          193,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The system is supervised by the Munich Transport and Tariff Association (Münchner Verkehrs- und Tarifverbund GmbH).",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Munich tramway is the oldest existing public transportation system in the city, which has been in operation since 1876.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich also has an extensive network of bus lines.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The average amount of time people spend commuting to and from work with public transit in Munich on a weekday is 56 min. 11% of public transit users, spend more than two hours travelling each day.",
+    {
+      "entities": [
+        [
+          90,
+          96,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "München Hauptbahnhof is the main railway station located in the city centre and is one of three long-distance stations in Munich, the others being München Ost (to the east) and München-Pasing (to the west).",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ],
+        [
+          122,
+          128,
+          "ENTITY"
+        ],
+        [
+          147,
+          154,
+          "ENTITY"
+        ],
+        [
+          177,
+          184,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "München Hauptbahnhof serves about 450,000 passengers a day, which puts it on par with other large stations in Germany, such as Hamburg Hauptbahnhof and Frankfurt Hauptbahnhof.",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It and München Ost are two of the 21 stations in Germany classified by Deutsche Bahn as a category 1 station.",
+    {
+      "entities": [
+        [
+          7,
+          14,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "ICE highspeed trains stop at Munich-Pasing and Munich-Hauptbahnhof only.",
+    {
+      "entities": [
+        [
+          29,
+          35,
+          "ENTITY"
+        ],
+        [
+          47,
+          53,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "InterCity and EuroCity trains to destinations east of Munich also stop at Munich East.",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "ENTITY"
+        ],
+        [
+          74,
+          80,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Since 28 May 2006 Munich has been connected to Nuremberg via Ingolstadt by the 300 km/h (186 mph)",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nuremberg–Munich high-speed railway line.",
+    {
+      "entities": [
+        [
+          10,
+          16,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2017, the Berlin–Munich high-speed railway opened, providing a journey time of less than 4 hours between the two German cities.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is an integral part of the motorway network of southern Germany.",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Motorways from Stuttgart (W), Nuremberg, Frankfurt and Berlin (N), Deggendorf and Passau (E), Salzburg and Innsbruck (SE), Garmisch Partenkirchen (S) and Lindau (SW) terminate at Munich, allowing direct access to the different parts of Germany, Austria and Italy.",
+    {
+      "entities": [
+        [
+          179,
+          185,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Traffic, however, is often very heavy in and around Munich.",
+    {
+      "entities": [
+        [
+          52,
+          58,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "It replaced the smaller Munich-Riem airport in 1992.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "In 2008, the Bavarian state government granted a licence to expand Oberpfaffenhofen Air Station located west of Munich, for commercial use.",
+    {
+      "entities": [
+        [
+          112,
+          118,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "These plans were opposed by many residents in the Oberpfaffenhofen area as well as other branches of local Government, including the city of Munich, which took the case to court.",
+    {
+      "entities": [
+        [
+          141,
+          147,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Despite being 110 km (68 mi) from Munich, Memmingen Airport has been advertised as Airport Munich West.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "ENTITY"
+        ],
+        [
+          91,
+          97,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "After 2005, passenger traffic of nearby Augsburg Airport was relocated to Munich Airport, leaving the Augsburg region of Bavaria without an air passenger airport within close reach.",
+    {
+      "entities": [
+        [
+          74,
+          80,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Munich agglomeration sprawls across the plain of the Alpine foothills comprising about 2.6 million inhabitants.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Several smaller traditional Bavarian towns and cities like Dachau, Freising, Erding, Starnberg, Landshut and Moosburg are today part of the Greater Munich Region, formed by Munich and the surrounding districts, making up the Munich Metropolitan Region, which has a population of about 6 million people.",
+    {
+      "entities": [
+        [
+          148,
+          154,
+          "ENTITY"
+        ],
+        [
+          173,
+          179,
+          "ENTITY"
+        ],
+        [
+          225,
+          231,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "South of Munich, there are numerous nearby freshwater lakes such as Lake Starnberg, Ammersee, Chiemsee, Walchensee, Kochelsee, Tegernsee, Schliersee, Simssee, Staffelsee, Wörthsee, Kirchsee and the Osterseen (Easter Lakes), which are popular among Munich residents for recreation, swimming and watersports and can be quickly reached by car and a few also by Munich's S-Bahn.",
+    {
+      "entities": [
+        [
+          9,
+          15,
+          "ENTITY"
+        ],
+        [
+          248,
+          254,
+          "ENTITY"
+        ],
+        [
+          358,
+          364,
+          "ENTITY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Munich is twinned with:",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ENTITY"
+        ]
+      ]
+    }
+  ]
+]

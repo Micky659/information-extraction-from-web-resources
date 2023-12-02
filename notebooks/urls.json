@@ -1,0 +1,30 @@
+{
+  "berlin" : [
+    "https://www.berlin.de/en/",
+    "https://en.wikipedia.org/wiki/Berlin",
+    "https://www.visitberlin.de/en",
+    "https://www.bvg.de/en",
+    "https://www.germany.travel/en/cities-culture/berlin.html",
+    "https://allaboutberlin.com/",
+    "https://allaboutberlin.com/guides/visit-berlin",
+    "https://berlin-enjoy.com/about-berlin-enjoy/",
+    "https://www.viveberlintours.com/en/"
+  ],
+
+  "munich" : [
+    "https://en.wikipedia.org/wiki/Munich",
+    "https://www.muenchen.de/en/home",
+    "https://www.munich.travel/en",
+    "https://absolutemunich.com/blog/",
+    "https://munichmanual.com/",
+    "https://www.introducingmunich.com/",
+    "https://munichmap360.com/munich-map",
+    "https://munich-info.info/districts_munich/",
+    "https://www.destination-munich.com/map-of-munich.html",
+    "https://www.britannica.com/place/Munich-Bavaria-Germany",
+    "https://www.tripadvisor.com/Tourism-g187309-Munich_Upper_Bavaria_Bavaria-Vacations.html",
+    "https://www.munich-airport.com/",
+    "https://www.germany.travel/en/cities-culture/munich.htm",
+    "https://www.timeout.com/munich/things-to-do/munich-travel-tips"
+  ]
+}
